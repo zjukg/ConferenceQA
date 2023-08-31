@@ -1,0 +1,62 @@
+[
+    {
+        "question": "How frequently is the WWW2023 conference held?",
+        "answer": "WWW2023 is a yearly international academic conference.",
+        "from": "WWW2023/Home/introduction"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "All speakers, presenters, organizers participating in any way at The Web Conference are expected to attend the conference in person. For exceptional reasons, if you are not able to attend in person to present, you may assign a proxy who must be in person. For special cases, we may make an exception for a live remote presentation. (UPDATE: As of April 26, due to logistical situations, we are not able to accommodate anymore remote presentations)",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Is there any page limit of the manuscript",
+        "answer": "For the research tracks, submissions are limited to 8 content pages, which should include all figures and tables referenced within those 8 pages. In addition, you can include up to 2 pages of appendices, plus additional pages for references, until completing a maximum of 12 pages. The total count of pages of your submission must not exceed 12 pages. ",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/SubmissionGuidelines"
+    },
+    {
+        "question": "How can I contact the conference organizers if I have further questions or concerns?",
+        "answer": "You can contact general chairs at chairs2023@thewebconf.org.",
+        "from": "WWW2023/About/Organizing Committee/GENERAL CHAIRS/contact"
+    },
+    {
+        "question": "Will the conference proceedings be published, and if so, how can one access them?",
+        "answer": "All accepted papers will be published by ACM and will be accessible via the ACM Digital Library.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/PublicationPolicy/PublicationByACM"
+    },
+    {
+        "question": "Where can I browse papers related to this conference after the conference?",
+        "answer": "The full proceedings and companion proceedings of The ACM Web Conference 2023 are available through the SIGWEB. And the website is https://www.sigweb.org/conferences/acm-sigweb-conferences/the-web-conference.",
+        "from": "WWW2023/Proceedings/description"
+    },
+    {
+        "question": "Is there any post-conference access to keynotes or talks",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Will there be live-streamed sessions for those who can't attend in person?",
+        "answer": " Yes",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Will a student travel grant application be accepted if it is submitted late?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/notice"
+    },
+    {
+        "question": "Can non-students apply for the Virtual Participation Award?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Eligibility"
+    },
+    {
+        "question": "What is the policy regarding preprints or non-archival venues for submissions to The Web Conference 2023 in Industry Track?",
+        "answer": "Authors are welcome to submit papers that have been published as a preprint on arXiv, or in a non-archival venue like a workshop.",
+        "from": "WWW2023/calls/Call For Industry Proposals/Submission guidelines"
+    },
+    {
+        "question": "When was the Call for Papers announced for the conference?",
+        "answer": "The Call for Papers was announced on September 6, 2022.",
+        "from": "WWW02023/Important Dates/September 2022"
+    }
+]

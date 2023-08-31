@@ -1,0 +1,159 @@
+{
+    "QAs": [
+        {
+            "question": "Which sponsorship level requires the highest amount of sponsorship?",
+            "answer": "Diamond Sponsor.",
+            "from":"SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "How large of logos can Amazon display on the conference banner/kiosk?",
+            "answer": "Amazon can display extra-large logos on the conference banner/kiosk.",
+            "from":"SIGMOD2023/Welcome/Homepage/SIGMOD&PODS 2023: Sponsors, SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "How large of logos can Alibaba Cloud display on the conference banner/kiosk?",
+            "answer": "Alibaba Cloud can display large logos on the conference banner/kiosk.",
+            "from":"SIGMOD2023/Welcome/Homepage/SIGMOD&PODS 2023: Sponsors, SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "How many members of the Conference Officers are from Amazon?",
+            "answer": "Five.",
+            "from":"SIGMOD2023/Organization/Conference Officers"
+        },
+        {
+            "question": "Do members of the Chairs of the SIGMOD Industrial Program Committee have the same affiliation?",
+            "answer": "No.",
+            "from":"SIGMOD2023/Organization/SIGMOD Industrial Program Committee/Chairs"
+        },
+        {
+            "question": "Can Amazon give a talk in an onsite sponsor session during the main conference days?",
+            "answer": "Yes.",
+            "from":"SIGMOD2023/Welcome/Homepage/SIGMOD&PODS 2023: Sponsors, SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels/0/Benefits"
+        },
+        {
+            "question": "How many sponsors in total can give a talk in an onsite sponsor session during the main conference days?",
+            "answer": "Eight.",
+            "from":"SIGMOD2023/Welcome/Homepage/SIGMOD&PODS 2023: Sponsors, SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "Which benefit can all the Publishers/Exhibitors have?",
+            "answer": "Logo on conference website.",
+            "from":"SIGMOD2023/Organization/Sponsor Opportunities/Publishers&Exhibitors Levels"
+        },
+        {
+            "question": "If a sponsor wants to name the student poster session and the coffee break, how much will the sponsor have to spend in total?",
+            "answer": "$25K.",
+            "from":"SIGMOD2023/Organization/Sponsor Opportunities/Additional Sponsorships"
+        },
+        {
+            "question": "How many workshops will be held in total?",
+            "answer": "Ten.",
+            "from":"SIGMOD2023/Special and Co-located Events/Affiliated Workshops"
+        },
+        {
+            "question": "If I am a student but not an ACM member, how much will I have to at least spend if I want to go to the workshops as well as the banquet?",
+            "answer": "$400.",
+            "from":"SIGMOD2023/Participant Information/Fees/Workshops Only,SIGMOD2023/Participant Information/Fees/Additional Banquet Ticket"
+        },
+        {
+            "question": "If I am an ACM professional member, how much will I have to at least spend if I only want to go to the workshops?",
+            "answer": "$300.",
+            "from":"SIGMOD2023/Participant Information/Fees/Workshops Only/2"
+        },
+        {
+            "question": "If an ACM student member registers for the workshop and the full conference during the Early Bird period, what is the total cost?" ,
+            "answer": "$700",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "What is the difference in cost between an ACM student member and a non-ACM-member student for the Workshop during the Early Bird period?" ,
+            "answer": "$25",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "How much can an ACM student member save if the student register for the full conference during the Early Bird period compared to on May 15, 2023?" ,
+            "answer": "$250",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "If an ACM professional member attends the full Conference and also registers for the Workshop during the Early Bird period, what would be the total cost?" ,
+            "answer": "$1200",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "What is the average difference in full conference registration fees between ACM student members and non-ACM-member student?",
+            "answer": "$150",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "Which kind of the ticket is the cheapest to go to the full conference and banquet?",
+            "answer": "The early bird ticket for ACM Student Members.",
+            "from":"SIGMOD2023/Participant Information/Fees/Full Conference Only [Includes Banquet Ticket]"
+        },
+        {
+            "question": "Will registration fees change over time?",
+            "answer": "Yes.",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "Can I register for this conference with different time slots?",
+            "answer": "Yes.",
+            "from": "SIGMOD2023/Participant Information"
+        },
+        {
+            "question": "Can an ACM student member register for the full conference on June 12th at 10:45 pm? If so, how much should the student pay?",
+            "answer": "Yes, and the student should pay $800.",
+            "from": "SIGMOD2023/Participant Information/Registration/deadline, SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "How much would it cost for 5 ACM students to attend the full conference, if they buy tickets on May 2,2023?" ,
+            "answer": "$3750",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "Which hotel is the farthest among all the other nearby accommodations?",
+            "answer": "Hilton Bellevue.",
+            "from":"SIGMOD2023/Participant Information/Accommodations/other nearby accommodations"
+        },
+        {
+            "question": "Where can the participants have their breakfast on the first day of the conference?",
+            "answer": "Evergreen Foyer.",
+            "from":"SIGMOD2023/SIGMOD Program/Program Overview"
+        },
+        {
+            "question": "How many coffee breaks will there be each day of the conference?",
+            "answer": "Two.",
+            "from": "SIGMOD2023/SIGMOD Program/Program Overview"
+        },
+        {
+            "question": "How long will the coffee break last each time?",
+            "answer": "Half an hour.",
+            "from": "SIGMOD2023/SIGMOD Program/Program Overview"
+        },
+        {
+            "question": "How many sessions are there in SIGMOD's research session?",
+            "answer": "31.",
+            "from": "SIGMOD2023/SIGMOD Program/Detailed Program/Research Sessions"
+        },
+        {
+            "question": "How many days are there between the Notification of accept/reject/revision deadline and the Paper submission deadline of SIGMOD's Industrial Track Papers?",
+            "answer": "57 days.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Important Dates(All deadlines below are 5 PM Pacific Time)"
+        },
+        {
+            "question": "How many authors from Zhejiang University have received the award of SIGMOD Research Track Best Paper?",
+            "answer": "4.",
+            "from": "SIGMOD2023/SIGMOD Program/Awards/SIGMOD Research Track Best Papers"
+        },
+        {
+            "question": "Are there any co-located Events organized alongside the main conference?",
+            "answer": "Yes.",
+            "from": "SIGMOD2023/Special and Co-located Events"
+        },
+        {
+            "question": "Are there any research sessions of the conference related to knowledge graph?",
+            "answer": "Yes.",
+            "from": "SIGMOD2023/SIGMOD Program/Detailed Program/Research Sessions"
+        }
+    ]
+}

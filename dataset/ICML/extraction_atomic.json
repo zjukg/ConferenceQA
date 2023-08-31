@@ -1,0 +1,130 @@
+{
+    "QAs": [
+        {
+            "question": "What is the date of the ICML2023 conference?",
+            "answer": "Sun Jul 23rd through Sat the 29th",
+            "from": "ICML2023/Year(2023)/date"
+        },
+        {
+            "question": "What is the location of the ICML2023 conference?",
+            "answer": "Hawaii Convention Center, Honolulu",
+            "from": "ICML2023/Year(2023)/location"
+        },
+        {
+            "question": "When is the registration open",
+            "answer": "Feb 03 '23 04:00 AM HST *",
+            "from": "ICML2023/Year(2023)/Registration/Important Dates"
+        },
+        {
+            "question": "What is the deadline for Workshop Application?",
+            "answer": "Feb 16 '23 (Anywhere on Earth)",
+            "from": "ICML2023/Dates/ICML 2023 Meeting Dates/Dates by Category/Workshops"
+        },
+
+        {
+            "question": "What is the full name of this conference?",
+            "answer": "The Fortieth International Conference on Machine Learning",
+            "from": "ICML2023/Year(2023)/full name"
+        },
+        {
+            "question": "When does the period of rebuttal end?",
+            "answer": "Mar 19 '23 07:00 PM UTC",
+            "from": "ICML2023/Dates/ICML 2023 Meeting Dates/Dates by Category/Paper Submissions"
+        },
+        {
+            "question": "Who are the tutorial chairs?",
+            "answer": "Bo Li, Hanie Sedghi, Martin Jaggi",
+            "from": "ICML2023/Calls/Call For Tutorials"
+        },
+        {
+            "question": "What is the notification date for workshop?",
+            "answer": "March 16, 2023",
+            "from": "ICML2023/Calls/Call For Workshops/Submission Instructions/Important dates for workshop submissions"
+        },
+        {
+            "question": "Can the conference provide visa letter for attendees?",
+            "answer": "No",
+            "from": "ICML2023/Calls/Call For Socials"
+        },
+        {
+            "question": "When is the deadline for Tutorial Proposal Submission?",
+            "answer": "Feb 17 '23 (Anywhere on Earth)",
+            "from": "ICML2023/Dates/ICML 2023 Meeting Dates/Dates by Category/Tutorials"
+        },
+        {
+            "question": "When is the deadline for Full paper submission?",
+            "answer": "Jan 26th, 2023 3pm EST",
+            "from": "ICML2023/Calls/Call For Papers/Important Dates"
+        },
+        {
+            "question": "If the paper is chosen to be oral, how long will it be presented?",
+            "answer": "8 mins",
+            "from": "ICML2023/Calls/Call For Papers/Author Instructions"
+        },
+        {
+            "question": "What is the deadline of the poster printing service",
+            "answer": "June 22",
+            "from": "ICML2023/Calls/Call For Papers/Author Instructions/Posters/Poster Printing/Poster Printing Service"
+        },
+        {
+            "question": "How can I contact tutorial chairs?",
+            "answer": "You can contact them at tutorial@icml.cc",
+            "from": "ICML2023/Calls/Call For Tutorials"
+        },
+        {
+            "question":"How can I find 2023 accepted workshops",
+            "answer":"You can find at https://icml.cc/Conferences/2023/Schedule?type=Workshop.",
+            "from":"ICML2023/Calls/Call For Workshops/2023 accepted workshops"
+        },
+        {
+            "question": "How old can eligible journal papers be?",
+            "answer": "The paper must have been published by JMLR no earlier than January 1st 2022.",
+            "from":"ICML2023/Journal to Conference Track/Request to present/FAQ"
+        },
+        {
+            "question": "What is the deadline to submit a request to present at NeurIPS 2022 conference?",
+            "answer": "September 8th 2022",
+            "from":"ICML2023/Journal to Conference Track/Request to present/Each conference has its ow deadline for receiving requests, as follows"
+        },
+        {
+            "question": "What is the deadline to submit a request to present at ICML 2023 conference",
+            "answer": "April 24th 2023",
+            "from": "ICML2023/Journal to Conference Track/Request to present/Each conference has its ow deadline for receiving requests, as follows"
+        },
+        {
+            "question": "When does Workshop submissions open?",
+            "answer": "February 1, 2023",
+            "from": "ICML2023/Calls/Call For Workshops/Submission/Instructions/Important dates for workshop submissions"
+        },
+        {
+            "question":"Does ICML2023 offer Child Care?",
+            "answer":"yes",
+            "from":"ICML2023/Attend/Child Care"
+        },
+        {
+            "question": "When is the deadline for Poster Printing?",
+            "answer": "Jun 22 '23 (Anywhere on Earth)",
+            "from": "ICML2023/Year(2023)/Registration/Important Dates"
+        },
+        {
+            "question": "When is the deadline for Social Deadline Date?",
+            "answer": "Jun 11 '23 (Anywhere on Earth)",
+            "from": "ICML2023/Year(2023)/Registration/Important Dates"
+        },
+        {
+            "question": "When is the Last chance for a refund on registration fees?",
+            "answer": "Jul 01 '23 01:59 PM HST *",
+            "from": "ICML2023/Year(2023)/Registration/Important Dates"
+        },
+        {
+            "question": "How much does an exhibitor cost to become a diamond level",
+            "answer": "$100,000 USD",
+            "from":"ICML2023/Exhibitor Info/Exhibitor Levels/Diamond"
+        },
+        {
+            "question": "For reviewers, can we ask LLMs to help review the papers?",
+            "answer":"No",
+            "from":"ICML2023/Resources/Reviewer Tutorial/Policy on Large Language Models (LLMs) for ICML 2023 Reviewing"
+        }
+    ]
+}

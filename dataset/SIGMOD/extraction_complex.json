@@ -1,0 +1,109 @@
+{
+    "QAs": [
+        {
+            "question": "Who are the sponsors of the 2023 ACM SIGMOD/PODS?",
+            "answer": "The Diamond Sponsor of the 2023 ACM SIGMOD/PODS is Amazon. The Platinum Sponsors include Databricks, confluent, salesforce, Alibaba Cloud, Apple, Google and Microsoft. The Platinum Sponsors include Databricks, confluent, salesforce, Alibaba Cloud, Apple, Google and Microsoft. The Gold Sponsors include ebay, Meta, HUAWEI, ORACLE, Snowflake, ByteDance, OCEANBASE and Celonis. The silver sponsors include MotherDuck, SingleStore, CockroachDB, Aerospike, Megagon Labs, CelerData and Undo. The Diversity & Inclusion Sponsors are Amazon and Microsoft. The Student Travel Award Sponsor is NSF",
+            "from": "SIGMOD2023/Welcome/Homepage/SIGMOD&PODS 2023: Sponsors"
+        },
+        {
+            "question": "Who are the chairs of the 2023 ACM SIGMOD/PODS?",
+            "answer": "The SIGMOD General Co-chairs are Sudipto Das and Ippokratis Pandis. The SIGMOD Program Co-chairs are K. Selcuk Candan and Sihem Amer-Yahia. The PODS General Chair is Floris Geerts. The PODS Program Chair is Hung Ngo.",
+            "from": "SIGMOD2023/Welcome/Homepage/chairs"
+        },
+        {
+            "question": "What are all the sponsorship levels?",
+            "answer": "There are Diamond Sponsor, Platinum Sponsor, Gold Sponsor and Silver Sponsor.",
+            "from": "SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "What are all the Publishers/Exhibitors Levels?",
+            "answer": "There are Platinum, Gold and Silver.",
+            "from": "SIGMOD2023/Organization/Sponsor Opportunities/Publishers&Exhibitors Levels"
+        },
+        {
+            "question": "Who are the members of the Chairs of the SIGMOD Availability & Reproducibility Organization?",
+            "answer": "Manos Athanassoulis and Holger Pirk.",
+            "from": "SIGMOD2023/Welcome/Reproducibility/SIGMOD Availability & Reproducibility Organization/Chairs"
+        },
+        {
+            "question": "Who are the members of the Advisory Committee of the SIGMOD Availability & Reproducibility Organization?",
+            "answer": "Juliana Freire, Stratos Idreos and Dennis Shasha.",
+            "from": "SIGMOD2023/Welcome/Reproducibility/SIGMOD Availability & Reproducibility Organization/Advisory Committee"
+        },
+        {
+            "question": "Who are the members of the Awards Committee of the SIGMOD Availability & Reproducibility Organization?",
+            "answer": "Dennis Shasha (chair), Asterios Katsifodimos, Torsten Grust and Juan Lastra-Díaz.",
+            "from": "SIGMOD2023/Welcome/Reproducibility/SIGMOD Availability & Reproducibility Organization/Awards Committee"
+        },
+        {
+            "question": "Who are the members of the SIGMOD General Chairs?",
+            "answer": "Sudipto Das and Ippokratis Pandis.",
+            "from": "SIGMOD2023/Organization/Conference Officers/SIGMOD General Chairs"
+        },
+        {
+            "question": "Who are the members of the SIGMOD Proceedings Chairs?",
+            "answer": "Zhichao Cao and Juan Lastra-Díaz.",
+            "from": "SIGMOD2023/Organization/Conference Officers/SIGMOD Proceedings Chairs"
+        },
+        {
+            "question": "How large of logos can sponsors display on the conference banner/kiosk for each sponsorship level?",
+            "answer": "Diamond Sponsors can display extra-large logos. Platinum Sponsors can display large logos. Gold Sponsors can display medium logos. Silver Sponsors can display small logos.",
+            "from": "SIGMOD2023/Organization/Sponsor Opportunities/Sponsorship Levels"
+        },
+        {
+            "question": "What are the stages of the Student Research Competition?",
+            "answer": "The stages of the Student Research Competition include the first round, which is the abstract submission; the second round, which is the poster presentation; the third round, which is the research talk; and the grand finals.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/The Competition"
+        },
+        {
+            "question": "What are the dates of the affiliated workshops?",
+            "answer": "Sunday, June 18, 2023; Monday, June 19, 2023; and Friday, June 23, 2023.",
+            "from": "SIGMOD2023/Special and Co-located Events/Affiliated Workshops"
+        },
+        {
+            "question": "What are the important dates of the Programming Contest for April 2023",
+            "answer": "The final submission deadline is April 15, 2023 (Eastern Standard Time), and the finalists will be notified on April 20, 2023.",
+            "from": "SIGMOD2023/Special and Co-located Events/Programming Contest/Important Dates"
+        },
+        {
+            "question": "What are the popular dining recommendations around the Lincoln Square?",
+            "answer": "There are Ascend Prime Steak & Sushi, Cantina Monarca, Din Tai Fung, Duke’s Seafood, Forum Social House and TopGolf, Lucky Strike, STK Steakhouse and Japonessa Sushi Cocina.",
+            "from": "SIGMOD2023/Participant Information/Restaurants/Lincoln Square Dining Options (connected via skyway)/Popular recommendations"
+        },
+        {
+            "question": "What are all the sessions in PODS's Research Sessions?",
+            "answer": "There are Session 1: Test of Time Awards and Gems of PODS, Session 2: Query Languages & Transaction Processing, Session 3: Awards (Best Paper and Distinguished Papers), Session 4: Sampling and Streaming, Session 5: Differential privacy & distributed processing, Session 6: Queries and Graphs, Session 7: Query Processing and Session 8: Uncertainty.",
+            "from": "SIGMOD2023/PODS Program/Detailed Program/Research Sessions"
+        },
+        {
+            "question": "Who are the keynote speakers for the 2023 ACM SIGMOD/PODS?",
+            "answer": "The keynote speakers are Don Chamberlin, Vanessa Murdock, Shazia Sadiq and Shazia Sadiq.",
+            "from": "SIGMOD2023/PODS Program/Detailed Program/PODS Keynote/0/speaker"
+        },
+        {
+            "question": "How and when can I register for the 2023 ACM SIGMOD/PODS?",
+            "answer": "You can register through https://cvent.me/KXy4Qr. Make sure you register before the deadline June 12th at 11:45 pm.",
+            "from": "SIGMOD2023/Participant Information/Registration"
+        },
+        {
+            "question": "How much does an ACM student member have to pay if the student registers for the full conference during the Early Bird period?" ,
+            "answer": "$500",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "How much does an ACM professional member have to pay if the member registers for the full conference after June 11, 2023?",
+            "answer": "$1250",
+            "from": "SIGMOD2023/Participant Information/Fees"
+        },
+        {
+            "question": "Where can I browse papers related to this conference after the conference?",
+            "answer": "PACMMOD V1 publication containing peer reviewed research track and industrial papers can be accessed through https://dl.acm.org/journal/pacmmod. The companion proceeding containing all other contributions can be accessed through https://dl.acm.org/doi/proceedings/10.1145/3555041.",
+            "from": "SIGMOD2023/Welcome/Homepage/The Proceedings"
+        },
+        {
+            "question": "What are the special and co-located events organized alongside the conference?",
+            "answer": "Student Research Competition, Affiliated Workshops, Programming Contest and New Researchers Symposium.",
+            "from": "SIGMOD2023/Special and Co-located Events"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "QAs": [
+        {
+            "question": "What is the purpose of the IJCAI 2023 conference?",
+            "answer": "The purpose of IJCAI 2023 is to bring together the international AI research community to communicate and share advances and achievements in artificial intelligence.",
+            "from": "IJCAI 2023/Home/CALL FOR PAPERS"
+        },
+        {
+            "question": "What is the date of the IJCAI 2023 conference?",
+            "answer": "19th-25th August 2023",
+            "from": "IJCAI 2023/Home/TimeRange"
+        },
+        {
+            "question": "What is the location of the IJCAI 2023 conference?",
+            "answer": "The location of IJCAI 2023 is Macao, S.A.R.",
+            "from": "IJCAI 2023/Home/Summary"
+        },
+        {
+            "question": "Will there be any virtual components to the IJCAI 2023 conference?",
+            "answer": "We are looking forward to the community meeting in person. However, we are prepared to accommodate authors who cannot attend the conference because of travel restrictions or visa/passport issues.",
+            "from": "IJCAI 2023/Call For Demos/Selection Process/Participation in the conference"
+        },
+        {
+            "question": "What is the deadline for registration",
+            "answer": "The deadline for Early registration:June 19, 2023 (23:59 pm, AoE); for Late registration: July 19, 2023 (23:59 pm, AoE);for Onsite registration: August 25, 2023 (noon, CST)",
+            "from": "IJCAI 2023/Registration Information/Deadlines"
+        },
+        {
+            "question": "What is the deadline for submission in research tracks?",
+            "answer": "The full paper submission deadline is January 18, 2023, which is in the Anywhere On Earth, UTC-12.",
+            "from": "IJCAI 2023/calls/Call For Papers/0/ImportantDates (all times are Anywhere On Earth, UTC-12)/Full paper submission deadline:"
+        },
+        {
+            "question": "What is the notification date in research track?",
+            "answer": "The paper notification date is April 19, 2023, which is in the Anywhere On Earth, UTC-12.",
+            "from": "IJCAI 2023/calls/Call For Papers/0/ImportantDates (all times are Anywhere On Earth, UTC-12)/Paper notification:"
+        },
+        {
+            "question": "Will there be a closing ceremony or a special event at the end of the conference?",
+            "answer": "Yes, there will be a closing ceremony at the end of the conference.",
+            "from": "IJCAI 2023/program/Program at-a-glance"
+        },
+        {
+            "question": "when is the closing ceremony of this conference?",
+            "answer": "The closing ceremony of this conference is from 16:00pm to 17:00pm on August 25th.",
+            "from": "IJCAI 2023/program/Program at-a-glance"
+        },
+        {
+            "question": "Can the conference provide visa letter for attendees?",
+            "answer": "Yes",
+            "from": "IJCAI 2023/attending/Travel Information/Invitation Letter"
+        },
+        {
+            "question": "What are the eligibilities for applying for student travel award",
+            "answer": "To apply for the IJCAI Travel and Accessibility Grant Program, due to limited funds, applicants are required to seek support from their respective departments or local AI societies prior to applying for this grant. After the conference, in order to receive the grant, a post-conference report and receipts totaling the grant amount must be provided. In the event that the applications for the travel grant exceed the available funds, preference will be given firstly to students and other applicants who have a technical paper accepted, and then to students and other applicants who are actively participating in the conference in some manner.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program"
+        },
+        {
+            "question": "When is the application deadline for the student travel grant?",
+            "answer": "Deadline for student travel grants is May 19, 2023.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program"
+        },
+        {
+            "question": "What is the latest distribution time for student subsidy funds?",
+            "answer": "October 30.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program"
+        },
+        {
+            "question": "What are the rewards for students who participate in the IJCAI Student Volunteer Program?",
+            "answer": "Volunteers get a free student registration at the conference.",
+            "from": "IJCAI 2023/grants/Call for Volunteers"
+        },
+        {
+            "question": "What are the eligibility criteria for students wishing to participate in the IJCAI Student Volunteer Program?",
+            "answer": "Any full-time university student, at any level, may apply to participate, whether or not they are presenting a paper. However, priority will be given to those students who have accepted contribution to the IJCAI including main conference, workshop, tutorial, competition and so on.",
+            "from": "IJCAI 2023/grants/Call for Volunteers"
+        },
+        {
+            "question": "When this conference was first held?",
+            "answer": "The IJCAI was first conceived in 1969.",
+            "from": "IJCAI 2023/Home/CALL FOR PAPERS"
+        },
+        {
+            "question": "What is the full name of this conference?",
+            "answer": "International Joint Conference on Artificial Intelligence",
+            "from": "IJCAI 2023/Home/Summary"
+        },
+        {
+            "question": "What is the launch date for the IJCAI paper submission website?" ,
+            "answer": "The IJCAI paper submission website will launch on January 4, 2023.",
+            "from": "IJCAI 2023/calls/Call For Papers/0/ImportantDates (all times are Anywhere On Earth, UTC-12)/Submission site opening:"
+        },
+        {
+            "question": "Who are the tutorial chairs?" ,
+            "answer": "The tutorial chairs are Nicolò Cesa-Bianchi and Nicola Gatti.",
+            "from": "IJCAI 2023/committees/Program Committee/Tutorials Chairs"
+        },
+        {
+            "question": "Who are the workshop chairs?" ,
+            "answer": "The workshop chairs are Hadi Hosseini and Viviana Mascardi.",
+            "from": "IJCAI 2023/committees/Program Committee/Workshop Chairs"
+        },
+        {
+            "question": "How can I contact tutorial chairs?" ,
+            "answer": "You can contact them at tutorials@ijcai-23.org.",
+            "from": "IJCAI 2023/calls/Call For Tutorials/3/Submission Instructions"
+        },
+        {
+            "question": "How can I contact workshop chairs?" ,
+            "answer": "You can contact them at workshops@ijcai-23.org.",
+            "from": "IJCAI 2023/calls/Call For Workshop Proposals/6/Responsibilities/2"
+        },
+        {
+            "question": "What is the primary focus of the \"Multi-Year Track on AI and Social Good\" special track at IJCAI 2023?" ,
+            "answer": "This special track is dedicated to research triggered by real-world key questions, is carried out in collaboration with civil society stakeholders, and uses AI to work towards the SDGs and LNOB.",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: Multi-Year Track On AI And Social Good (Special Track)/1"
+        },
+        {
+            "question": "What are the requirements for submitting research papers to the \"Multi-Year Track on AI and Social Good\" special track?" ,
+            "answer": "Research papers should have the same format (7 pages + 2 pages for references) and follow the same general instructions as for the main conference (seehttps://ijcai-23.org/call-for-papers/). Also, just as the research papers submitted to the main track of IJCAI 2023, papers in this track should beanonymous.",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: Multi-Year Track On AI And Social Good (Special Track)/5/Submission of Research Papers"
+        },
+        {
+            "question": "How will The IJCAI 2023 handle submissions of research project proposals in the \"Multi-Year Track on AI and Social Good\" special track?" ,
+            "answer": "Research project proposals are not envisioned to present research results in this edition of IJCAI. Still, selected proposals will be expected to report on their progress during the three subsequent editions of IJCAI (2024 – 2026) and submit a research paper to one of these conference editions.",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: Multi-Year Track On AI And Social Good (Special Track)/6/Submission of Research Project Proposals/0"
+        },
+        {
+            "question": "What are the requirements for submitting research papers to the \"AI The Arts And Creativity\" special track?" ,
+            "answer": "Research paper submissions must meet all the Submission Requirements described in the above general instructions. In particular, they must be anonymous, and papers are expected to satisfy the highest scientific standards as submissions to the main track of IJCAI 2023. Also, double submissions to the special track and main conference are not allowed.",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: AI The Arts And Creativity (Special Track)/1/Submission of Research Papers"
+        },
+        {
+            "question": "Where should papers be submitted for the \"AI The Arts And Creativity\" at IJCAI 2023?" ,
+            "answer": "Submit your research paper here:https://cmt3.research.microsoft.com/IJCAI2023/",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: AI The Arts And Creativity (Special Track)/1/Submission of Research Papers/2"
+        },
+        {
+            "question": "What was the deadline for the Research Track Abstract submission?",
+            "answer": "The deadline for the Research Track Abstract submission was January 11, 2023.",
+            "from": "IJCAI 2023/program/Imporant Dates/Abstract submission deadline"
+        },
+        {
+            "question": "When was the deadline for Author information submission?",
+            "answer": "The deadline for Author information submission was January 16, 2023.",
+            "from": "IJCAI 2023/Home/IMPORTANT DATES/Author information deadline"
+        },
+        {
+            "question": "When was the deadline for appendix and resubmission information?",
+            "answer": "The deadline for appendix and resubmission information for the conference was on January 23, 2023.",
+            "from": "IJCAI 2023/Home/IMPORTANT DATES/Appendix and resubmission information deadline"
+        },
+        {
+            "question": "What are the dates for the author response period for IJCAI 2023 submissions?",
+            "answer": "The author response period for IJCAI 2023 submissions will be March 20-23, 2023. ",
+            "from": "IJCAI 2023/Home/IMPORTANT DATES/Author response period"
+        },
+        {
+            "question": "When was the paper acceptance notification released?",
+            "answer": "The paper acceptance notification was released on April 19, 2023.",
+            "from": "IJCAI 2023/Home/IMPORTANT DATES/Paper notification"
+        }
+    ]
+}

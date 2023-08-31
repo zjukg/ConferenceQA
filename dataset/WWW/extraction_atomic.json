@@ -1,0 +1,157 @@
+[
+    {
+        "question": "What is the purpose of the WWW2023 conference?",
+        "answer": "To present and discuss progress in research, development, standards, and applications of the topics related to the Web. The conference assembles scholars, researchers, policymakers, practitioners, and end-users with one unifying goal: to envision and create the future of the Web.",
+        "from": "WWW2023/Home/introduction"
+    },
+    {
+        "question": "What is the date of the WWW2023 conference?",
+        "answer": "From April 30, 2023 to May 4, 2023.",
+        "from": "WWW2023/Home/date"
+    },
+    {
+        "question": "What is the location of the WWW2023 conference?",
+        "answer": "Austin, Texas, USA.",
+        "from": "WWW2023/Home/location"
+    },
+    {
+        "question": "Will there be any virtual components to the WWW2023 conference?",
+        "answer": "The 2023 ACM Web Conference is an in-person conference with virtual components including live streaming of ceremonies and keynotes, access to pre-recorded videos of talks, and the Whova platform for interaction with all conference attendees.",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "What is the deadline for registration",
+        "answer": "April 29, 2023",
+        "from": "WWW2023/Important Dates/April 2023/1/Deadline"
+    },
+    {
+        "question": "What is the deadline for submission in research tracks?",
+        "answer": "October 13, 2022.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/ImportantDates"
+    },
+    {
+        "question": "What is the notification date in research track?",
+        "answer": "January 25, 2023.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/ImportantDates/Notification"
+    },
+    {
+        "question": "Will there be a closing ceremony or a special event at the end of the conference?",
+        "answer": "Yes, there will be a closing ceremony at the end of the conference.",
+        "from": "WWW2023/Program/Live Stream of TheWebConf/schedule"
+    },
+    {
+        "question": "when is the closing ceremony of this conference?",
+        "answer": "From 3:30pm to 4:00pm on May 4th.",
+        "from": "WWW2023/Program/Live Stream of TheWebConf/schedule"
+    },
+    {
+        "question": "Can the conference provide visa letter for attendees?",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Visa Letter/Introduce"
+    },
+    {
+        "question": "What are the eligibilities for applying for student travel award",
+        "answer": "To apply you must be a student (undergraduate, graduate and PhDs are welcome to apply). Preference will be given to those applicants presenting (papers/posters) at the conference. Note that for co-authored papers, only the first author is eligible to apply for the award unless he, she, zhe, or them is unable to attend the conference.",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/Eligibility"
+    },
+    {
+        "question": "When is the application deadline for the student travel grant?",
+        "answer": "March 31, 2023.",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/How to apply/Application Deadline"
+    },
+    {
+        "question": "When is the student travel scholarship notification?",
+        "answer": "Notification for student travel grants is March 31, 2023.",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/How to apply/Notifications"
+    },
+    {
+        "question": "What is the Virtual Participation Award?",
+        "answer": "Virtual Participation Award is a Fair Access Virtual Participation Award that provides selected applicants with a free-of-charge registration for Virtual Conference registration. This award is given out by ACM SIGWEB to a limited number of participants in order to foster an accessible and inclusive conference.",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Introduce"
+    },
+    {
+        "question": "What are the requirements for obtaining the Virtual Participation Award?",
+        "answer": "To be eligible for the Virtual Participation Award, an applicant must be a student (undergraduate, graduate and PhDs are welcome to apply) connected to a university or research laboratory based in a country designated by ACM as “economically developing”. Further preference may be given to those coming from underrepresented regions.",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Eligibility"
+    },
+    {
+        "question": "When and where this conference was first held?",
+        "answer": "The World Wide Web was first conceived in 1989 by Tim Berners-Lee at CERN in Geneva, Switzerland.",
+        "from": "WWW2023/About/The Web Conference"
+    },
+    {
+        "question": "What is the full name of this conference?",
+        "answer": "The Web Conference",
+        "from": "WWW2023/Home/full name"
+    },
+    {
+        "question": "What is the time period of rebuttal in research track?",
+        "answer": "From December 15 to December 22, 2022.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/ImportantDates/Rebuttal"
+    },
+    {
+        "question": "Who are the tutorial chairs?",
+        "answer": "The tutorial chairs are Olaf Hartig and Valeria Fionda.",
+        "from": "WWW2023/About/Organizing Committee/TUTORIAL CHAIRS/members"
+    },
+    {
+        "question": "Who are the workshop chairs?",
+        "answer": "The workshop chairs are Riccardo Tommasini and Femke Ongenae.",
+        "from": "WWW2023/About/Organizing Committee/WORKSHOP CHAIRS/members"
+    },
+    {
+        "question": "How can I contact tutorial chairs?",
+        "answer": "You can contact them at tutorial2023@thewebconf.org.",
+        "from": "WWW2023/About/Organizing Committee/TUTORIAL CHAIRS/contact"
+    },
+    {
+        "question": "How can I contact workshop chairs?",
+        "answer": "You can contact them at workshop2023@thewebconf.org.",
+        "from": "WWW2023/About/Organizing Committee/WORKSHOP CHAIRS/contact"
+    },
+    {
+        "question": "What is the main focus of the Industry Track of The Web Conference 2023?",
+        "answer": "The Industry Track focuses on showcasing original results obtained in an industrial environment, with clear industry relevance, and highlighting new research challenges motivated by practical tasks and settings.",
+        "from": "WWW2023/calls/Call For Industry Proposals/description"
+    },
+    {
+        "question": "How will The Web Conference 2023 handle submissions in industry track?",
+        "answer": "Submissions will be handled via Easychair at https://easychair.org/conferences/?conf=thewebconf2023iwpd.",
+        "from": "WWW2023/calls/Call For Industry Proposals/Submission guidelines"
+    },
+    {
+        "question": "Where will accepted papers in Industry track for The Web Conference 2023 be published?",
+        "answer": "Accepted papers will be published in the companion proceedings of The Web Conference, in the ACM Digital Library.",
+        "from": "WWW2023/calls/Call For Industry Proposals/description"
+    },
+    {
+        "question": "What new approach is The Web Conference 2023 taking regarding the FAIR principles?",
+        "answer": "The Web Conference 2023 will embrace the FAIR principles by collecting structured metadata of the datasets, software, and methods generated by all paper submissions.",
+        "from": "WWW2023/calls/Call For Industry Proposals/Submission guidelines"
+    },
+    {
+        "question": "What was the deadline for the Research Track Abstract submission?",
+        "answer": "October 6, 2022.",
+        "from": "WWW02023/Important Dates/October 2022"
+    },
+    {
+        "question": "When was the deadline for Tutorials Proposal submission?",
+        "answer": "November 10, 2022.",
+        "from": "WWW02023/Important Dates/November 2022"
+    },
+    {
+        "question": "When was the deadline for standard registration for the conference?",
+        "answer": "April 29, 2023.",
+        "from": "WWW02023/Important Dates/April 2023"
+    },
+    {
+        "question": "When were the authors notified about their Poster and Demo acceptance?",
+        "answer": "March 6, 2023.",
+        "from": "WWW02023/Important Dates/March 2023"
+    },
+    {
+        "question": "When was the Workshop paper acceptance notification released?",
+        "answer": "March 6, 2023.",
+        "from": "WWW02023/Important Dates/March 2023"
+    }
+]

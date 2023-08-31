@@ -1,0 +1,144 @@
+{
+    "QAs": [
+        {
+            "question": "What is the submission process for main conference?",
+            "answer": "Submissions for main conference must follow the ACL 2023 two-column format, using the supplied official style files. Authors are required to honor the ethical code set out in the ACL Code of Ethics. The submissions to ACL and any supplementary materials must not include authors’ names and affiliations, or the acknowledgments section. Self-references that reveal the authors’ identities must be avoided. We believe that it is also important to discuss the limitations of your work, in addition to its strengths. ACL 2023 requires all papers to have a clear discussion of limitations, in a dedicated section titled “Limitations”. This section will appear at the end of the paper, after the discussion/conclusions section and before the references, and will not count towards the page limit. Papers without a limitation section will be automatically rejected without review.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Submission and Templates,ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Submission Policies"
+        },
+        {
+            "question": "Where can I download the conference paper template？",
+            "answer": "Submissions must follow the ACL 2023 two-column format, which you can find in https://2023.aclweb.org/calls/style_and_formatting/.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Submission and Templates"
+        },
+        {
+            "question": "Do we have to submit an abstract before the manuscript deadline?",
+            "answer": "Yes. The paper title, author names, contact details, and a brief abstract must be submitted electronically through the ACL 2023 paper submission site by the abstract submission deadline (January 13). It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration. If you miss the abstract submission deadline, then you cannot submit the full paper.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Mandatory abstract submission/content"
+        },
+        {
+            "question": "Are there any side events organized alongside the main conference?",
+            "answer": "Yes",
+            "from": "ACL2023/Program/EVENTS"
+        },
+        {
+            "question": "What are the side events organized alongside the main conference?",
+            "answer": "Events organized alongside the main conference are Keynotes and Social Programs",
+            "from": "ACL2023/Program/EVENTS"
+        },
+        {
+            "question": "Are there any workshops related to representation learning for NLP?",
+            "answer": "Yes, the title is “The 8th Workshop on Representation Learning for NLP (RepL4NLP)”",
+            "from": "ACL2023/Program/PROGRAMS/Workshops/content/websites"
+        },
+        {
+            "question": "Are there any workshops related to natural language reasoning?",
+            "answer": "Yes, the title is “The 1st Workshop on Natural Language Reasoning and Structured Explanations”",
+            "from": "ACL2023/Program/PROGRAMS/Workshops/content/websites"
+        },
+        {
+            "question": "How many workshops are there in this conference?",
+            "answer": "23",
+            "from": "ACL2023/Program/PROGRAMS/Workshops/content/websites"
+        },
+        {
+            "question": "Are there any tutorials related to language model(and LLM) in this conference? If so, what are their titles?",
+            "answer": "Yes, there are three tutorial related to language model or LLM in this conference. There titles are “Generating Text from Language Models”, “Retrieval-based Language Models and Applications” and “Everything you need to know about Multilingual LLMs: Towards fair, performant and reliable models for languages of the world”",
+            "from": "ACL2023/Program/PROGRAMS/Tutorials/content/title"
+        },
+        {
+            "question": "Are there any tutorials related to reasoning in natural language? If so, what are their titles?",
+            "answer": "Yes, there is a tutorial related to reasoning in natural language. The title of the tutorial is “Complex Reasoning in Natural Language",
+            "from": "ACL2023/Program/PROGRAMS/Tutorials/content/title"
+        },
+        {
+            "question": "How many keynotes are there in this conference?",
+            "answer": "there are 2 keynotes in this conference",
+            "from": "ACL2023/Program/EVENTS/Keynotes/content/speakers"
+        },
+        {
+            "question": "Are there any keynotes related to large language model(LLM) in this conference? If so, what are their title and authors?",
+            "answer": "Yes, there is a keynote speech related to large language model(LLM) in this conference. The title of the keynote is “Large Language Models as Cultural Technologies: Imitation and Innovation in Children and Models” and the speaker is Alison Gopnik.",
+            "from": "ACL2023/Program/EVENTS/Keynotes/content/speakers"
+        },
+        {
+            "question": "Will registration fees change over time?",
+            "answer": "Yes.",
+            "from": "ACL2023/Registration/Registration/content/introduction/content,ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "Can I register for this conference with different time slots?",
+            "answer": "Yes.",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How many options are there if divide the registration type according to the time period?",
+            "answer": "There will be three options: Full Conference, Tutorial Only(Sunday, July 9th) and Workshops Only (2 days, July 13th and 14th).",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How many times the cost of the Full Conference Student Early in virtual would a student have to pay if they register for the Full Conference Student Early in person?" ,
+            "answer": "2 times",
+            "from": "ACL2023/Registration/Registration/content/Virtual Pricing/content/pricing"
+        },
+        {
+            "question": "Among the three types of conferences (Full Conference, Workshop, and Main Conference), which one is the most expensive for Regular Early registration?" ,
+            "answer": "The Full Conference Regular Early is the most expensive at $830.00.",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much can a student save if he register for Full Conference Student Early compared to register for Full Conference Student Late?" ,
+            "answer": "$125",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much can a regular member save if he register for Full Conference Early compared to register for Full Conference Late?" ,
+            "answer": "$70",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much do 10 regular members and 10 students have to pay if they all register onsite for the full conference?" ,
+            "answer": "$15000",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much does an invited speaker have to pay for in person or virtual registration?" ,
+            "answer": "$0",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing,ACL2023/Registration/Registration/content/Virtual Pricing/content/pricing"
+        },
+        {
+            "question": "How much refund could these no showed with no xceptions get?" ,
+            "answer": "$0",
+            "from": "ACL2023/Registration/Registration/content/Cancelation Policy/content"
+        },
+        {
+            "question": "How much would it cost for 4 students to attend the virtual conference for Full Conference Regular Early?" ,
+            "answer": "$600",
+            "from": "ACL2023/Registration/Registration/content/Virtual Pricing/content/pricing"
+        },
+        {
+            "question": "How much would it cost for a volunteer to register for the main conference in person?" ,
+            "answer": "$600",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "If a student registers onsite for the Tutorial Only Early and Tutorial Only Early, what is the total cost?" ,
+            "answer": "$230",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much more expensive is the registration for the Full Conference Regular Late compared to the Full Conference Regular Early?" ,
+            "answer": "$70",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How many organizing committees are there in the conference?" ,
+            "answer": "40",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/content"
+        },
+        {
+            "question": "How many program committees are there in the conference?" ,
+            "answer": "65",
+            "from": "ACL2023/Committees/COMMITTEES/Program Committee/Senior Area Chairs"
+        }
+    ]
+}

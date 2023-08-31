@@ -1,0 +1,149 @@
+{
+    "QAs": [
+        {
+            "question": "What is the name of this conference?",
+            "answer": "2023 ACM SIGMOD/PODS.",
+            "from": "SIGMOD2023/Welcome/Homepage/name"
+        },
+        {
+            "question": "What is the purpose of the 2023 ACM SIGMOD/PODS?",
+            "answer": "The 2023 ACM SIGMOD/PODS is for database researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences.",
+            "from": "SIGMOD2023/Welcome/Homepage/dates/introduction"
+        },
+        {
+            "question": "What are the dates of the 2023 ACM SIGMOD/PODS?",
+            "answer": "June 18 - June 23, 2023.",
+            "from": "SIGMOD2023/Welcome/Homepage/dates"
+        },
+        {
+            "question": "What is the location of the 2023 ACM SIGMOD/PODS?",
+            "answer": "Seattle, WA, USA.",
+            "from": "SIGMOD2023/Welcome/Homepage/location"
+        },
+        {
+            "question": "What is the deadline for registration?",
+            "answer": "June 12th at 11:45 pm.",
+            "from": "SIGMOD2023/Participant Information/Registration/deadline"
+        },
+        {
+            "question": "What is the final submission deadline for the Programming Contest?",
+            "answer": "15 April, 2023.",
+            "from": "SIGMOD2023/Special and Co-located Events/Programming Contest/Important Dates/3/date"
+        },
+        {
+            "question": "What is the application submission deadline for Student Travel Award?",
+            "answer": "April 11, 2pm PT, 2023.",
+            "from": "SIGMOD2023/Participant Information/Student Travel Award/Important Dates/Application submission deadline"
+        },
+        {
+            "question": "What is the paper submission deadline for SIGMOD's Research Paper Submission Cycle A?",
+            "answer": "April 15, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/SIGMOD Deadlines/RESEARCH PAPER SUBMISSION CYCLE A (All Deadlines are 11:59 PM Pacific Time)/0/time"
+        },
+        {
+            "question": "What is the paper submission deadline for SIGMOD's Research Paper Submission Cycle B?",
+            "answer": "July 15, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/SIGMOD Deadlines/RESEARCH PAPER SUBMISSION CYCLE B (All Deadlines are 11:59 PM Pacific Time)/0/time"
+        },
+        {
+            "question": "What is the paper submission deadline for SIGMOD's Research Paper Submission Cycle C?",
+            "answer": "October 15, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/SIGMOD Deadlines/RESEARCH PAPER SUBMISSION CYCLE C (All Deadlines are 11:59 PM Pacific Time)/0/time"
+        },
+        {
+            "question": "What is the abstract deadline for PODS's first submission cycle?",
+            "answer": "May 30, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/PODS Deadlines/First SUBMISSION CYCLE (All deadlines end at 5 PM Pacific Time)/0/time"
+        },
+        {
+            "question": "What is the full paper submission deadline for PODS's first submission cycle?",
+            "answer": "June 06, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/PODS Deadlines/First SUBMISSION CYCLE (All deadlines end at 5 PM Pacific Time)/1/time"
+        },
+        {
+            "question": "What is the abstract deadline for PODS's second submission cycle?",
+            "answer": "Nov 28, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/PODS Deadlines/SECOND SUBMISSION CYCLE (All deadlines end at 5 PM Pacific Time)/0/time"
+        },
+        {
+            "question": "What is the full paper submission deadline for PODS's second submission cycle?",
+            "answer": "December 05, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/Important Dates/PODS Deadlines/SECOND SUBMISSION CYCLE (All deadlines end at 5 PM Pacific Time)/1/time"
+        },
+        {
+            "question": "What is the paper submission deadline in SIGMOD's industrial track?",
+            "answer": "Tuesday, November 29, 2022.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Important Dates(All deadlines below are 5 PM Pacific Time)/0/Date"
+        },
+        {
+            "question": "What is the notification date in SIGMOD's industrial track?",
+            "answer": "Wednesday, January 25, 2023.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Important Dates(All deadlines below are 5 PM Pacific Time)/1/Date"
+        },
+        {
+            "question": "What is the date of the banquet?",
+            "answer": "Wednesday, June 21st.",
+            "from": "SIGMOD2023/Participant Information/Banquet/date"
+        },
+        {
+            "question": "When will the banquet be held?",
+            "answer": "The banquet will be held at the Amazon Meeting Center.",
+            "from": "SIGMOD2023/Participant Information/Banquet/location"
+        },
+        {
+            "question": "How can I ask further questions about the Student Research Competition?",
+            "answer": "You can contact the organizers at sigmodsrc.pc@gmail.com",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/Who is eligible?/For further questions please contact the organizers"
+        },
+        {
+            "question": "How can I ask further questions about the Programming Contest?",
+            "answer": "sigmodcontest23@outlook.com",
+            "from": "SIGMOD2023/Special and Co-located Events/Programming Contest/Contacts"
+        },
+        {
+            "question": "How can I ask questions regarding the travel award application process?",
+            "answer": "You may send your questions regarding the travel award application process to Jana Giceva (jana.giceva@tum.de) and Raul Castro Fernandez (raulcf@uchicago.edu).",
+            "from": "SIGMOD2023/Participant Information/Student Travel Award/Contacts"
+        },
+        {
+            "question": "What is the PODS community's mission?",
+            "answer": "The PODS community aims to provide a solid scientific basis for methods, techniques and solutions for the data management problems that continually arise in our data-driven society. Our goal is to develop solutions that ensure a high level of efficiency, scalability, expressiveness, robustness, flexibility, security, and privacy, among others. The PODS community has a pivotal position in computer science research. It develops new ways of advancing data management that reflect the rich landscape of today’s data driven applications. PODS thus welcomes contributions that help to expand the breadth and the depth of the data management toolbox. The PODS community is an open space in which researchers from various areas related to the principles of computer science can discuss, interact, and propose solutions to pressing data management problems.",
+            "from": "SIGMOD2023/Calls For Submissions/PODS Call for Research Papers/PODS Mission"
+        },
+        {
+            "question": "Who is the PODS General Chair?",
+            "answer": "Floris Geerts.",
+            "from": "SIGMOD2023/Organization/Conference Officers/PODS General Chair"
+        },
+        {
+            "question": "Who is the PODS Proceedings Chair?",
+            "answer": "Stavros Sintos.",
+            "from": "SIGMOD2023/Organization/Conference Officers/PODS Proceedings Chair"
+        },
+        {
+            "question": "If I already competed in another SRC this year, can I still participate in the Student Research Competition?",
+            "answer": "No, you can only participate in one SRC per year.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/Frequently Asked Questions/I already competed in another SRC this year, can I still participate?"
+        },
+        {
+            "question": "If I don't have a conference badge to enter the banquet, what can I do?",
+            "answer": "you will need to bring photo ID and register with Amazon security.",
+            "from": "SIGMOD2023/Participant Information/Banquet/requirements"
+        },
+        {
+            "question": "Who are the PODS Keynote speaker?",
+            "answer": "Jure Leskovec.",
+            "from": "SIGMOD2023/SIGMOD Program/Detailed Program/Keynotes, SIGMOD2023/PODS Program/Detailed Program/PODS Keynote/0/speaker"
+        },
+        {
+            "question": "Can I dispute the reproducibility results?",
+            "answer": "You will not have to! If any problems appear during the reproducibility testing phase, the committee will contact you directly, so we can work with you to find the best way to evaluate your work.",
+            "from": "SIGMOD2023/Welcome/Reproducibility/Criteria and Process/More questions/Dispute: Can I dispute the reproducibility results?"
+        },
+        {
+            "question": "What happens if my work does not pass the reproducibility process?",
+            "answer": "Although we expect that we can help all papers pass the reproducibility process, in the rare event that a paper does not go through the reproducibility process successfully, this information will not be made public in any way. So there is no downside in submitting your work!",
+            "from": "SIGMOD2023/Welcome/Reproducibility/Criteria and Process/More questions/Rejects: What happens if my work does not pass?"
+        }
+    ]
+}

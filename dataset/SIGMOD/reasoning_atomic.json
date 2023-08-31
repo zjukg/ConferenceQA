@@ -1,0 +1,104 @@
+{
+    "QAs": [
+        {
+            "question": "Does the PODS General Chair come from USA?",
+            "answer": "No, the PODS General Chair comes from Belgium.",
+            "from": "SIGMOD2023/Organization/Conference Officers/PODS General Chair"
+        },
+        {
+            "question": "What is the affiliation of the Chinese man of the Tutorials Chairs?",
+            "answer": "Tsingua University.",
+            "from": "SIGMOD2023/Organization/Conference Officers/Tutorials Chairs"
+        },
+        {
+            "question": "How often is the conference held?",
+            "answer": "Once a year.",
+            "from": "SIGMOD2023/Welcome/Homepage/introduction"
+        },
+        {
+            "question": "How many days will the conference last?",
+            "answer": "6 days.",
+            "from": "SIGMOD2023/Welcome/Homepage/dates"
+        },
+        {
+            "question": "How many hours will the New Researchers Symposium last?",
+            "answer": "2 hours.",
+            "from": "SIGMOD2023/Special and Co-located Events/New Researchers Symposium/Time slot and date"
+        },
+        {
+            "question": "If I have bought a ticket for the conference but can't make it, can I get a refund?",
+            "answer": "No, all tickets for the conference are non-refundable.",
+            "from": "SIGMOD2023/Participant Information/Fees/Note"
+        },
+        {
+            "question": "Will there be conference rates for the participants if they book the conference hotel?",
+            "answer": "Yes.",
+            "from": "SIGMOD2023/Participant Information/Accommodations/Bookings MUST be made via the following registration link to get the conference rate"
+        },
+        {
+            "question": "How long will the banquet last?",
+            "answer": "Three and a half hours.",
+            "from": "SIGMOD2023/Participant Information/Banquet/time"
+        },
+        {
+            "question": "Can authors without a non-academic affiliation submit their paper to SIGMOD's industrial track?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Note"
+        },
+        {
+            "question": "Can I submit my paper for SIGMOD's Industrial Track on November 30, 2022?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Important Dates(All deadlines below are 5 PM Pacific Time)"
+        },
+        {
+            "question": "Is the submission of SIGMOD's industrial track paper double blind?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Calls For Submissions/SIGMOD Call for Industrial Track Papers/Submission Guidelines"
+        },
+        {
+            "question": "Can the abstract for the Student Research Competition be written in language other than English?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/The Competition/First Round: Abstract Submission/requiremens"
+        },
+        {
+            "question": "Is there any page limit of the abstract for the Student Research Competition?",
+            "answer": "Yes, you should submit a 2-page abstract online. The 2-page limit includes text, appendices, and figures. References do not count against the page limit and can expand into subsequent pages.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/The Competition/First Round: Abstract Submission/requiremens"
+        },
+        {
+            "question": "Can non-full-time students apply for the Student Travel Award?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Participant Information/Student Travel Award/Eligibility"
+        },
+        {
+            "question": "Will a Student Travel Award application be accepted if it is submitted late?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Participant Information/Student Travel Award/Application Procedure"
+        },
+        {
+            "question": "Will the Reproducibility Awards Committee be formed before all submissions are received?",
+            "answer": "No.",
+            "from": "SIGMOD2023/Welcome/Reproducibility/ACM SIGMOD Best Artifact Award/selection"
+        },
+        {
+            "question": "How many times has the ACM Student Research Competition (SRC) been held before SIGMOD 2023?",
+            "answer": "4 times.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/introduction"
+        },
+        {
+            "question": "How many competitors will receive prizes in the Student Research Competition?",
+            "answer": "6.",
+            "from": "SIGMOD2023/Special and Co-located Events/Student Research Competition/Prizes"
+        },
+        {
+            "question": "How often is the Programming Contest held?",
+            "answer": "Once a year.",
+            "from": "SIGMOD2023/Special and Co-located Events/Programming Contest/Contest Overview"
+        },
+        {
+            "question": "If I want to participate in this year's Programming Contest, which task should I solve?",
+            "answer": "This year's task is to build an approximate K-NN Graph for a set of vectors. The approximate K-NN Graph is a directed graph with vertex set V and for each vertex v, it is connected to its approximate k nearest neighbor under one given similarity measure, such as Euclidean distance. For this task, you are asked to construct one approximate K-NN Graph for one dataset, which contains a set of high-dimensional vectors and the distance between vectors are measured by Euclidean distance. The challenge here is to design one efficient algorithm to construct the approximate K-NN graph in a limited time.",
+            "from": "SIGMOD2023/Special and Co-located Events/Programming Contest/Task Overview"
+        }
+    ]
+}

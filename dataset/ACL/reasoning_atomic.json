@@ -1,0 +1,64 @@
+{
+    "QAs": [
+        {
+            "question": "How frequently is the ACL2023 conference held?",
+            "answer": "ACL2023 is a yearly international academic conference.",
+            "from": "ACL2023/Home/introduction"
+        },
+        {
+            "question": "Can I attend the conference remotely?",
+            "answer": "Based on feedback from our members, all papers in the program (oral or poster) must have at least one author who has registered at the appropriate rate for their presentation modality and status (e.g. virtual or in-person, student or regular, full conference or workshop only), without a fixed minimum. For exceptional reasons, if you are not able to attend in person to present, you may  register virtual conference.",
+            "from": "ACL2023/Registration/Registration/content/Introduction/content"
+        },
+        {
+            "question": "Is there any page limit of the long paper",
+            "answer": "Long papers must describe substantial, original, completed, and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references and appendices. Final versions of long papers will be given one additional page of content (up to nine (9) pages), so that reviewers’ comments can be taken into account. ",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Types and Formats/content"
+        },
+        {
+            "question": "Is there any page limit of the short paper",
+            "answer": "Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead, short papers should have a small, focused contribution - a point that can be made in a few pages with sufficient level of detail. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references and appendices. Final versions of short papers will be given one additional page of content (up to five (5) pages), so that reviewers’ comments can be taken into account.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Paper Types and Formats/content"
+        },
+        {
+            "question": "How can I contact the conference organizers if I have further questions or concerns?",
+            "answer": "You can contact general chairs at yangliud@amazon.com.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/content/General Chair"
+        },
+        {
+            "question": "Can studnet volunteers register for the conference for free?",
+            "answer": "Yes.",
+            "from": "ACL2023/Calls/Call for Volunteers/content/introduction"
+        },
+        {
+            "question": "Is there any discounted virtual registration for the conference",
+            "answer": "Yes. Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. The application form for discounted and free virtual registration is available June 19-28. Criteria for selection for financial aid will include your (a) country of residence, (b) employment position, (c) monthly income range, (d) available financial support from your employer/university, and (e) special circumstances. Given prioritization for those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.",
+            "from": "ACL2023/Registration/Discounted Virtual Registration/content"
+        },
+        {
+            "question": "Will there be live-streamed sessions for those who can't attend in person?",
+            "answer": " Yes",
+            "from": "ACL2023/Registration/Registration/content/Introduction/content"
+        },
+        {
+            "question": "Can I get a full refund if I cancel my registration due to governmental travel restrictions?",
+            "answer": "Yes. Cancellation due to governmental travel restriction will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancelation exceptions.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "Are students who are not first authors eligible to submit research papers in student research workshop?",
+            "answer": "No",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/General Rules for Submission"
+        },
+        {
+            "question": "Are students who are not PhD students eligible to submit thesis proposals in student research workshop?" ,
+            "answer": "No.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/General Rules for Submission"
+        },
+        {
+            "question": "What is the deadline for abstract submission?",
+            "answer": "The Call for Papers was posted on 2022-10-07.",
+            "from": "ACL2023/Home/News"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+[
+    {
+        "question": "Who are the keynote speakers for the WWW2023 conference?",
+        "answer": "The keynote speakers of WWW2023 are Barbara Poblete, David Rand, Payal Arora, Zachary Elkins and Michalis Vazirgiannis",
+        "from": "WWW2023/Home/keynotes"
+    },
+    {
+        "question": "What are the main tracks of the WWW2023 conference?",
+        "answer": "The 2023 ACM Web Conference will offer a high quality program made of research sessions, posters and demonstrations, a PhD symposium for the junior scholars, workshops, tutorials, a developers track for the practitioners as well as thought provoking keynote speakers, panels, special track on web for good, History of the Web, and colocated special days.",
+        "from": "WWW2023/calls/Research Tracks, WWW2023/calls/Special Track, WWW2023/calls/Call For Workshops Proposals, WWW2023/calls/Call For Tutorials Proposals, WWW2023/calls/PhD Symposium, WWW2023/calls/Call For Posters and Demos Proposals, WWW2023/calls/Call For Industry Proposals, WWW2023/calls/Web Developer and W3C"
+    },
+    {
+        "question": "What are the major topics that will be discussed in the WWW2023 conference sessions?",
+        "answer": "Crowdsourcing and Human Computation, Economics, Monetization, and Online Markets, Fairness, Accountability, Transparency, and Ethics on the Web, Search, Security, Privacy, and Trust, Semantics and Knowledge, Social Network Analysis and Graph Algorithms, Systems and Infrastructure for Web, Mobile Web, and Web of Things, User Modeling and Personalization, Web and Society, Web Mining and Content Analysis.",
+        "from": "WWW2023/calls/Research Tracks"
+    },
+    {
+        "question": "Who are the organizers behind WWW2023 conference?",
+        "answer": "The organization of the WWW2023 conference involves multiple roles. The key committees and their respective chairs are as follows: General Chairs: Ying Ding (UT Austin), Jie Tang (Tsinghua University), Juan Sequeda (data.world). Program Committee Co-Chairs: Lora Aroyo (Google), Carlos Castillo (ICREA), Geert-Jan Houben (TU Delft). Tutorial Chairs: Olaf Hartig (Linköping University), Valeria Fionda (University of Calabria). Workshop Chairs: Riccardo Tommasini (University of INSA Lyon), Femke Ongenae (Ghent University). Posters and Demos Chairs: Lorena Etcheverry (Universidad de la República de Uruguay), María Poveda Villalón (Universidad Politécnica de Madrid). PhD Symposium Chairs: Yizhou Sun (UCLA), Yuxiao Dong (Tsinghua University), Mayank Kejriwal (ISI/USC). Diversity, Equity, Inclusion Chairs: Sarah Luger (Oriange Silicon Valley), Tiffany Deng (Google), Jamila Loud (Google), Edgar Gómez-Cruz (UT Austin). Industry Chairs: Anna Lisa Gentile (IBM Research), Petra Selmer (Bloomberg). W3C and Developer: Pierre-Antoine Champin (Université Claude Bernard Lyon 1), Orie Steele (Transmute). Special Track Chairs: Alex Jaimes (Dataminr), Daniela Paolotti (ISI Foundation), Mark Schueler (University of Southampton), Bebo White (SLAC/Stanford), Marieke van Erp (KNAW Humanities Cluster), Albert Meroño-Peñuela (King’s College London). Proceedings Chairs: Filip Ilievski (USC/ISI), Daniel Garijo (UPM), Lionel Medini (U Lyon 1). Sponsor Chairs: Chen Huajun (Zhejiang University), Edgar Meij (Bloomberg), Josh Shinavier (Linkedin). Local Volunteers: Song Wang (UT Austin), Cynthia Henry (Texas Tech University). International Volunteers: Sebastien Forget. Communications: Jilie Zeng (UT Austin), Hady Wirawan LAUW (Singapore Management University)",
+        "from": "WWW2023/About/Organizing Committee"
+    },
+    {
+        "question": "How do I register for the WWW2023 conference?",
+        "answer": "You can register through https://cvent.me/MzwbQb.",
+        "from": "WWW2023/Attendees/Registration/Register Here, WWW2023/Attendees/Registration/If you have any issues with registration, please contact"
+    },
+    {
+        "question": "Who are the sponsors for the WWW2023 conference",
+        "answer": "The silver sponsors of the WWW2023 conference include amazon, baidu, megagon, zhipu, and the bronze sponsors include google, booking, ebay, netflix",
+        "from": "WWW2023/Home/sponsors"
+    },
+    {
+        "question": "Are there any hotel recommendations for attendees of the WWW2023 conference?",
+        "answer": "AT&T Hotel and Conference Center - Rooms can be booked here: https://book.passkey.com/gt/218372888?gtid=4b4b83fb4d71a5f840e608c6d6ed8b1d\nHilton Garden Inn Austin University Capitol District - Rooms can be booked here: https://www.hilton.com/en/attend-my-event/acmwwwaustintexas2023/.",
+        "from": "WWW2023/Attendees/Venue and Hotel/Hotels"
+    },
+    {
+        "question": "Does the WWW2023 conference offer any travel grants for participants?",
+        "answer": "Yes, the ACM Web Conference offers Travel Awards of up to US$1000 for students.",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/Introduce"
+    },
+    {
+        "question": "Tell me more about the history of the World Wide Web.",
+        "answer": "The World Wide Web was first conceived in 1989 by Tim Berners-Lee at CERN in Geneva, Switzerland. The first conference of the series, WWW1, was held at CERN in 1994 and organized by Robert Cailliau. The International World Wide Web Conferences Committee (IW3C2) was founded by Joseph Hardin and Robert Cailliau later in 1994 and has been responsible for the conference series ever since. Except for 1994 and 1995 when two conferences were held each year, WWW became an annual event held in late April or early May. The location of the conference rotates among America, Europe, and Asia.",
+        "from": "WWW2023/About/The Web Conference"
+    },
+    {
+        "question": "Is the submission of research paper double blind?",
+        "answer": "Yes, the submission of research papers for the WWW2023 conference is double-blind. The submitted document should omit any author names, affiliations, or other identifying information. This may include, but is not restricted to acknowledgements, self-citations, references to prior work by the author(s), and so on.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/AuthorIdentityResearchFundingTransparency/ReviewProcess"
+    },
+    {
+        "question": "How can I contact the WWW2023 research track chairs?",
+        "answer": "You can contact them at the following email address: search-thewebconf2023@easychair.org​1​.",
+        "from": "WWW2023/calls/Research Tracks/CFP: Search Track/Track chairs, WWW2023/calls/Research Tracks/CFP: Search Track/Contact"
+    },
+    {
+        "question": "Will there be a rebuttal phrase in research tracks?",
+        "answer": "Yes, authors will have the chance to provide brief rebuttals in response to the reviews, mainly making clarifications and answering key questions raised by the reviewers.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/Rebuttal"
+    },
+    {
+        "question": "What is the schedule for the WWW2023 conference sessions?",
+        "answer": "The WWW2023 conference sessions are scheduled as follows:\nSunday, April 30: Workshops, Tutorials, W4A, WebSci, Provenance Week, Entrepreneur Day, and a keynote by Bob Metcalfe.\nMonday, May 1: Workshops, Tutorials, W4A, WebSci, Provenance Week, PhD Symposium, and a keynote. Tuesday, May 2: Research Track, Special Track, Poster and Demo, a keynote by Barbara Poblete, Industry sessions, Web Developer and W3C sessions, and Health Day.\nWednesday, May 3: Research Track, Special Track, Poster and Demo, a keynote by Zachary Elkins, Industry sessions, Web Developer and W3C sessions, and the conference party at Stubbs.\nThursday, May 4: Research Track, Special Track, Poster and Demo, a keynote by Payal Arora, another keynote by Michalis Vazirgiannis, Industry sessions, and Knowledge Graph Day with a keynote by David Rand.",
+        "from": "WWW2023/Program/Program Overview"
+    },
+    {
+        "question": "Is there a policy for professional conduct or behavior for attendees?",
+        "answer": "Yes",
+        "from": "WWW2023/About/Code of Conduct"
+    },
+    {
+        "question": "What is the policy for professional conduct or behavior for attendees?",
+        "answer": "The Web Conference 2023 adheres to the ACM Code of Ethics and ACM Policy Against Harassment. In participating, attendees acknowledge ACM’s Policy Against Harassment at ACM Activities and agree that behavior such as the following will constitute grounds for actions against them:\nAbusive action directed at an individual, such as threats intimidation, or bullying.\nRacism, homophobia, and other behavior that discriminates against a group or class of people.\nSexual harassment of any kind, such as unwelcome sexual advances or words/actions of a sexual nature.",
+        "from": "WWW2023/About/Code of Conduct"
+    },
+    {
+        "question": "what requests are needed for visa letter?",
+        "answer": "ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, you should refer all requests to supportletters@acm.org. Please allow up to 10 business days to receive a letter. All requests are handled in the order they are received. The information below should be included with the request:\nThe name of the conference you are registering for. Only accepted authors may request a visa support letter prior to registering for the conference.\nIf you have any papers accepted for the conference, please provide the title and indicate whether you are the “sole author” or a “co-author”.\nAuthors may indicate their paper title. If no paper, speakers can provide the title of their presentation.",
+        "from": "WWW2023/Attendees/Visa Letter/Visa Support Letter Requests"
+    },
+    {
+        "question": "How to apply for the student travel award",
+        "answer": "All applicants need to submit their applications to the easychair system (https://easychair.org/conferences/?conf=thewebconf2023iwpd select Student Grant track) with the following files as a single PDF file: \nCV (which includes the applicant’s current status, including institution, type of study [undergraduate, MS, or PhD], number of years entering the current program etc.)\nThe applicant’s research interest and their future research plans.\nA description of how the grant will help them with their research/study plans.\nHow the attendance of the applicant will increase the diversity in the conference.\nThe total budget for attending The Web Conference, and how the travel award can help close the gap for attending the conference.\nA recommendation letter from the applicant’s advisor supporting the application that describes how the applicant will benefit from attending The Web Conference and explains why the student is in need of the travel award and whether there is funding available to cover the expenses that are not covered by the student travel award.",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/How to apply"
+    },
+    {
+        "question": "How to Apply for the Virtual Participation Award?",
+        "answer": "An applicant must submit the necessary materials through the website no later than April 20, 2023 (AoE). The materials that must be submitted include a short statement (1-2 paragraphs) explaining your interest in participating in The Web Conference 2023 and evidence of eligibility (e.g., valid student ID, letter from supervisor, profile page on university website).",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/How to Apply"
+    },
+    {
+        "question": "What are the titles of the keynotes in this conference?",
+        "answer": "The titles of the keynotes for this conference are “Using diversity as a source of scientific innovation for the Web”, “Understanding and Reducing Online Misinformation”, “Decolonizing Creative Labor in the age of AI”, “Concept Regulation in the Social Sciences” and “GNNs and Graph Generative models for biomedical applications”",
+        "from": "WWW2023/Program/Keynotes"
+    },
+    {
+        "question": "What is the price for just registering for the virtual conference?",
+        "answer": "If you are ACM members then it will cost $300, if are non-ACM members then it will cost $350, if you are student it will cost $100, if you only take WebSci it will cost $100",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)/Virtual Conference"
+    },
+    {
+        "question": "How much does an ACM member have to pay if they register for the full conference during the Early Bird period?",
+        "answer": "$1200",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much does an ACM member have to pay if they missed the Early Bird discount and register for the main conference during the Standard period?",
+        "answer": "$950",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "What are the important dates for April 2023",
+        "answer": "On April 12, 2023, the tutorial online materials are due. Subsequently, the standard registration deadline is set for April 29, 2023. And the conference is set to start on April 30, 2023.",
+        "from": "WWW2023/Important Dates"
+    }
+]

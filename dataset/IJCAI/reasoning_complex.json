@@ -1,0 +1,164 @@
+{
+    "QAs": [
+        {
+            "question": "Will the special tracks at the IJCAI 2023 conference get published?",
+            "answer": "Yes, accepted papers will be published in the proceedings of the conference.",
+            "from": "IJCAI 2023/calls/Call For Papers And Projects: Multi-Year Track On Al And Social Good (Special Track)/6/Submission of Research Project Proposals/1, Call For Papers: Al The Arts And Creativity (Special Track)/10/Submission of Research Papers/3"
+        },
+        {
+            "question": "What is the submission process for research papers?",
+            "answer": "To submit to IJCAI 2023, authors should follow the formatting guidelines available on the IJCAI website by December 2022. Papers need to be electronically submitted via the provided Microsoft site. Titles, author details, and brief abstracts are mandatory and can have minor changes until the full paper submission deadline. All co-authors should register and provide details to manage conflicts during reviews. Each author can submit up to 8 papers. Finally, all published papers will be under IJCAI's copyright.",
+            "from": "IJCAI 2023/calls/Call For Papers/8/Submission Process"
+        },
+        {
+            "question": "Where can I download the conference paper template?",
+            "answer": "https://www.ijcai.org/authors_kit.",
+            "from": "IJCAI 2023/calls/Call For Papers/8/Submission Process/Formatting guidelines"
+        },
+        {
+            "question": "Do we have to submit an abstract before the manuscript deadline?",
+            "answer": "Abstract submission is compulsory for all papers and must be done before the manuscript deadline. The abstract submission deadline is January 11, 2023.",
+            "from": "IJCAI 2023/calls/Call For Papers/8/Submission Process/Mandatory abstract submission"
+        },
+        {
+            "question": "How many types of Sponsorship Levels does the IJCAI 2023 conference offer, and can you list them?",
+            "answer": "There are five in total, namely Diamond, Platinum, Gold, Silver, and Bronze.",
+            "from": "IJCAI 2023/sponsorship/Sponsorship Opportunities/HOW TO SPONSOR"
+        },
+        {
+            "question": "What are the benefits that all sponsorship levels receive?",
+            "answer": "All sponsorship levels at IJCAI 2023, from Diamond to Bronze, enjoy the following shared benefits: They receive a certain number of complimentary full registrations that cover the welcome reception, banquet, coffee breaks, conference bag, and access to the technical program. Additionally, each sponsorship level is represented in the Whova app corresponding to their level, and the company’s name and logo are prominently displayed on various materials. This includes printed materials (as scheduling allows), the IJCAI-23 website and proceedings, the IJCAI-23 registration area, and signs at relevant conference events.",
+            "from": "IJCAI 2023/sponsorship/Sponsorship Opportunities/HOW TO SPONSOR"
+        },
+        {
+            "question": "Are the Travel Grants exclusively for students?",
+            "answer": "No, the grants are also available to junior scientists and established scientists.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/0"
+        },
+        {
+            "question": "Are there any workshops related to knowledge graph?",
+            "answer": "Yes, their titles are “The 1st International Workshop on Knowledge-Based Compositional Generalization (KBCG)”, “Knowledge Discovery from Healthcare Data VI”",
+            "from": "IJCAI 2023/program/Workshops and Symposia/Workshops"
+        },
+        {
+            "question": "How many workshops are there in this conference?",
+            "answer": "There are 29 workshops in this conference.",
+            "from": "IJCAI 2023/program/Workshops and Symposia/Workshops"
+        },
+        {
+            "question": "How many symposias are there in this conference?",
+            "answer": "There are 3 symposias in this conference.",
+            "from": "IJCAI 2023/program/Workshops and Symposia/Symposia"
+        },
+        {
+            "question": "Are there any tutorials related to knowledge graph in this conference? If so, what are their title and organizers?",
+            "answer": "Yes, there are two tutorials related to knowledge graph in this conference. One is “Knowledge-aware Zero-shot Learning (K-ZSL): Concepts, Methods and Resources” and the organizers are Yuxia Geng, Zhuo Chen, Jiaoyan Chen, Wen Zhang and Jeff Z. Pan and the other is “Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities” and the Organizers are Ningyu Zhang, Meng Wang, Tianxing Wu and Shumin Deng.",
+            "from": "IJCAI 2023/program/Tutorials"
+        },
+        {
+            "question": "How many presentations in the Main Track are related to knowledge graph at this conference?",
+            "answer": "There are 10 presentations in the Main Track related to knowledge graph at this conference.",
+            "from": "IJCAI 2023/program/Main Track"
+        },
+        {
+            "question": "How many presentations in the Main Track are related to graph neural network(GNN) at this conference?",
+            "answer": "There are 32 presentations in the Main Track related to graph neural network(GNN) at this conference.",
+            "from": "IJCAI 2023/program/Main Track"
+        },
+        {
+            "question": "How many presentations in the Main Track at this conference?",
+            "answer": "There are 644 presentations in the Main Track at this conference.",
+            "from": "IJCAI 2023/program/Main Track"
+        },
+        {
+            "question": "For the presentations on Graph Neural Network (GNN) in the Main Track of this conference, which one has the earliest presentation number? What's its title, and who organized it?",
+            "answer": "For the presentations on Graph Neural Network (GNN) in the Main Track of this conference, the earliest presentation number is 141. Its title is \"Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention,\" and it was authored by Hongjun Wang, Jiyuan Chen, Lun Du, Qiang Fu, Shi Han, and Xuan Song.",
+            "from": "IJCAI 2023/program/Main Track"
+        },
+        {
+            "question": "Will registration fees change over time?",
+            "answer": "Yes",
+            "from": "IJCAI 2023/attending/Registration Information/Fees"
+        },
+        {
+            "question": "Can I register for this conference with different time slots?",
+            "answer": "Yes",
+            "from": "IJCAI 2023/attending/Registration Information/Deadlines"
+        },
+        {
+            "question": "How many options are there if divide the registration type according to the time period?",
+            "answer": "The attendees have three registration options depending on the timeframe: Early registration, Late registration, and Onsite registration.",
+            "from": "IJCAI 2023/attending/Registration Information/Deadlines"
+        },
+        {
+            "question": "How many different types of fees are available for payment at this conference?",
+            "answer": "4",
+            "from": "IJCAI 2023/attending/Registration Information/Fees"
+        },
+        {
+            "question": "How much is the average difference in the Main Conference Fees between regular attendees and students across the different registration periods?",
+            "answer": "Approximately $541.67",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "How much is the average difference in the Main Conference Fees between regular attendees and students across the different registration periods?",
+            "answer": "Approximately $541.67.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "What are the differences in the Main Conference Fees for students across the various registration periods?",
+            "answer": "For students paying the Main Conference Fees, the registration cost increases by U$ 150.00 when transitioning from the \"Early\" to the \"Late\" registration period. Moreover, there's an additional increment of U$ 100.00 between the \"Late\" and \"Onsite\" registration durations.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "For regular members paying the \"Workshop and Symposia fee for main conference registrants\" onsite, are there multiple payment methods available?",
+            "answer": "Yes, you can choose among three different fee options: for 1 day, 2 days, or 3 days.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Workshop and Symposia fee for main conference registrants"
+        },
+        {
+            "question": "For regular members paying onsite for 3 days, which is more expensive: the \"Workshop and Symposia fee for main conference registrants\" or the \"Workshop/Symposia/Tutorial/DC only Fees\"?",
+            "answer": "The Workshop/Symposia/Tutorial/DC only Fees",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Workshop and Symposia fee for main conference registrants, IJCAI 2023/attending/Registration Information/Fees/Workshop/Symposia/Tutorial/DC only Fees"
+        },
+        {
+            "question": "For regular members, how much less would they pay for the Main Conference Fees if they register during the Early phase compared to onsite registration?" ,
+            "answer": "$450",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "How much can a student save if they register for the main conference before June 19 compared to registering onsite for the Main Conference?" ,
+            "answer": "$250",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "How much do 10 regular members and 10 students have to pay if they all register onsite for the main conference?" ,
+            "answer": "$19250",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees"
+        },
+        {
+            "question": "For 5 regular members attending the entire duration and 7 students each registering for 2 days, how much would they collectively need to pay onsite for the 'Workshop and Symposia fee for main conference registrants'?" ,
+            "answer": "$4725",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Workshop and Symposia fee for main conference registrants"
+        },
+        {
+            "question": "For the \"Tutorial Only\" category, is there an option to pay for only half a day of attendance?" ,
+            "answer": "Yes",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Tutorial Only"
+        },
+        {
+            "question": "For the \"Tutorial Only\" category, when both students and regular members pay onsite, what is the average difference in cost across the various durations?" ,
+            "answer": "$227.5",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Tutorial Only"
+        },
+        {
+            "question": "For onsite registration of the main conference, how much would it cost in total for 4 professors, 2 postdoctoral researchers, and 3 master's students?",
+            "answer": "The total amount required is $9,675, as PostDocs and part-time students are not eligible for the student discount.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees, IJCAI 2023/attending/Registration Information/General Information/7/Details/3"
+        },
+        {
+            "question": "How much would it cost in total for an undergraduate student to register onsite for the main conference and purchase a Student reception ticket?" ,
+            "answer": "$715",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees, IJCAI 2023/attending/Registration Information/Additional tickets available for purchase/Student reception ticket"
+        }
+    ]
+}

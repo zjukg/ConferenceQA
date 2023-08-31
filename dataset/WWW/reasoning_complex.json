@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the submission process for research papers?",
+        "answer": "Submissions for research papers must adhere to the ACM template and format and be in PDF format. They must be self-contained and written in English. The review process will be double-blind, so the submitted document should omit any author names, affiliations, or other identifying information. Submissions that do not follow these guidelines or do not view or print properly will be rejected without review. The abstract submission deadline is October 6, 2022, and the full paper submission deadline is October 13, 2022, This is compulsory for all papers. All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions"
+    },
+    {
+        "question": "Where can I download the conference paper template?",
+        "answer": "Submissions must adhere to the ACM template and format, which you can find in https://www.acm.org/publications/proceedings-template. Word users may use Word Interim Template, and LaTeX users may use the “sample-sigconf” template. Overleaf users may want to use the ACM proceedings template available in Overleaf, and the link is https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/FormattingSubmissions/Adherence, WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/FormattingSubmissions/TemplateFormats"
+    },
+    {
+        "question": "Do we have to submit an abstract before the manuscript deadline?",
+        "answer": "Abstract submission is compulsory for all papers and must be done before the manuscript deadline. The abstract submission deadline is October 6, 2022, , and it is end-of-day in the Anywhere on Earth (AoE) time zone.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/ImportantDates"
+    },
+    {
+        "question": "Are there any side events organized alongside the main conference?",
+        "answer": "Yes",
+        "from": "WWW2023/satellite Events"
+    },
+    {
+        "question": "What are the side events organized alongside the main conference?",
+        "answer": "Events organized alongside the main conference are W4A, Web Sci2023 and ProvenanceWeek",
+        "from": "WWW2023/satellite Events"
+    },
+    {
+        "question": "Is there any other grant besides the student travel award for conference participants?",
+        "answer": "Yes, this conference also offers a Virtual Participation Award",
+        "from": "WWW2023/Attendees/Virtual Participation Award"
+    },
+    {
+        "question": "Are there any workshops related to knowledge graph?",
+        "answer": "Yes, their titles are “Trusting Decentralised Knowledge Graphs and Web Data (TrusDeKW)”, “Beyond Facts: 3d International Workshop on Knowledge Graphs for Online Discourse Analysis”, “The First International Workshop on Knowledge Graphs for Sustainability - KG4S”",
+        "from": "WWW2023/Program/Accepted Workshops"
+    },
+    {
+        "question": "How many workshops are there in this conference?",
+        "answer": "There are 21 workshops in this conference.",
+        "from": "WWW2023/Program/Accepted Workshops"
+    },
+    {
+        "question": "Are there any tutorials related to graph neural network(GNN) in this conference? If so, what are their title and organizers?",
+        "answer": "Yes, there are two tutorials related to graph neural network in this conference. One is “Graph Neural Networks: Foundation, Frontiers and Applications” and the organizers are Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao and Xiaojie Guo and the other is “Graph Neural Networks for Tabular Data Learning” and the Organizers are Cheng-Te Li, Yu-Che Tsai and Jay Chiehen Liao.",
+        "from": "WWW2023/Program/Accepted Tutorials"
+    },
+    {
+        "question": "Are there any tutorials related to multi modal in this conference? If so, what are their title and organizers?",
+        "answer": "Yes, there is a tutorial related to multi modal in this conference. The title of the tutorial is “Model Monitoring in Practice: Lessons Learned and Open Challenges” and the organizers are Krishnaram Kenthapadi, Himabindu Lakkaraju, Pradeep Natarajan and Mehrnoosh Sameki.",
+        "from": "WWW2023/Program/Accepted Tutorials"
+    },
+    {
+        "question": "How many keynotes are there in this conference?",
+        "answer": "there are 5 keynotes in this conference",
+        "from": "WWW2023/Program/Keynotes"
+    },
+    {
+        "question": "Are there any keynotes related to graph neural network(GNN) in this conference? If so, what are their title and authors?",
+        "answer": "Yes, there is a keynote speech related to Graph Neural Networks (GNNs) in this conference. The title of the keynote is “Graph generative models and their potential in the biomedical domain” and the speaker is Michalis Vazirgiannis.",
+        "from": "WWW2023/Program/Keynotes/4"
+    },
+    {
+        "question": "Will registration fees change over time?",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Registration"
+    },
+    {
+        "question": "Can I register for this conference with different time slots?",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Registration"
+    },
+    {
+        "question": "How many options are there if divide the registration type according to the time period?",
+        "answer": "There will be three options: \nFull Conference (5 days: April 30 - May 4), Workshop, Tutorial.\nSpecial Days, W4A, WebSci, Provenance (2 Days: April 30 - May 1).\nMain Conference (3 days: May 2 - May 4)",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "What is the average difference in registration fees between ACM members and non-ACM members?",
+        "answer": "$178.5",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How many times the cost of the virtual conference would a student have to pay if they register for the main conference during the Standard period?",
+        "answer": "5.5 times",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "Among the three types of conferences (Full Conference, Workshop, and Main Conference), which one is the most expensive for ACM members registering onsite?",
+        "answer": "The Full Conference is the most expensive at $1400.",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much less does a participant only attending the WebSci event in person have to pay if they register during the Standard period compared to an ACM member registering for the full conference during the Early Bird period?",
+        "answer": "$700",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much can a student save if they register for the main conference before March 15th compared to registering onsite for the workshops?",
+        "answer": "$50",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much do 10 NON-ACM members and 10 students have to pay if they all register onsite for the full conference?",
+        "answer": "$27000",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much can a NON-ACM member save if they choose to attend the virtual conference compared to registering onsite for the main conference?",
+        "answer": "$800",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "What is the price difference between onsite registration and virtual participation for a participant only attending the WebSci event?",
+        "answer": "$450",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much does an ACM member have to pay if they decide to register for the workshop onsite and then also register for the main conference?",
+        "answer": "$1700",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much would it cost for 5 students to attend the virtual conference?",
+        "answer": "$500",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "If a student registers onsite for the workshop and main conference, what is the total cost?",
+        "answer": "$1150",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How much more expensive is the standard registration for the full conference for a NON-ACM member compared to the early bird registration?",
+        "answer": "$100",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "What is the difference in cost between an ACM member and a NON-ACM member for the Workshop during the standard registration period?",
+        "answer": "$100",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "If an ACM member attends the Main Conference and also registers for the Workshop during the Early Bird period, what would be the total cost?",
+        "answer": "$1500",
+        "from": "WWW2023/Attendees/Registration/Register Fee(All fees in US dollars)"
+    },
+    {
+        "question": "How many program committees are there in Industry Track?",
+        "answer": "133",
+        "from": "WWW2023/calls/Call For Industry Proposals/Program Committees"
+    }
+]

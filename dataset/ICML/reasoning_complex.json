@@ -1,0 +1,100 @@
+{
+    "QAs": [
+        {
+            "question": "Where can I download the conference paper template？",
+            "answer": "you can find in https://media.icml.cc/Conferences/ICML2023/Styles/icml2023.zip.",
+            "from": "ICML2023/Calls/Call For Papers/Author InstructionsSubmissions"
+        },
+        {
+            "question": "How many keynotes are there in this conference?",
+            "answer": "3 keynotes",
+            "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshops/workshops/events"
+        },
+        {
+            "question": "How many people are on the Workshop review committee?",
+            "answer": "31",
+            "from": "ICML2023/Calls/Call For Workshops/Submission format/Workshop review committee"
+        },
+        {
+            "question": "How much do I have to pay if I have already registered an account and want to bring someone to the opening reception?",
+            "answer": "$75.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing"
+        },
+        {
+            "question": "How much money was donated by a diamond level exhibtor and a platinum level exhibtor?",
+            "answer": "$180,000 USD",
+            "from": "ICML2023/Exhibitor Info/Exhibitor Levels"
+        },
+        {
+            "question": "How much money was donated by two diamond level exhibtors and a gold level exhibtor?",
+            "answer": "$250,000 USD",
+            "from": "ICML2023/Exhibitor Info/Exhibitor Levels"
+        },
+        {
+            "question": "How much money was donated by a diamond level exhibtor and a silver level exhibtor?",
+            "answer": "$120,000 USD",
+            "from": "ICML2023/Exhibitor Info/Exhibitor Levels"
+        },
+        {
+            "question": "Is the registration price the same for different people?",
+            "answer": "No",
+            "from": "ICML2023/Year(2023)/Registration/Pricing"
+
+        },
+        {
+            "question": "How much money can students save if they register for the conference sessions in advance compared to registering for conference sessions later?",
+            "answer": "$20.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "How much do people from industry have to pay to attend workshops and tutorials on site?",
+            "answer": "$715.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "What is the difference between academic and full-time students applying for the virtual pass early?",
+            "answer": "$125.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "Does it cost less to register for a virtual pass in advance?",
+            "answer": "No",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "People in industry sign up early for tutorials, Conference Sessions, workshops, how much it costs in total?",
+            "answer": "$1365.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "For full-time students, register for tutorials or workshops, which is more expensive?",
+            "answer": "Workshops is more expensive",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "How much does it cost for a full-time student and a university teacher to attend the workshop and register in advance?",
+            "answer": "$575.00 USD",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "Is the registration price the same at different times?",
+            "answer": "No",
+            "from": "ICML2023/Year(2023)/Registration/Pricing/Choose your affiliation type and either Virtual Pass or a combination of Tutorials, Conference and Workshops.  A Virtual pass is included with any physical registration."
+        },
+        {
+            "question": "How many levels of exhibitors are there?",
+            "answer": "6",
+            "from": "ICM2023/Year(2023)/Exhibitors/2023 Exhibitors"
+        },
+        {
+            "question": "How many ICML 2023 Workshop Chairs are there?",
+            "answer": "3",
+            "from": "ICML2023/Calls/Call For Workshops/Submission format/ICML 2023 Workshop Chairschairs"
+        },
+        {
+            "question": "How many Subject areas does the Expo include?",
+            "answer": "6",
+            "from": "ICML2023/Calls/Call For Expo/Subject areas"
+        }
+    ]
+}

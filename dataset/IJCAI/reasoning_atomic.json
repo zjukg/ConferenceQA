@@ -1,0 +1,59 @@
+{
+    "QAs": [
+        {
+            "question": "Has the IJCAI conference been held since 1969?",
+            "answer": "Yes",
+            "from": "IJCAI 2023/Home/CALL FOR PAPERS"
+        },
+        {
+            "question": "Does the upcoming 2023 International Joint Conference on Artificial Intelligence (IJCAI) have any multi-year special tracks planned?",
+            "answer": "Yes",
+            "from": "IJCAI 2023/Home/CALL FOR PAPERS"
+        },
+        {
+            "question": "Is there any page limit of the papers?",
+            "answer": "Papers must be no longer than9pages in total:7pages for the body of the paper and2pages for references; the optional ethics statement can be placed either in the body of the paper or in the reference pages. For accepted papers, the last two pages can also contain acknowledgements and the contribution statement.",
+            "from": "IJCAI 2023/calls/Call For Papers/6/New in 2023/Page limit:"
+        },
+        {
+            "question": "As part of the IJCAI 2023 submission policy, do authors submitting paper proposals need to agree to 'Authors commit to reviewing'?",
+            "answer": "No, this requirement may be waived in a limited range of exceptional circumstances (researchers leaving academia, parental leave, etc.)",
+            "from": "IJCAI 2023/calls/Call For Papers/6/New in 2023/Authors commit to reviewing:"
+        },
+        {
+            "question": "If I have three accepted papers for the main conference, do I need to pay a fee for each paper?",
+            "answer": "No",
+            "from": "IJCAI 2023/attending/Registration FAQ/0"
+        },
+        {
+            "question": "Does the Diamond Sponsorship package include complimentary full conference registrations and exhibit stands?",
+            "answer": " Yes",
+            "from": "IJCAI 2023/sponsorship/Sponsorship Opportunities/HOW TO SPONSOR/0/Benefits"
+        },
+        {
+            "question": "Will a student travel grant application be accepted if it is submitted late?",
+            "answer": "No",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/11"
+        },
+        {
+            "question": "If you are awarded a grant, do you automatically get the grant money without having to do anything else?",
+            "answer": "No, you will be required to confirm the acceptance. Failure to do so shall result in a loss of the grant!",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/8"
+        },
+        {
+            "question": "Can any researcher submit a paper to the Survey Track at IJCAI 2023?",
+            "answer": "No, the list of authors should contain at least one author who has contributed significantly to the AI literature over the last five years (and can thus be considered an expert on that topic).",
+            "from": "IJCAI 2023/calls/Call For Papers: Survey Track/2/Who Can Submit a Paper?"
+        },
+        {
+            "question": "During the review period for the Survey Track at IJCAI, can authors submit papers to venues with formal publication for multiple submissions?",
+            "answer": "No",
+            "from": "IJCAI 2023/calls/Call For Papers: Survey Track/7/Policy on Multiple Submissions"
+        },
+        {
+            "question": "When was the Call for Papers announced for the conference?",
+            "answer": "January 4, 2023",
+            "from": "IJCAI 2023/calls/Call For Papers/0/ImportantDates (all times are Anywhere On Earth, UTC-12)"
+        }
+    ]
+}

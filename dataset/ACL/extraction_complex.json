@@ -1,0 +1,119 @@
+{
+    "QAs": [
+        {
+            "question": "Who are the keynote speakers for the ACL2023 conference?",
+            "answer": "The keynote speakers of ACL2023 are Geoffrey Hinton and Alison Gopnik.",
+            "from": "ACL2023/Program/EVENTS/Keynotes/content/speakers"
+        },
+        {
+            "question": "What are the main tracks of the ACL2023 conference?",
+            "answer": "The 2023 ACM Web Conference will offer a high quality program made of main conference, findings , industry track , system demonstration, workshops and tutorials.",
+            "from": "ACL2023/Program/PROGRAMS/,ACL2023/Program/Accepted Papers"
+        },
+        {
+            "question": "What are the major topics that will be discussed in the ACL2023 conference sessions?",
+            "answer": "The major topics that will be discussed in the ACL2023 conference sessions are: all aspects of Computational Linguistics and Natural Language Processing.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/introduction"
+        },
+        {
+            "question": "Who are the organizers behind ACL2023 conference?",
+            "answer": "The organization of the ACL2023 conference involves multiple roles. The key committees and their respective chairs are as follows: General Chairs: Yang Liu (Amazon, USA).Program Chairs: Jordan Boyd-Graber (University of Maryland, USA), Naoaki Okazaki (Tokyo Institute of Technology, Japan), Anna Rogers (IT University of Copenhagen, Denmark).Workshop Chairs: Eduardo Blanco (University of Arizona, USA), Yang Feng (Chinese Academy of Sciences, China), Annie Louis (Google, UK).Tutorial Chairs: Yun-Nung (Vivian) Chen (National Taiwan University, Taiwan), Margot Mieskes (University of Applied Sciences, Darmstadt, Germany), Siva Reddy (McGill University and Mila, Canada).Demonstration Chairs: Danushka Bollegala (University of Liverpool, UK), Ruihong Huang (Texas A&M University, USA), Alan Ritter (Georgia Institute of Technology, USA).Industry Track Chairs: Beata Beigman Klebanov (Educational Testing Service, USA), Sunayana Sitaram (Microsoft Research India, India), Jason Williams (Apple, USA).Student Research Workshop Chairs: Yao Fu (University of Edinburgh, UK), Vishakh Padmakumar (New York University, USA), Gisela Vallejo (University of Melbourne, Australia).Faculty Advisors for Student Research Workshop: Ivan Vulić (University of Cambridge, UK), Lu Wang (University of Michigan, USA).Student Volunteer Chairs: Tao Yu (University of Hong Kong, Hong Kong), Ayah Zirikly (Johns Hopkins University, USA).Publication Chairs: Ryan Cotterell (ETH Zürich, Switzerland), Lifu Huang (Virginia Tech, USA), Chenghua Lin (University of Sheffield, UK), Lei Shu (Google, USA), Jesse Thomason (University of Southern California, USA).Ethics Chairs: Yonatan Bisk (Carnegie Mellon University, USA), Dirk Hovy (Bocconi University, Italy).Website Chairs: Jinho Choi (Emory University, USA), Zhongyu Wei (Fudan University, China).Virtual Infrastructure Chairs: Pedro Rodriguez (Meta, USA), Martín Villalba (Bayer AG, Germany), Jiacheng Xu (Salesforce, USA).Publicity and Social Media Chairs: Devamanyu Hazarika (Amazon, USA), Eva Vanmassenhove (Tilburg University, Netherlands), Tong Xu (University of Science and Technology of China, China).Sponsorship Chairs: Lei Li (University of California Santa Barbara, USA), Alla Rozovskaya (City University of New York, USA).Diversity and Inclusion Chairs: Daniel Beck (University of Melbourne, Australia), Maryam Fazel-Zarandi (Meta, USA), Nedjma Djouhra Ousidhoum (University of Cambridge, UK).",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/content"
+        },
+        {
+            "question": "How do I register for the ACL2023 conference?",
+            "answer": "You can register register here: https://acl.swoogo.com/ACL2023.",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/introduction"
+        },
+        {
+            "question": "Who are the sponsors for the ACL2023 conference",
+            "answer": "The sponsors of the ACL2023 conference include: Diamond-Level Welcome Event: cohere, Diamond: liveperson, apple, bloomberg, ibm, facebook, microsoft, google, Platinum: grammarly, amazon, flitto, baidu, bytedance, megagon, deepmind, huawei, speechocean, kaust, Gold: jpmorgan, nec, ant group, comcast, tencent, Silver: alibaba, duolingo, aixplain, translated, bosch, Bronze: servicenow, adobe, babelscape, Diversity and Inclusion: Champions.: liveperson, deepmind, Diversity and Inclusion: Ally: amazon.",
+            "from": "ACL2023/Sponsors/content"
+        },
+        {
+            "question": "Are there any hotel recommendations for attendees of the ACL2023 conference?",
+            "answer": "ACL 2023 will take place in the Westin Harbour Castle, Toronto:\n\nAddress: 1 Harbour Square, Toronto, ON M5J 1A6, Canada\nPhone: +1 416-869-1600\n\nPlease use the direct hotel link to see if they have availability or search Bookings.com for other accommodations. We recommend you not hold off on booking as the Downtown area has a lot of events taking place the week of the ACL Conference.",
+            "from": "ACL2023/Venue/Venue/content/Conference Venue"
+        },
+        {
+            "question": "Does the ACL2023 conference offer any travel grants for participants?",
+            "answer": "The ACM Web Conference offers Travel Awards of up to US$1000 for students. The exact value of the award depends on several factors such as geographical areas, diversity, topics and submission type. The purpose of the Travel Award is to help offset the travel costs for full-time students who are planning to attend the conference in-person. The aim of the travel award is to encourage students to participate in the workshops, tutorials, the main conference and other career enhancement programs at the Web Conference as well as to increase diversity of the participants at the conference. The student travel award is sponsored by Zhipu AI.",
+            "from": "ACL2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/Introduce"
+        },
+        {
+            "question": "Tell me more about the history of the ACL.",
+            "answer": "The Association for Computational Linguistics (ACL) is the premier international scientific and professional society for people working on computational problems involving human language, a field often referred to as either computational linguistics or natural language processing (NLP). The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL), and became the ACL in 1968. Activities of the ACL include the holding of an annual meeting each summer and the sponsoring of the journal Computational Linguistics, published by MIT Press; this conference and journal are the leading publications of the field. For more information, see: https://www.aclweb.org/. ​",
+            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
+        },
+        {
+            "question": "Is the submission of research paper double blind?",
+            "answer": "Yes. The submissions to ACL and any supplementary materials must not include authors’ names and affiliations, or the acknowledgments section. Self-references that reveal the authors’ identities must be avoided. For example, instead of “We previously showed (Smith, 1991) …” or even “We previously showed (Anonymous, 1991)… “ please use “Smith previously showed (Smith, 1991) …”.\nThe submissions should avoid links to non-anonymized repositories: the code should be either submitted as supplementary material, or as a link to an anonymized repository (e.g., Anonymous GitHub or Anonym Share). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources). Papers that do not conform to these requirements will be rejected without review.",
+            "from": "ACL2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/AuthorIdentityResearchFundingTransparency/ReviewProcess"
+        },
+        {
+            "question": "How can I contact the ACL2023 Workshop Chairs?",
+            "answer": "The track chairs for the ACL2023 research track are:Eduardo Blanco (University of Arizona, USA), Yang Feng (Chinese Academy of Sciences, China), Annie Louis (Google, UK). You can contact them at the following email address: eduardoblanco@arizona.edu, engyang@ict.ac.cn, annielouis@google.com​.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/content/Workshop Chairs"
+        },
+        {
+            "question": "Will there be a rebuttal phrase in research tracks?",
+            "answer": "The Web Conference 2023 will consider author rebuttals. Authors will have the chance to provide brief rebuttals in response to the reviews, mainly making clarifications and answering key questions raised by the reviewers. No additional technical contents or experimental results will be considered during the rebuttal phase. The final decision will consider the rebuttal from the authors where applicable.",
+            "from": "ACL2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/Rebuttal"
+        },
+        {
+            "question": "What are the important days for the ACL2023 conference?",
+            "answer": "The important days of ACL2023 conference are scheduled as follows:Submission template available (November 1, 2022), Anonymity period for ARR papers (November 15, 2022), Submission deadline for papers submitted to ARR (December 15, 2022), Anonymity period for papers submitted through Softconf START (December 20, 2022), Abstract deadline for Softconf START direct submissions (January 13, 2023), Direct paper submission deadline (January 20, 2023), Anonymity period for ARR papers to be committed to ACL 2023 (Februrary 17, 2023), Commitment deadline for ARR papers (March 17, 2023), Author response period (March 17-24, 2023), Discussion period (March 25-April 7, 2023), Notification of acceptance (May 1, 2023), Withdrawal deadline (May 8, 2023), Camera-ready papers due (May 25, 2023), Tutorials (July 9, 2023), Conference (July 10-12, 2023), Workshops (July 13-14, 2023).",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        },
+        {
+            "question": "Is there a policy for ACL Code of Conduct?",
+            "answer": "Yes",
+            "from": "ACL2023/Participants/Participants Information/Ethical Policies/content/ACL Code of Conduct"
+        },
+        {
+            "question": "What is the policy for professional conduct or behavior for attendees?",
+            "answer": "The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of the ACL. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs.\n\nHarassment and hostile behavior are unwelcome at any ACL conference, associated event, or in ACL-affiliated online discussions. This includes speech or behavior that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation in a conference or an event. We aim for ACL-related activities to be an environment where harassment in any form does not happen, including but not limited to: harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention. The policy is not intended to inhibit challenging scientific debate, but rather to promote it by ensuring that all are welcome to participate in the shared spirit of scientific inquiry. Vexatious complaints and willful misuse of this procedure will render the complainant subject to the same sanctions as a violation of the anti-harassment policy.\n\nIt is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact any member of the Professional Conduct Committee. Members of this committee are instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.",
+            "from": "ACL2023/Participants/Participants Information/Ethical Policies/content/ACL Code of Conduct"
+        },
+        {
+            "question": "What requests are needed for visa letter?",
+            "answer": "You can apply for an invitation letter for obtaining a VISA for ACL 2023 in this form if you have submitted a paper to the main conference ACL 2023 as an author (including co-authors) and your Softconf ID is associated with the submission.",
+            "from": "ACL2023/Participants/Participants Information/Invitation Letter/content"
+        },
+        {
+            "question": "What awards are set by ACL2023 conference",
+            "answer": "ACL2023 conference set Best Paper Awards, Special Awards, Outstanding Papers, Area Chair Awards, Demo Track Awards, Student Research Workshop Awards, Honorable Mentions, Outstanding Reviewers, Outstanding Senior Area Chairs and Outstanding Area Chairs.",
+            "from": "ACL2023/Program/AWARDS/Best Papers,ACL2023/Program/AWARDS/Best Reviewers"
+        },
+        {
+            "question": "What does the full conference in-person registration fee includes:?",
+            "answer": "The Full Conference In-person Registration Fee Includes:\nAdmission to all in-person Meeting sessions and the exhibition as well as the entire virtual program\nConference Bag and Materials\nTea and coffee breaks throughout the Meeting\nAdmission to the Welcome Reception on Sunday 9th of July at The Westin Harbour Castle, Metropolitan Ballroom including light canapes and a welcome drink.\nAdmission to the Social Dinner on Tuesday 11th July at The Steam Whistle Brewer, including buffet dinner.\nAttendance to all recorded sessions on demand for at least one month following the Meeting.",
+            "from": "ACL2023/Registration/Registration/content/introduction/The Full Conference In-person Registration Fee Includes"
+        },
+        {
+            "question": "What are the titles of the keynotes in this conference?",
+            "answer": "The titles of the keynotes for this conference are “Two Paths to Intelligence”, “Large Language Models as Cultural Technologies: Imitation and Innovation in Children and Models”",
+            "from": "ACL2023/Program/EVENTS/Keynotes/content"
+        },
+        {
+            "question": "What is the price for just registering for the full conference regular early of virtual conference?",
+            "answer": "$300.00",
+            "from": "ACL2023/Registration/Registration/content/Virtual Pricing/content/pricing"
+        },
+        {
+            "question": "How much does an author have to pay if they register for full conference regular early in person?" ,
+            "answer": "$830.00",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "How much does an author have to pay if they missed the early discount and register for full conference regular late in person?",
+            "answer": "$900",
+            "from": "ACL2023/Registration/Registration/content/In- Person Pricing/content/pricing"
+        },
+        {
+            "question": "What are the important dates for May 2023",
+            "answer": "On May 1, 2023, the notification of acceptance are due. Subsequently, the withdrawal deadline is set for May 8, 2023. And the camera-ready papers due is on May 25, 2023.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        }
+    ]
+}

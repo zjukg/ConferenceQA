@@ -1,0 +1,159 @@
+{
+    "QAs": [
+        {
+            "question": "What is the purpose of the ACL2023 conference?",
+            "answer": "The Association for Computational Linguistics (ACL) is the premier international scientific and professional society for people working on computational problems involving human language, a field often referred to as either computational linguistics or natural language processing (NLP). The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL), and became the ACL in 1968. Activities of the ACL include the holding of an annual meeting each summer and the sponsoring of the journal Computational Linguistics, published by MIT Press; this conference and journal are the leading publications of the field. For more information, see: https://www.aclweb.org/. ​",
+            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
+        },
+        {
+            "question": "What is the date of the ACL2023 conference?",
+            "answer": "The ACM Conference 2023 will be held from July 9 to July 14, 2023",
+            "from": "ACL2023/Home/date"
+        },
+        {
+            "question": "What is the location of the ACL2023 conference?",
+            "answer": "The location of the conference is in Toronto, Canada.",
+            "from": "ACL2023/Home/location"
+        },
+        {
+            "question": "Will there be any virtual components to the ACL2023 conference?",
+            "answer": "The ACL2023 Conference is an in-person conference with virtual components including Attendance to all Meeting sessions via the virtual conference platform, Access to online poster gallery, Access to online networking opportunities, Attendance to all recorded sessions on demand for at least one month following the Meeting.",
+            "from": "ACL2023/Registration/content/introduction/The Full Conference Virtual Registration Fee Includes"
+        },
+        {
+            "question": "What is the deadline for early registration",
+            "answer": "The early registration deadline is  June 18, 2023, 11:59 PM (EDT)",
+            "from": "ACL2023/Registration/content/introduction/Note that"
+        },
+        {
+            "question": "What is the deadline for submission in Main Conference?",
+            "answer": "The Direct paper submission deadline is January 20, 2023, 11:59PM UTC-12:00 (“anywhere on Earth”).",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        },
+        {
+            "question": "What is the notification date in research track?",
+            "answer": "The notification date is May 1, 2023, 11:59PM UTC-12:00 (“anywhere on Earth”)",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        },
+        {
+            "question": "Will there be social programs at the conference?",
+            "answer": "Yes, there will be a social program at the conference.",
+            "from": "ACL2023/Program/EVENTS/Social Programs"
+        },
+        {
+            "question": "when is the social program of this conference?",
+            "answer": "The social program of this conference is from 7:00 PM to 10:30 PM July 11th .",
+            "from": "ACL2023/Program/EVENTS/Social Programs"
+        },
+        {
+            "question": "Can the conference provide visa letter for attendees?",
+            "answer": "You can apply for an invitation letter for obtaining a VISA for ACL 2023 in this form if you have submitted a paper to the main conference ACL 2023 as an author (including co-authors) and your Softconf ID is associated with the submission.",
+            "from": "ACL2023/Participants/Participants Information/Invitation Letter/content"
+        },
+        {
+            "question": "What is ACL student research workshop?",
+            "answer": "The ACL 2023 Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/introduction"
+        },
+        {
+            "question": "When is the Paper submission deadline for the student research workshop paper?",
+            "answer": "Deadline for student research workshop paper is May 5, 2023, 11:59PM UTC-12:00 (“anywhere on Earth”).",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/Important Dates"
+        },
+        {
+            "question": "When is the student research workshop notification?",
+            "answer": "Notification for student research workshop is June 8, 2023.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Student Research Workshop/content/Important Dates"
+        },
+        {
+            "question": "What is Computational Linguistics?",
+            "answer": "Computational linguistics is the scientific study of language from a computational perspective. Computational linguists are interested in providing computational models of various kinds of linguistic phenomena. These models may be “knowledge-based” (“hand-crafted”) or “data-driven” (“statistical” or “empirical”). Work in computational linguistics is in some cases motivated from a scientific perspective in that one is trying to provide a computational explanation for a particular linguistic or psycholinguistic phenomenon; and in other cases the motivation may be more purely technological in that one wants to provide a working component of a speech or natural language system. Indeed, the work of computational linguists is incorporated into many working systems today, including speech recognition systems, text-to-speech synthesizers, automated voice response systems, web search engines, text editors, language instruction materials, to name just a few.",
+            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
+        },
+        {
+            "question": "What is the cancelation policy of regisration?",
+            "answer": "Cancellation of registration one month or more prior to the conference (June 09, 2023, or before), will be refunded the full amount paid. (Minus up to $50 processing fee)\n\nCancellations up to three weeks prior to the conference (June 16, 2023) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200.\n\nCancellations 2 weeks prior to start of Conference (June 23, 2023), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.\n\nExceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancelation exceptions.",
+            "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
+        },
+        {
+            "question": "When conference was first founded?",
+            "answer": "The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL).",
+            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
+        },
+        {
+            "question": "What is the full name of this conference?",
+            "answer": "Association for Computational Linguistics",
+            "from": "ACL2023/Home/full name"
+        },
+        {
+            "question": "What is the time period of author response in main conference?" ,
+            "answer": "Time period of author response is from March 17 to March24, 2023",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        },
+        {
+            "question": "Who are the tutorial chairs?" ,
+            "answer": "The tutorial chairs are Yun-Nung (Vivian) Chen、Margot Mieskes and Siva Reddy.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/Tutorial Chairs"
+        },
+        {
+            "question": "Who are the workshop chairs?" ,
+            "answer": "The workshop chairs are Eduardo Blanco、Yang Feng and Annie Louis.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/Workshop Chairs"
+        },
+        {
+            "question": "How can I contact program chairs?" ,
+            "answer": "You can contact them at acl2023-pc@googlegroups.com.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/Program Chairs/contact"
+        },
+        {
+            "question": "How can I contact industry track chairs?" ,
+            "answer": "You can contact them at acl-2023-industry-track-pcs@googlegroups.com.",
+            "from": "ACL2023/Committees/COMMITTEES/Organizing Committee/Industry Track Chairs/contact"
+        },
+        {
+            "question": "What is the main focus of the Industry Track of ACL 2023?" ,
+            "answer": "The Industry Track focuses on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing technologies in non-trivial real-world systems.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Industry Track/content/introduction"
+        },
+        {
+            "question": "Can students also submit papers to industry track?" ,
+            "answer": "Yes! If your work matches the industry track call for papers, consider submitting a paper to the industry track.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Industry Track/content/Frequently Asked Questions"
+        },
+        {
+            "question": "Where will accepted papers in Industry track for ACL2023 be published?" ,
+            "answer": "Accepted industry track papers will be published as a separate volume of the proceedings. For example, see the EMNLP 2022 proceedings.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/Industry Track/content/Frequently Asked Questions"
+        },
+        {
+            "question": "When is the deadline for tutorials proposals submission?" ,
+            "answer": "The deadline for tutorials proposals submission is December 1st, 2022",
+            "from": "ACL2023/Calls/Call for Proposals/Tutorials/Important Dates"
+        },
+        {
+            "question": "When is the deadline for the system demonstration paper submission?",
+            "answer": "The deadline for the system demonstration paper submission was February 24, 2023.",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/System Demonstration/content/Important Dates"
+        },
+        {
+            "question": "When is the system demonstration notification of acceptance?",
+            "answer": "The notification date is May 8, 2023",
+            "from": "ACL2023/Calls/CALL FOR PAPERS/System Demonstration/content/Important Dates"
+        },
+        {
+            "question": "When was the deadline for proposals for workshops?",
+            "answer": "The deadline for proposal submission deadline was November 15, 2022.",
+            "from": "ACL2023/Calls/Call for Proposals/Workshops/Important Dates"
+        },
+        {
+            "question": "When is the workshops notification of acceptance?",
+            "answer": "The notification date is December 14, 2022.",
+            "from": "ACL2023/Calls/Call for Proposals/Workshops/Important Dates"
+        },
+        {
+            "question": "When was the tutorials proposals notification of acceptance?",
+            "answer": "The tutorials proposals notification was February 3rd, 2023.",
+            "from": "ACL2023/Calls/Call for Proposals/Tutorials/Important Dates"
+        }
+    ]
+}

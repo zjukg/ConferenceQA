@@ -1,0 +1,119 @@
+{
+    "QAs": [
+        {
+            "question": "Who are the silver sponsors for the IJCAI 2023 conference?",
+            "answer": "The silver sponsors of IJCAI 2023 are Baidu, DiDi, JD.com, Huawei",
+            "from": "IJCAI 2023/sponsorship/Sponsors/Silver Sponsors"
+        },
+        {
+            "question": "What are the main tracks of the IJCAI 2023 conference?",
+            "answer": "The main tracks of this conference include regular papers, survey papers, special tracks, tutorials, demos, videos, robot exhibitions, and other activities related to fostering academic exchange and diversity.",
+            "from": "IJCAI 2023/calls/Call For Workshop Proposals, IJCAI 2023/calls/Call For Papers And Projects: Multi-Year Track On AI And Social Good (Special Track), IJCAI 2023/calls/Call For Papers: AI The Arts And Creativity (Special Track), IJCAI 2023/calls/Main Track, IJCAI 2023/calls/Call For Papers, IJCAI 2023/calls/Journal Track, IJCAI 2023/calls/Call for African Spotlight Posters, IJCAI 2023/calls/Call for IJCAI 2023 Doctoral Consortium Program, IJCAI 2023/calls/Call for Robot Exhibition, IJCAI 2023/calls/Call For Videos, IJCAI 2023/calls/Call For Papers: Survey Track, IJCAI 2023/calls/Call For Demos, IJCAI 2023/calls/Call For Tutorials, IJCAI 2023/calls/Call For Competitions And Challenges, IJCAI 2023/calls/Call For Diversity Events"
+        },
+        {
+            "question": "What are the major topics that will be discussed in the IJCAI 2023 conference sessions?",
+            "answer": "The IJCAI 2023 Conference will cover a wide range of artificial intelligence topics, including core AI techniques like machine learning and natural language processing as well as interdisciplinary research intersecting AI with other fields. Both theoretical innovations in AI and practical applications to real-world problems will be discussed. Given the conference's goals, there will also be a focus on the societal impacts of AI, including ethical issues and applications towards global challenges. Other key themes include enhancing human intelligence and creativity with AI, and novel AI applications in areas like the arts. ",
+            "from": "IJCAI 2023/calls/Call For Papers"
+        },
+        {
+            "question": "Who are the organizers behind IJCAI 2023 conference?",
+            "answer": "The International Joint Conferences on Artificial Intelligence Organization is the main organizer of IJCAI 2023. The conference is being co-hosted and co-organized by the University of Macau, The Hong Kong University of Science and Technology, and Shenzhen University.",
+            "from": "IJCAI 2023/Home/ORGANISERS, IJCAI 2023/Home/Co-Hosts \/ Co-Organizers"
+        },
+        {
+            "question": "How do I register for the IJCAI 2023 conference?",
+            "answer": "You can register through https://registration.ijcai.org. If you have any issues with registration, please contact registration@ijcai.org",
+            "from": "IJCAI 2023/attending/Registration Information/General Information/8, IJCAI 2023/attending/Registration Information/General Information/9"
+        },
+        {
+            "question": "what are the hot links for the IJCAI 2023 conference",
+            "answer": "The organizers have provided several hot links for attendees regarding the conference schedule, accommodation booking, and registration. The papers schedule with important dates is available at https://ijcai-23.org/paper-schedule/, while accommodation can be booked via the link https://ijcai-23.scimeeting.cn/en/web/index/. Finally, conference registration is now open and can be accessed through https://registration.ijcai.org/.",
+            "from": "IJCAI 2023/Home/Hot links"
+        },
+        {
+            "question": "What are the available accommodation choices for attendees of this IJCAI 2023 conference?",
+            "answer": "Attendees have a range of hotel options in Macao, from luxury resorts to budget downtown hotels. Discounted conference rates are available at the Sheraton Grand Macao along with other hotels to be announced. Accommodation can be booked through the conference website at https://ijcai-23.scimeeting.cn/en/web/index/. The Macao Government Tourism Office website also provides an accommodation search and recommendations at https://www.macaotourism.gov.mo/en/accommodation/search. In summary, attendees can choose from various Macao hotels and are advised to book via the conference site to get the negotiated rates.",
+            "from": "IJCAI 2023/attending/Accommodation"
+        },
+        {
+            "question": "Does the IJCAI 2023 conference offer any travel grants for participants?",
+            "answer": "The International Joint Conferences on Artificial Intelligence (IJCAI) Organization, in partnership with its journal Artificial Intelligence (AIJ), is pleased to continue its Grant Program for students, junior researchers, and scientists attending IJCAI-23, to be held in Macao SAR from August 19-25, 2023. The IJCAI-23 Travel Grants Program is fully sponsored by the IJCAI Organization and the AIJ. A post-conference report and receipts totaling the grant amount will be required to receive the grant. If applications exceed available funds, preference will be given first to students and applicants with accepted technical papers, and then to students and applicants actively participating in the conference.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/0, IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/6"
+        },
+        {
+            "question": "Who are the Program Chairs for the IJCAI 2023 Main Track?",
+            "answer": "The Program Chairs for the IJCAI 2023 Main Track are Edith Elkind from the University of Oxford, UK.",
+            "from": "IJCAI 2023/committees/Program Committee/IJCAI 2023 Main Track/0"
+        },
+        {
+            "question": "Who are the Associate Program Chairs for the IJCAI 2023 Main Track?",
+            "answer": "The Associate Program Chairs are Noa Agmon from Bar-Ilan University, Israel, Bo An from Nanyang Technological University, Singapore, and Sanmay Das from George Mason University, United States.",
+            "from": "IJCAI 2023/committees/Program Committee/IJCAI 2023 Main Track/1, IJCAI 2023/committees/Program Committee/IJCAI 2023 Main Track/2, IJCAI 2023/committees/Program Committee/IJCAI 2023 Main Track/3"
+        },
+        {
+            "question": "What are the restrictions or requirements for canceling conference registration?",
+            "answer": "All cancellations must be sent to registration@ijcai.org via email. Any name changes will be treated as a cancellation and new registration. Students applying to the IJCAI-23 Volunteering Program must not register before being notified by the Volunteers' Chair, otherwise a $100 processing fee will be charged. For cancellations before July 19, 2023, payments will be refunded less a $100 processing fee. No refunds will be given for cancellations received after July 19, 2023 or for registrants who fail to attend in person.",
+            "from": "IJCAI 2023/attending/General Disclaimer/Cancellation and Changes"
+        },
+        {
+            "question": "What is included and not included in the full delegate registration fee?",
+            "answer": "The full delegate registration fee includes one opening reception ticket, one banquet ticket, and free tutorials. It does not include additional tickets for social events, which can be purchased separately at the time of registration.",
+            "from": "IJCAI 2023/attending/Registration Information/General Information/2, IJCAI 2023/attending/Registration Information/General Information/4, IJCAI 2023/attending/Registration Information/General Information/6"
+        },
+        {
+            "question": "What is included and not included in the full student registration fee?",
+            "answer": "The full student registration fee includes one opening reception ticket, one student reception ticket, and free tutorials. It does not include additional tickets for social events, which can be purchased separately at the time of registration.",
+            "from": "IJCAI 2023/attending/Registration Information/General Information/3, IJCAI 2023/attending/Registration Information/General Information/4, IJCAI 2023/attending/Registration Information/General Information/6"
+        },
+        {
+            "question": "What are the requirements for proof of student status during student registration?",
+            "answer": "Students will be required to upload proof of their student status at time of registration. The student status proof must be clearly readable in English, contain the name of the candidate and dates of validity that overlap with the conference dates. Proof containing a verification code must not fail verification. Student IDs without clear validity dates, webpage screenshots, and unofficial records will not be accepted.",
+            "from": "IJCAI 2023/attending/Registration Information/General Information/7/Details/1, IJCAI 2023/attending/Registration Information/General Information/7/Details/2"
+        },
+        {
+            "question": "Are there different visa requirements for people from different countries to attend the conference in Macau?",
+            "answer": "Yes, visa requirements for the IJCAI-23 conference in Macau vary depending on the attendee's country of origin. Macau is visa-free or visa-on-arrival for visitors from most countries. However, attendees from Bangladesh, Nepal, Nigeria, Pakistan, Sri Lanka and Vietnam need to obtain a Macau visa in advance through a Chinese embassy or consulate. Mainland China residents can apply for an Exit-Entry Permit to visit Macau for up to 7 days. All visitors should check the website https://www.gov.mo/en/services/ps-1474/ps-1474b/ to confirm if they need a visa before traveling to Macau for the conference.",
+            "from": "IJCAI 2023/attending/Travel Information/Do I need a VISA?/Method of knowing, IJCAI 2023/attending/Travel Information/Do I need a VISA?/Tips"
+        },
+        {
+            "question": "How to apply for the Travel and Accessibility Grant?",
+            "answer": "Applicants for the IJCAI-23 Travel and Accessibility Grant must submit the application form and required documents by email to grants-volunteers-chairs-23@ijcai.org no later than May 19, 2023 midnight AoE. The email should include the results of requesting support from department/local AI Society, availability of other funding sources, a case for IJCAI support, and a letter of support from the advisor for students.",
+            "from": "IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/2, IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/3, IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/4, IJCAI 2023/grants/IJCAI-AIJ 2023 Travel and Accessibility Grant Program/5"
+        },
+        {
+            "question": "What is the application procedure to become a Student Volunteer for IJCAI 2023?",
+            "answer": "To apply for the IJCAI-23 Student Volunteer Program, applicants must submit the volunteer application form and required documents by email to grants-volunteers-chairs-23@ijcai.org no later than the deadline of May 19, 2023 11:59PM AoE. The application email should include availability of other funding sources, a case for IJCAI support, and a letter of support from the advisor for student applicants. Applications are due by May 19, 2023 and final decisions will be announced by June 5, 2023 before the early registration deadline.",
+            "from": "IJCAI 2023/grants/Call for Volunteers/0/Application Procedure, IJCAI 2023/grants/Call for Volunteers/2"
+        },
+        {
+            "question": "How can I inquire about questions regarding submission and the camera ready copy submission?",
+            "answer": "For questions regarding submissions, reviewing and the program, please get in touch with pcchair@ijcai-23.org. For questions regarding the camera ready copy submission get in touch with proceedings@ijcai.org.",
+            "from": "IJCAI 2023/contact/Contact/0, IJCAI 2023/contact/Contact/4"
+        },
+        {
+            "question": "How can I inquire about questions regarding registration process and local arrangements?",
+            "answer": "For questions regarding registration process get in touch with registration@ijcai.org. For questions about local arrangements/information, please get in touch with local@ijcai-23.org.",
+            "from": "IJCAI 2023/contact/Contact/1, IJCAI 2023/contact/Contact/3"
+        },
+        {
+            "question": "What types of workshop proposals is the IJCAI 2023 conference soliciting?",
+            "answer": "They encourage several forms of workshops: Classical workshops that focus on a particular research area, including proposals for continuous workshops held at previous general AI conferences (e.g., IJCAI, AAAI, ECAI) or discipline-specific conferences (e.g., NeurIPS, KR, AAMAS, UAI, ICAPS…), Workshops focusing on emerging topics and applications or open research questions and challenges., Cross-discipline workshops foster an exchange of ideas among groups unaware of each other’s research, and Miscellaneous topics of interest to the AI community.",
+            "from": "IJCAI 2023/calls/Call For Workshop Proposals/1/All members of the AI community are invited to submit workshop proposals for review. We encourage several forms of workshops"
+        },
+        {
+            "question": "How much does it cost for a student to register for the IJCAI-23 Main Conference?" ,
+            "answer": "The student registration fee for the IJCAI-23 Main Conference varies based on the timing. Registering early before the deadline costs $375 USD for students. After early registration closes, the student rate goes up to $525 USD for late registration. And students registering onsite at the conference will pay the highest rate of $625 USD.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees/1"
+        },
+        {
+            "question": "How much does it cost for a non-student to register for the IJCAI-23 Main Conference?",
+            "answer": "For regular non-student attendees, the early registration fee for the IJCAI-23 Main Conference is $850 USD. If registering after the early registration deadline, during the late registration period, the fee goes up to $1000 USD. And for non-students registering onsite at the conference, the rate is $1300 USD.",
+            "from": "IJCAI 2023/attending/Registration Information/Fees/Main Conference Fees/0"
+        },
+        {
+            "question": "What are the important dates for January 2023 about papers submission?",
+            "answer": "There are several important dates to note for January 2023. First, the submission site will open on January 4th. Next, the deadline for abstract submission is January 11th, and the deadline for author information is January 16th. The final deadline for full paper submission is January 18th. Finally, the deadline for appendix and resubmission information is January 23rd. In summary, the key dates in January mainly revolve around the different stages of paper submission, including the opening of the submission site, abstract deadline, author info deadline, full paper deadline, and appendix info deadline. Authors should take note of these critical deadlines to ensure papers are submitted on time.",
+            "from": "IJCAI 2023/calls/Call For Papers/ImportantDates (all times are Anywhere On Earth, UTC-12)/Submission site opening, IJCAI 2023/calls/Call For Papers/ImportantDates (all times are Anywhere On Earth, UTC-12)/Abstract submission deadline, IJCAI 2023/calls/Call For Papers/ImportantDates (all times are Anywhere On Earth, UTC-12)/Author information deadline, IJCAI 2023/calls/Call For Papers/ImportantDates (all times are Anywhere On Earth, UTC-12)/Full paper submission deadline, IJCAI 2023/calls/Call For Papers/ImportantDates (all times are Anywhere On Earth, UTC-12)/Appendix and resubmission information deadline"
+        }
+    ]
+}
