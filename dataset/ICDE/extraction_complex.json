@@ -1,0 +1,97 @@
+[
+    {
+        "question": "Who are the keynote speakers for the ICDE2023 conference?",
+        "answer": "The keynote speakers of ICDE2023 are Elisa Bertino, Divyakant Agrawal and Thomas Neumann.",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "What are the main tracks of the ICDE2023 conference?",
+        "answer": "The ICDE2023 conference has tracks on Research Track, Industry and Applications Track, Workshop Track, Tutorial Proposals Track, Demonstration Track, TKDE Poster Session Track, Ph.D. Symposium and Special Track.",
+        "from": "ICDE2023/Call for Contributions/Research Papers Track, ICDE2023/Call for Contributions/Special Track, ICDE2023/Call for Contributions/Workshop Track, ICDE2023/Call for Contributions/Industry and Applications Track, ICDE2023/Call for Contributions/Tutorial Proposals Track, ICDE2023/Call for Contributions/Demonstration Track, ICDE2023/Call for Contributions/TKDE Poster Session Track, ICDE2023/Call for Contributions/Ph.D. Symposium"
+    },
+    {
+        "question": "Who are the organizers behind ICDE2023 conference?",
+        "answer": "The organization of the ICDE2023 conference involves multiple roles. The key committees and their respective chairs are as follows: General Chairs: Chen Li(University of California). Research Program Committee Chairs: Lei Chen (Hong Kong University of Science and Technology), Stefan Manegold (CWI), Sharad Mehrotra(University of California). Demo Chairs: Yeye He(MSR), Holger Pirk(Imperial College London), Yanyan Shen(Shanghai Jiaotong University). Tutorial Chairs:Laure Berti-Equille(French National Research Institute on Sustainable Development & Université Grenoble Alpes), Wook-Shin Han(Postech), Xi He(University of Waterloo). PhD Symposium Chairs:Melanie Herschel(Uni Stuttgart), Shantanu Sharma(NJIT), Lidan Shou(Zhejiang University). TKDE Poster Chairs: Arijit Khan(Nanyang Technology University), Lei Zou(Peking University). Industry and Applications Chairs: Themis Palpanas(Université Paris Cité), Nesime Tatbul(Intel Labs and MIT), Kai Zeng(Huawei). Workshop Chairs: Jayant Haritsa(IISc), Eugene Wu(Columbia). Panel Chairs: Aaron Elmore(University of Chicago), Ihab Ilyas(University of Waterloo). Volunteer Chair: Amr Magdy(University of California). Web Chair: Faisal Nawab(University of California). Webmaster: Binbin Gu(University of California). Publicity Chair: Yongjoo Park(University of Illinois at Urbana-Champaign). Financial Chair: Babak Salimi(University of California). Registration Chair: Jia Yu(Washington State University). Local Arrangements Chairs: Ahmed Eldawy(University of California), Vagelis Hristidis(University of California). Publication Chairs: Ilaria Bartolini(University of Bologna), Xiaochun Yang(Northeastern University). Sponsorship Chairs: Ziawasch Abedjan(Leibniz Universität Hannover), Ippokratis Pandis(Amazon), Jingren Zhou(Alibaba). Diversity and Inclusion Chair: Alexandra Meliou(University of Massachusetts). Best Paper Award Committee (Research): Amr El Abbadi(University of California), Tamer Özsu(University of Waterloo), Cyrus Shahabi(University of Southern California). Special Track Evangelist: C. Mohan(Distinguished Visiting Professor)",
+        "from": "ICDE2023/General Info/Organizing Committee"
+    },
+    {
+        "question": "How do I register for the ICDE2023 conference?",
+        "answer": " The event requires each paper (including the conference and workshops) to pay an author fee for the work to be published and presented at the event.  Separately, attendees including the presenting authors need to pay a registration fee. The registration website will require each paper to pay both an author fee and a registration fee (either student or non-student). A main reason to use this fee structure, which is adopted by many other events, is to deal with the uncertainty and risk of the conference budget caused by the economic environment and global pandemic.",
+        "from": "ICDE2023/Participate/Format and Registration/Author fee and registrations"
+    },
+    {
+        "question": "Who are the sponsors for the ICDE2023 conference",
+        "answer": "The silver sponsors of the ICDE2023 conference include Google, HUAWEI, snowflake, AEROSPIKE, ORACLE, the gold sponsors include Alibaba Group, OCEANBASE, Couchbase, ByteDance, and the platinum sponsors is amazon.",
+        "from": "ICDE2023/General Info/Sponsors"
+    },
+    {
+        "question": "Are there any hotel recommendations for attendees of the ICDE2023 conference?",
+        "answer": "Anaheim Marriott hotel provides a limited number of rooms at a special discounted rate of 200 USD per night for single and double-room occupancy not including taxes and fees.",
+        "from": "ICDE2023/Participate/Venue Information"
+    },
+    {
+        "question": "Does the ICDE2023 conference offer any travel grants for participants?",
+        "answer": "ICDE 2023 provides travel awards to selected US-based students to attend the conference. The awards are sponsored by the US National Science Foundation. The award value is 450 USD as a financial stipend to partially cover the expense of attending the conference in person. The amount could be adjusted based availability of funds. Awardees will make their own arrangements for travel and accommodation. The award should be used to pay costs related to attending the conference.",
+        "from": "ICDE2023/Participate/Student Travel Awards"
+    },
+    {
+        "question": "Will there be a rebuttal phrase in research tracks?",
+        "answer": "No, the author will only receive information about notification(accept/revise/reject)",
+        "from": "ICDE2023/Call for Contributions/Research Papers Track/IMPORTANT DATES"
+    },
+    {
+        "question": "Is there a policy for professional conduct or behavior for attendees?",
+        "answer": "Yes",
+        "from": "ICDE2023/General Info/Code of Conduct"
+    },
+    {
+        "question": "What is the policy for professional conduct or behavior for attendees?",
+        "answer": "IEEE believes that science, technology, and engineering are fundamental human activities, for which openness, international collaboration, and the free flow of talent and ideas are essential. Its meetings, conferences, and other events seek to enable engaging, thought-provoking conversations that support IEEE’s core mission of advancing technology for humanity. Accordingly, IEEE is committed to providing a safe, productive, and welcoming environment to all participants, including staff and vendors, at IEEE-related events.\nIEEE has no tolerance for discrimination, harassment, or bullying in any form at IEEE-related events. All participants have the right to pursue shared interests without harassment or discrimination in an environment that supports diversity and inclusion. Participants are expected to adhere to these principles and respect the rights of others.\nIEEE seeks to provide a secure environment at its events. Participants should report any behavior inconsistent with the principles outlined here, to on site staff, security or venue personnel, or to eventconduct AT ieee DOT org.",
+        "from": "ICDE2023/General Info/Code of Conduct"
+    },
+    {
+        "question": "what requests are needed for visa letter?",
+        "answer": "IEEE is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. All visa support letter requests must be handled by the registration website. To request a letter, please provide the required information and pay the registration fee on the registration website. Then the letter will be automatically generated. ",
+        "from": "ICDE2023/Participate/Visa&Travel Info"
+    },
+    {
+        "question": "How to apply for the student travel award",
+        "answer": "To apply for a grant, the student must submit the below application form no later than February 1, 2023 February 15, 2023 (11:59 PM Pacific Time).\nhttps://tinyurl.com/ICDE2023TravelAward\nStudents are encouraged to apply as soon as possible. The awardees will be notified via email. The travel award is possible due to generous sponsorships by NSF and industry partners. We may pass on student winners’ contact information to corporate sponsors. Applicants will be asked whether they opt-in to this option.",
+        "from": "ICDE2023/Participate/Student Travel Awards/Application Procedure"
+    },
+    {
+        "question": "What are the titles of the keynotes in this conference?",
+        "answer": "The titles of the keynotes for this conference are “The Persistent Problem of Applications Insecurity”, “Trust in the Untrusted World”, “What Makes Database Systems Fast? An Ablation Study”",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "What is the price for just registering for the virtual conference?",
+        "answer": "If you are IEEE members then it will cost $250 for early bird and $300 for on site, if are non-ACM members then it will cost $300 for early bird and $360 for on site",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How much does an IEEE member have to pay if they register for the full conference during the Early Bird period?",
+        "answer": "$750 for non-student and $450 for student",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How much does an IEEE member have to pay if they missed the Early Bird discount and register for the main conference during the Standard period?",
+        "answer": "$900 for non-student and $540 for student",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "What are the important dates for April 2023",
+        "answer": "Conference and workshops will be held on April 3-7, 2023",
+        "from": "ICDE2023/General Info/Important Dates"
+    },
+    {
+        "question": "Who are the platinum sponsors for the ICDE2023 conference?",
+        "answer": "Amazon",
+        "from": "ICDE2023>>Menu>>General info>>Sponsors>>Platinum Sponsors"
+    },
+    {
+        "question": "What are the possible topics of interest at the International Workshop on Databases and Machine Learning (DBML2023)?",
+        "answer": "Data collection and preparation for ML applications, Declarative machine learning on databases, data warehouses or data lakes, Hybrid optimization techniques for databases and machine learning, Model-aware data discovery, cleaning, and transformation and Benchmarking ML-oriented data management systems (data augmentation, data cleaning, etc)",
+        "from": "ICDE2023>>Menu>>Workshops>>DBML 2023>>Topics of particular interest in the workshop include, but are not limited to"
+    }
+]

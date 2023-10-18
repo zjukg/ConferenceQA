@@ -58,5 +58,35 @@
         "question": "When was the Call for Papers announced for the conference?",
         "answer": "The Call for Papers was announced on September 6, 2022.",
         "from": "WWW02023/Important Dates/September 2022"
+    },
+    {
+        "question": "What issues does Payal Arora bring forward in her keynote speech titled 'Decolonizing Creative Labor in the age of AI'?",
+        "answer": "Payal Arora discusses concerns around digital labor, data materiality, media literacies, creative value, and online expression. Through these topics, she presents a pathway towards designing inclusive and intersectional systems that transcend borders.",
+        "from": "WWW2023>>Proceedings>>Proceedings of the ACM Web Conference 2023>>SESSION: Keynotes"
+    },
+    {
+        "question": "Which event has a best paper award announced?",
+        "answer": "WebSci23 event has a best paper award announced.",
+        "from": "WWW2023>>Satellite Events>>Web Sci2023>>News>>url(https://websci23.webscience.org/best-paper-websci23-awarded/)"
+    },
+    {
+        "question": "What is the role of the peer prediction mechanism in a crowdsourcing setting?",
+        "answer": "Peer prediction aims to incentivize truthful reports from agents whose reports cannot be assessed with any objective ground truthful information, making it a useful tool in multi-task settings where each agent is asked multiple questions.",
+        "from": "WWW2023>>Proceedings>>Proceedings of the ACM Web Conference 2023>>SESSION: Economics, Monetization, and Online Markets>>Multitask Peer Prediction With Task-dependent Strategies"
+    },
+    {
+        "question": "What is the main theme of the Web Sci2023 conference?",
+        "answer": "The main theme of the conference is to understand and document the disparities and inequities in representation, engagement, visibility, and success across various racial, ethnic, and gender groups in digital spaces, especially in the wake of the pandemic and growing international tensions.",
+        "from": "WWW2023>>Satellite Events>>Web Sci2023>>About>>Inequalities in the Face of Concurrent Crises"
+    },
+    {
+        "question": "What is the process of reviewing the submitted papers?",
+        "answer": "Each paper is submitted to one of the tracks listed. Track Chairs review the paper for fitness to the conference and track. Program Committee members will self-declare their expertise for each paper. Each submission will receive at least three independent reviews within each track. A Senior Program Committee member will also provide a summary and will oversee each submission and its review. The submission will be discussed between PC members, the assigned SPC, and track chairs, pre- and post-rebuttal. Papers will be ranked based on a range of factors and based on this ranking, track chairs will recommend papers for presentation at the conference, inclusion in the proceedings, and awards.",
+        "from": "WWW2023>>calls>>Research Tracks>>TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'>>ReviewProcess"
+    },
+    {
+        "question": "What are the significant updates for the 2023 ACM Web Conference?",
+        "answer": "Each accepted paper must have at least one non-student In-Person Main Conference Registration. If a student author is the only registrant for an accepted paper, they still must register for a non-student In-Person Main Conference. All speakers, presenters, organizers participating in any way at The Web Conference are expected to attend the conference in person. Due to logistical situations, anymore remote presentations cannot be accommodated.",
+        "from": "WWW2023>>Attendees>>Registration>>Introduce"
     }
 ]

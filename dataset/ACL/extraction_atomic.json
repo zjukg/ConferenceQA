@@ -76,16 +76,6 @@
             "from": "ACL2023/Participants/Participants Information/Cancellation Policy/content"
         },
         {
-            "question": "When conference was first founded?",
-            "answer": "The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL).",
-            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
-        },
-        {
-            "question": "What is the full name of this conference?",
-            "answer": "Association for Computational Linguistics",
-            "from": "ACL2023/Home/full name"
-        },
-        {
             "question": "What is the time period of author response in main conference?" ,
             "answer": "Time period of author response is from March 17 to March24, 2023",
             "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
@@ -154,6 +144,31 @@
             "question": "When was the tutorials proposals notification of acceptance?",
             "answer": "The tutorials proposals notification was February 3rd, 2023.",
             "from": "ACL2023/Calls/Call for Proposals/Tutorials/Important Dates"
+        },
+        {
+            "question": "What is the new award policy implemented by ACL2023?",
+            "answer": "ACL2023 implemented a new award policy which aims for broader recognition of exceptional research, in particular by significantly increasing the pool of outstanding papers to 1.5-2.5% of the total submissions.",
+            "from": "ACL2023>>Program>>AWARDS>>Best Papers>>content>>introduction"
+        },
+        {
+            "question": "Which organization supported the ACL 2023 conference as a Diversity and Inclusion: Ally sponsor?",
+            "answer": "amazon",
+            "from": "ACL2023>>Sponsors>>content>>Diversity and Inclusion: Ally"
+        },
+        {
+            "question": "What is the fee waiving policy for the tutorial presenters at the EACL 2023, ACL 2023, and EMNLP 2023 conferences?",
+            "answer": "Up to 3 instructors per tutorial can have their registration fees waived for the main conference and any subset of co-located tutorials and workshops.",
+            "from": "ACL2023>>Calls>>Call for Proposals>>Tutorials>>Fee Waiving"
+        },
+        {
+            "question": "What are the categories of special awards introduced in ACL2023?",
+            "answer": "There are 4 special awards introduced in ACL2023: Resource Award, Social Impact Award, Reproduction Award, Theme Paper Award.",
+            "from": "ACL2023>>Program>>AWARDS>>Best Papers>>content>>introduction"
+        },
+        {
+            "question": "What are the responsibilities of the organizers of the accepted proposals?",
+            "answer": "The organizers of the accepted proposals will be responsible for publicizing and running the workshop, including reviewing submissions, producing the camera-ready workshop proceedings, organizing the meeting days, and playing their part to ensure that all participants are aware of ACL’s anti-harassment policy.",
+            "from": "ACL2023>>Calls>>Call for Proposals>>Workshops>>Organizer Responsibilities"
         }
     ]
 }

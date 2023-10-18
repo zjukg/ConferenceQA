@@ -1,0 +1,127 @@
+[
+    {
+        "question": "Is the year of the conference specified in the program?",
+        "answer": "Yes, the year indicated for the conference is 2022.",
+        "from": "ISWC2023>>Menu>>Program>>Conference>>Final ISWC 2022 Program"
+    },
+    {
+        "question": "Is there a Time Zone Converter provided for the Final ISWC 2022 Program?",
+        "answer": "Yes",
+        "from": "ISWC2023>>Menu>>Program>>Conference>>Final ISWC 2022 Program"
+    },
+    {
+        "question": "What type of registration restrictions are the Keynotes and Panels subject to in the ISWC 2022 Program?",
+        "answer": "The three Keynotes and two Panels will be live and not subject to any registration restrictions.",
+        "from": "ISWC2023>>Menu>>Program>>Conference>>Final ISWC 2022 Program>>News"
+    },
+    {
+        "question": "Who is the publisher of the full conference proceedings?",
+        "answer": "Springer is the publisher of the full conference proceedings.",
+        "from": "ISWC2023>>Menu>>Program>>Proceedings"
+    },
+    {
+        "question": "What is the required password for the ISWC 2022 conference Zoom link?",
+        "answer": "ISWC2022",
+        "from": "ISWC2023>>Menu>>Program>>Conference>>Final ISWC 2022 Program>>Zoom Guide"
+    },
+    {
+        "question": "Who does the ISWC2022 conference aim at?",
+        "answer": "Researchers, practitioners and industry specialists",
+        "from": "ISWC2023>>Menu>>Home>>description"
+    },
+    {
+        "question": "How many days does the ISWC2022 conference run for?",
+        "answer": "Five days",
+        "from": "ISWC2023>>Menu>>Home>>description"
+    },
+    {
+        "question": "Is stalking considered as a harassment in the ACL conference?",
+        "answer": "Yes, stalking is considered as a kind of harassment at the ACL conference.",
+        "from": "ISWC2023>>Menu>>Code of Conduct>>kind of harassment"
+    },
+    {
+        "question": "Who are the chairs of the Industry Track PC?",
+        "answer": "Anna Lisa Gentile from IBM Research and Petar Ristoski from eBay",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Chairs"
+    },
+    {
+        "question": "When will the registered participants receive the link for joining the conference?",
+        "answer": "Registered participants will receive the link for joining the conference on October 21.",
+        "from": "ISWC2023>>Menu>>Joining Remotely>>description"
+    },
+    {
+        "question": "What platform will the conference be run on?",
+        "answer": "The conference will be run via Zoom and Gather.town.",
+        "from": "ISWC2023>>Menu>>Joining Remotely>>description"
+    },
+    {
+        "question": "When is the last day to get an early registration discount?",
+        "answer": "The last day to get the discount is on October 15.",
+        "from": "ISWC2023>>Menu>>Attending>>Registration>>Registration Rates>>Early Registration>>description"
+    },
+    {
+        "question": "How can I apply for the student grant?",
+        "answer": "You can apply for the student grant through this link: https://forms.gle/bz5PudgSixYn6DVL9.",
+        "from": "ISWC2023>>Menu>>Grants>>Student Grants>>details"
+    },
+    {
+        "question": "When will I be notified about the status of my grant application?",
+        "answer": "You will be notified about the status of your application on Oct 7.",
+        "from": "ISWC2023>>Menu>>Grants>>Student Grants"
+    },
+    {
+        "question": "Who are the mentors for PAPER SESSION 1 at the conference?",
+        "answer": "Oktie Hassanzadeh, Ernesto Jimenez-ruiz, Mdkamruzzaman Sarker",
+        "from": "ISWC2023>>Menu>>Program>>Doctoral Consortium>>table>>3>>agenda item"
+    },
+    {
+        "question": "Where can I learn more about the 'Musical Heritage Knowledge Graphs' workshop?",
+        "answer": "You can visit 'https://mhkg-workshop.i3s.univ-cotedazur.fr/' to learn more about the 'Musical Heritage Knowledge Graphs' workshop.",
+        "from": "ISWC2023>>Menu>>Program>>Workshops>>Musical Heritage Knowledge Graphs>>webpage"
+    },
+    {
+        "question": "What is the vision of the 'International Workshop on Artificial Intelligence Technologies for Legal Documents (AI4LEGAL)'?",
+        "answer": "The vision of the 'AI4LEGAL' workshop is to bring together Artificial Intelligence and practitioners to discuss the digitization of legal documents.",
+        "from": "ISWC2023>>Menu>>Program>>Workshops>>International Workshop on Artificial Intelligence Technologies for Legal Documents (AI4LEGAL)>>abstract"
+    },
+    {
+        "question": "Which workshop is aimed at studying and discussing the evolution and preservation of the data web?",
+        "answer": "The '8th Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW)' is aimed at studying and discussing this issue.",
+        "from": "ISWC2023>>Menu>>Program>>Workshops>>The 8th Workshop on Managing the Evolution and Preservation of the Data Web (MEPDaW)>>type"
+    },
+    {
+        "question": "What is the focus of the 'Wikidata Workshop'?",
+        "answer": "The 'Wikidata Workshop' focuses on the challenges and opportunities of working on a collaborative open-domain knowledge graph.",
+        "from": "ISWC2023>>Menu>>Program>>Workshops>>Wikidata Workshop>>abstract"
+    },
+    {
+        "question": "How many members are in the Program Committee?",
+        "answer": "52",
+        "from": "ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Is the LNCS style valid for the submissions?",
+        "answer": "No, the LNCS style is not valid anymore. The submissions must be formatted in the style of CEURART 1-column style.",
+        "from": "ISWC2023>>Menu>>Calls>>Call For Posters and Demos>>Submission Details"
+    },
+    {
+        "question": "Are there any available slide decks from the keynote speakers?",
+        "answer": "Yes, all the keynote speakers have provided their slide decks which are available online.",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers>>slides"
+    },
+    {
+        "question": "What are Markus Krötzsch's current interests?",
+        "answer": "Markus Krötzsch's current interests include rule-based computation, ontological query answering, efficient reasoning, and the use of these methods in explainable and trustworthy AI applications.",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers[0]>>speaker>>introduction"
+    },
+    {
+        "question": "What is Francesca Rossi's role at IBM?",
+        "answer": "Francesca Rossi is an IBM Fellow and the IBM AI Ethics Global Leader.",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers[1]>>speaker>>bio"
+    },
+    {
+        "question": "Where did Markus Krötzsch obtain his Ph.D.? ",
+        "answer": "From Karlsruhe Institute of Technology (KIT) in 2010",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers[0]>>speaker>>introduction"
+    }
+]

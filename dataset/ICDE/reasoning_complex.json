@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the submission process for research papers?",
+        "answer": "IEEE ICDE 2023 will have three rounds of research paper submissions with each round involving two rounds of reviewing to allow for revisions. Notification dates are approximate. All deadlines are 11:59PM PST. The first round submission is due on April 25th 2022 (Monday), the second round submission is due on July 8th 2022 (Friday), and the third round submission is due on October 8th 2022 (Saturday).The submission website is https://cmt3.research.microsoft.com/ICDE2023. The site will be open for submissions at least two weeks before the deadline.",
+        "from": "ICDE2023/Call for Contributions/Important Dates"
+    },
+    {
+        "question": "Do we have to submit an abstract before the manuscript deadline?",
+        "answer": "No, you do not have to submit an abstract before the manuscript deadline.",
+        "from": "ICDE2023/Call for Contributions/Important Dates"
+    },
+    {
+        "question": "Are there any side events organized alongside the main conference?",
+        "answer": "No, there are no side events organized alongside the main conference.",
+        "from": "ICDE2023/Program/Program Overview"
+    },
+    {
+        "question": "Are there any workshops related to knowledge graph?",
+        "answer": "No, there are not workshops related to knowledge graph.",
+        "from": "ICDE2023/Workshops"
+    },
+    {
+        "question": "How many workshops are there in this conference?",
+        "answer": "There are 7 workshops in this conference.",
+        "from": "ICDE2023/Workshops"
+    },
+    {
+        "question": "Are there any tutorials related to graph neural network(GNN) in this conference? If so, what are their title and organizers?",
+        "answer": "Yes, there are one tutorial related to graph neural network in this conference. The title of the tutorial is “Graph Neural Networks for Tabular Data Learning” and the organizers are Cheng-Te Li, Yu-Che Tsai, Jay Chiehen Liao.",
+        "from": "ICDE2023/Program/Accepted Tutorials"
+    },
+    {
+        "question": "Are there any tutorials related to multi modal in this conference? If so, what are their title and organizers?",
+        "answer": "Yes, there is a tutorial related to multi modal in this conference. The title of the tutorial is “Model Monitoring in Practice: Lessons Learned and Open Challenges” and the organizers are Krishnaram Kenthapadi, Himabindu Lakkaraju, Pradeep Natarajan and Mehrnoosh Sameki.",
+        "from": "ICDE2023/Program/Accepted Papers/Tutorial Track"
+    },
+    {
+        "question": "How many keynotes are there in this conference?",
+        "answer": "there are 3 keynotes in this conference",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Are there any keynotes related to graph neural network(GNN) in this conference? If so, what are their title and authors?",
+        "answer": "No, there are not keynotes related to graph neural network(GNN) in this conference.",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Will registration fees change over time?",
+        "answer": "Yes",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Can I register for this conference with different time slots?",
+        "answer": "Yes",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How many options are there if divide the registration type according to the time period?",
+        "answer": "There will be three options: Conference and workshops, Conference only, Workshops only",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Among the three types of conferences (Conference and workshops, Conference only, Workshops only), which one is the most expensive for IEEE members registering onsite?",
+        "answer": "The Conference and workshops is the most expensive.",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How much can a student IEEE member save if he register for the main conference in person before February 24th compared to registering onsite for the conference only?",
+        "answer": "$70",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "If a student member registers onsite for the workshop and main conference in person, what is the total cost?",
+        "answer": "$540",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "What is the difference in cost between an IEEE student member and a NON-IEEE student member for the Workshop in person during the standard registration period?",
+        "answer": "$30",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "How many program committees are there in Industry and Applications Track?",
+        "answer": "72",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Are there any participants from University of Massachusetts of the Industry and Applications Track Program Committee at the ICDE2023?",
+        "answer": "Yes, Tingjian Ge from the University of Massachusetts, Lowell, USA is one of the Area Chairs.",
+        "from": "ICDE2023>>Menu>>General info>>Industry and Applications Track Program Committee>>AREA CHAIRS"
+    },
+    {
+        "question": "Who are the chairs of the workshop DECOR 2023?",
+        "answer": "F. Andres, G. Bagler, F. Fotouhi and M. Leite",
+        "from": "ICDE2023>>Menu>>Workshops>>DECOR 2023>>Workshop Organisation>>Workshop Chairs"
+    },
+    {
+        "question": "Who are the chairs for the Industry and Applications Track at the ICDE 2023 conference?",
+        "answer": "Themis Palpanas, Nesime Tatbul, and Kai Zeng",
+        "from": "ICDE2023>>Menu>>Call for Contributions>>Industry and Applications Track>>Industry and Applications Track PC Chairs"
+    }
+]

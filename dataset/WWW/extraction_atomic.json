@@ -1,5 +1,10 @@
 [
     {
+        "question": "What is the submission format and language requirement for the 'History of the Web' Track of WWW2023 Conference?",
+        "answer": "The submissions for review must be in PDF format. They must be self-contained and written in English.",
+        "from": "WWW2023>>calls>>Special Track>>CFP: History of the Web>>Submission guidelines>>Formatting guidelines>>Submission format and Language"
+    },
+    {
         "question": "What is the purpose of the WWW2023 conference?",
         "answer": "To present and discuss progress in research, development, standards, and applications of the topics related to the Web. The conference assembles scholars, researchers, policymakers, practitioners, and end-users with one unifying goal: to envision and create the future of the Web.",
         "from": "WWW2023/Home/introduction"
@@ -61,7 +66,7 @@
     },
     {
         "question": "When is the student travel scholarship notification?",
-        "answer": "Notification for student travel grants is March 31, 2023.",
+        "answer": "Notification for student travel grants is April 10, 2023.",
         "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/How to apply/Notifications"
     },
     {
@@ -73,16 +78,6 @@
         "question": "What are the requirements for obtaining the Virtual Participation Award?",
         "answer": "To be eligible for the Virtual Participation Award, an applicant must be a student (undergraduate, graduate and PhDs are welcome to apply) connected to a university or research laboratory based in a country designated by ACM as “economically developing”. Further preference may be given to those coming from underrepresented regions.",
         "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Eligibility"
-    },
-    {
-        "question": "When and where this conference was first held?",
-        "answer": "The World Wide Web was first conceived in 1989 by Tim Berners-Lee at CERN in Geneva, Switzerland.",
-        "from": "WWW2023/About/The Web Conference"
-    },
-    {
-        "question": "What is the full name of this conference?",
-        "answer": "The Web Conference",
-        "from": "WWW2023/Home/full name"
     },
     {
         "question": "What is the time period of rebuttal in research track?",
@@ -153,5 +148,40 @@
         "question": "When was the Workshop paper acceptance notification released?",
         "answer": "March 6, 2023.",
         "from": "WWW02023/Important Dates/March 2023"
+    },
+    {
+        "question": "What is the theme for the submissions to the Search Track of The Web Conference (WWW2023)?",
+        "answer": "The theme for the submissions to the Search Track is 'Web Research with Openness, Fairness and Reproducibility'.",
+        "from": "WWW2023>>calls>>Research Tracks>>CFP: Search Track>>Note"
+    },
+    {
+        "question": "What is the format for the PhD Symposium Paper Submissions at WWW2023?",
+        "answer": "The PhD Symposium Paper Submissions at WWW2023 should be formatted using the ACM format acmart.cls, using the “sigconf” option.",
+        "from": "WWW2023>>calls>>PhD Symposium>>Submission Guidelines>>format"
+    },
+    {
+        "question": "What are the expected behaviors for participants according to the ACM Policy?",
+        "answer": "The ACM Policy expects participants to avoid any form of abusive action, discrimination such as racism and homophobia, and sexual harassment. In case of such incidents, participants are encouraged to report to the event organizers.",
+        "from": "WWW2023>>Satellite Events>>Web Sci2023>>ACM Policy>>Ethics"
+    },
+    {
+        "question": "What are the criteria for evaluating a poster or demo submitted for the ARTIFACT badge at WWW2023?",
+        "answer": "The criteria include the reusability of the artifact, the design and technical quality of the artifact, and the availability of the artifact.",
+        "from": "WWW2023>>calls>>Call For Posters and Demos Proposals>>extraCriteria"
+    },
+    {
+        "question": "What types of submissions are accepted for the W4A Conference and what are the submission formats?",
+        "answer": "The submissions accepted for the W4A Conference include: Technical Papers, which can be 10-pages without references, Communication Papers which can be 4-pages without references, Accessibility Challenge submissions which should be 2-page extended abstracts, and submissions for the Doctoral Consortium which should also be 2-page extended abstracts.",
+        "from": "WWW2023>>Satellite Events>>W4A>>Home>>Submissions>>items"
+    },
+    {
+        "question": "What is the main objective of the 11th International Workshop on Natural Language Processing for Social Media?",
+        "answer": "The main objective of the 11th International Workshop on Natural Language Processing for Social Media (SocialNLP) is to explore the interdisciplinary area of natural language processing (NLP) and social computing, addressing three directions: issues in social computing using NLP techniques, solving NLP problems leveraging social network or social media information, and handling new problems related to both social computing and NLP.",
+        "from": "WWW2023>>Proceedings>>Companion Proceedings of the ACM Web Conference 2023>>SESSION: Workshop: The 11th International Workshop on Natural Language Processing for Social Media (SocialNLP 2023)"
+    },
+    {
+        "question": "What type of music does the band Money Chicha play?",
+        "answer": "Money Chicha plays a style of music inspired by the sounds of Peru and Colombia in the 60s and 70s, sometimes called 'chicha' music. This music is known for its infectious Latin beat, its psychedelic, surf guitar pyrotechnics and its melodies influenced by the indigenous culture of the Andes mountains.",
+        "from": "WWW2023>>Program>>BBQ and Live Music>>Money Chicha>>description"
     }
 ]

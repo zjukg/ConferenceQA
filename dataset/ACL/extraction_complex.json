@@ -41,11 +41,6 @@
             "from": "ACL2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/Introduce"
         },
         {
-            "question": "Tell me more about the history of the ACL.",
-            "answer": "The Association for Computational Linguistics (ACL) is the premier international scientific and professional society for people working on computational problems involving human language, a field often referred to as either computational linguistics or natural language processing (NLP). The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL), and became the ACL in 1968. Activities of the ACL include the holding of an annual meeting each summer and the sponsoring of the journal Computational Linguistics, published by MIT Press; this conference and journal are the leading publications of the field. For more information, see: https://www.aclweb.org/. ​",
-            "from": "ACL2023/Participants/Participants Information/About ACL/content/What is the ACL and what is Computational Linguistics?"
-        },
-        {
             "question": "Is the submission of research paper double blind?",
             "answer": "Yes. The submissions to ACL and any supplementary materials must not include authors’ names and affiliations, or the acknowledgments section. Self-references that reveal the authors’ identities must be avoided. For example, instead of “We previously showed (Smith, 1991) …” or even “We previously showed (Anonymous, 1991)… “ please use “Smith previously showed (Smith, 1991) …”.\nThe submissions should avoid links to non-anonymized repositories: the code should be either submitted as supplementary material, or as a link to an anonymized repository (e.g., Anonymous GitHub or Anonym Share). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources). Papers that do not conform to these requirements will be rejected without review.",
             "from": "ACL2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/AuthorIdentityResearchFundingTransparency/ReviewProcess"
@@ -114,6 +109,21 @@
             "question": "What are the important dates for May 2023",
             "answer": "On May 1, 2023, the notification of acceptance are due. Subsequently, the withdrawal deadline is set for May 8, 2023. And the camera-ready papers due is on May 25, 2023.",
             "from": "ACL2023/Calls/CALL FOR PAPERS/Main Conference/content/Important Dates"
+        },
+        {
+            "question": "What is Alison Gopnik’s area of expertise, and what important contributions has she made to her field?",
+            "answer": "Alison Gopnik is a professor of psychology and affiliate professor of philosophy at the University of California at Berkeley, and a member of the Berkeley AI Research Group. She is a leader in the study of cognitive science and of children’s learning and development and was one of the founders of the field of “theory of mind”, an originator of the “theory of cognitive development”, and the first to apply Bayesian probabilistic models to children’s learning.",
+            "from": "ACL2023>>Program>>EVENTS>>Keynotes>>content>>speakers"
+        },
+        {
+            "question": "Who are the Senior Area Chairs for the topic Computational Social Science and Cultural Analytics in the ACL2023 Program Committee?",
+            "answer": "The Senior Area Chairs are Walid Magdy from University of Edinburgh (UK) and Daniel Preotiuc-Pietro from Bloomberg (USA).",
+            "from": "ACL2023>>Committees>>COMMITTEES>>Program Committee>>content>>Senior Area Chairs>>Computational Social Science and Cultural Analytics"
+        },
+        {
+            "question": "Who are the student volunteer chairs for ACL2023 and how can they be contacted?",
+            "answer": "The student volunteer chairs are Tao Yu from the University of Hong Kong and Ayah Zirikly from Johns Hopkins University. They can be contacted at tyu@cs.hku.hk and Ayah.zirikly@gmail.com respectively.",
+            "from": "ACL2023>>Calls>>Call for Volunteers>>content>>Student Volunteer Chairs"
         }
     ]
 }

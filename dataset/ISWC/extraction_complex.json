@@ -1,0 +1,212 @@
+[
+    {
+        "question": "What are the affiliations of the chairs for the In-Use Track PC organization?",
+        "answer": "National Institute of Informatics, Sokendai University, JP and Computer Science Department, Federal University of Espírito Santo, BR",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Chairs"
+    },
+    {
+        "question": "Where is Farahnaz Akrami based?",
+        "answer": "University of Texas at Arlington, USA",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who among the Program Committee Members is affiliated with Imperial College London, UK?",
+        "answer": "Payam Barnaghi",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the committee member affiliated with expert.ai, Spain?",
+        "answer": "Jose Manuel Gomez-Perez",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "What is the late registration price for students attending the full conference?",
+        "answer": "$150 USD",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Attending>>Registration>>Registration Rates>>Late Registration>>Full Conference"
+    },
+    {
+        "question": "Who among the Program Committee Members is affiliated with University of Mannheim, Germany?",
+        "answer": "Nicolas Heist",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is listed as a Program Committee Member from NYU, USA?",
+        "answer": "Djellel Difallah",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "What is the affiliation of Andriy Nikolov?",
+        "answer": "AstraZeneca, UK",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who are the chairs of the Research Track PC under Organization?",
+        "answer": "Aidan Hogan, Ulrike Sattler",
+        "from": "ISWC2023>>ISWC2023>>Menu>Organization>Research Track PC>Chairs"
+    },
+    {
+        "question": "Who is Aidan Hogan affiliated with?",
+        "answer": "Universidad de Chile, Chile",
+        "from": "ISWC2023>>ISWC2023>>Menu>Organization>Research Track PC>Chairs"
+    },
+    {
+        "question": "Who is the author of the paper 'Conversational Access of Large-Scale Knowledge Graphs'?",
+        "answer": "Delaram Javdani Rikhtehgar",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Doctoral Consortium>>Accepted Papers>>4>>author"
+    },
+    {
+        "question": "Who is the author of the paper 'Visual Relationship Detection using Knowledge Graphs for Neural-Symbolic AI'?",
+        "answer": "Dave Herron",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Doctoral Consortium>>Accepted Papers>>2>>author"
+    },
+    {
+        "question": "What is the title of the paper written by Ines Akaichi?",
+        "answer": "Semantic Technology based Usage Control for Decentralized Systems",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Doctoral Consortium>>Accepted Papers>>0>>title"
+    },
+    {
+        "question": "What is the title of the paper written by Sarah Binta Alam Shoilee?",
+        "answer": "Knowledge Discovery for Provenance Research on Colonial Heritage Objects",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Doctoral Consortium>>Accepted Papers>>5>>title"
+    },
+    {
+        "question": "Who are the Chairs for Semantic Web Challenge?",
+        "answer": "Daniele Dell'Aglio and Catia Pesquita",
+        "from": "ISWC2023>>Menu>>Organization>>Organization Community>>Semantic Web Challenge Chairs"
+    },
+    {
+        "question": "What is the home page of Doctoral Consortium Chair, Olaf Hartig?",
+        "answer": "https://liu.se/en/employee/olaha93",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Organization Community>>Doctoral Consortium Chairs>>Home page"
+    },
+    {
+        "question": "Who is the industry track chair affiliated with eBay San Jose, US?",
+        "answer": "Petar Ristoski",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Organization Community>>Industry Track Chairs"
+    },
+    {
+        "question": "Who is responsible for Posters, Demos, & Lightning Talk?",
+        "answer": "Anastasia Dimou and Armin Haller",
+        "from": "ISWC2023>>Menu>>Organization>>Organization Community>>Posters, Demos, & Lightning Talk Chairs"
+    },
+    {
+        "question": "What is the official website of the Local Organizing Chair, Huajun Chen?",
+        "answer": "https://person.zju.edu.cn/en/huajun",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Organization Community>>Local Organizing Chair>>Home page"
+    },
+    {
+        "question": "Who are the Sponsor Chairs for this conference and what is their affiliation?",
+        "answer": "Guilin Qi from Southeast University, CH and Francois Scharffe from University of Montpellier, FR",
+        "from": "ISWC2023>>Menu>>Organization>>Organization Community>>Sponsor Chairs"
+    },
+    {
+        "question": "What is the homepage of the Web Presence and Publicity Chair, Wen Zhang?",
+        "answer": "https://person.zju.edu.cn/en/wenzhang",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Organization Community>>Web Presence and Publicity Chair>>Home page"
+    },
+    {
+        "question": "What is the homepage of the In-Use Applications Track Chair, Hideaki Takeda?",
+        "answer": "http://www-kasm.nii.ac.jp/~takeda/index.html",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Organization Community>>In-Use Applications Track Chairs>>Home page"
+    },
+    {
+        "question": "Who is affiliated to the ExpertSystem, ES in the Program Committee Members?",
+        "answer": "Andrés García-Silva",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who represents George Mason University, US on the Program Committee?",
+        "answer": "Hemant Purohit",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who from the committee is affiliated with the University of Amsterdam, NL?",
+        "answer": "Paul Groth",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the Program Committee Member affiliated with Google, US?",
+        "answer": "Natasha Noy",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the Program Committee Member from University of Dalhousie, CA?",
+        "answer": "William Van Woensel",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the committee member associated with GESIS - Leibniz Institute for the Social Sciences, DE?",
+        "answer": "Stefan Dietze",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the person from expert.ai, ES on the program committee?",
+        "answer": "Jose Manuel Gomez-Perez",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who represents the University of Liverpool, GB on the Program Committee?",
+        "answer": "Valentina Tamma",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who represents Ghent University - imec, BE in the program committee?",
+        "answer": "Ruben Verborgh",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the Program Committee member from Holler.io, US?",
+        "answer": "Sanjaya Wijeratne",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Which member of the Program Committee is affiliated with 'LUM University “Giuseppe Degennaro”'?",
+        "answer": "Giuseppe Loseto",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members>[{'name': 'Giuseppe Loseto'}]"
+    },
+    {
+        "question": "Which university is Julian Rojas affiliated with?",
+        "answer": "Ghent University",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members>[{'name': 'Julian Rojas'}]"
+    },
+    {
+        "question": "Which Program Committee member is affiliated with 'University of Maryland Baltimore County'?",
+        "answer": "Jennifer Sleeman",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members>[{'name': 'Jennifer Sleeman'}]"
+    },
+    {
+        "question": "Who from the Program Committee is affiliated with 'University of Technology Sydney'?",
+        "answer": "Madhushi Bandara",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members>[{'name': 'Madhushi Bandara'}]"
+    },
+    {
+        "question": "Who is the Program Committee member affiliated with 'Cardiff University'?",
+        "answer": "Charith Perera",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Organization>>Poster & Demo Track PC>>Program Committee Members>[{'name': 'Charith Perera'}]"
+    },
+    {
+        "question": "What is the link to the video for the demo titled 'LOV-ES: Guiding the ontology selection to structure textual data using topic modeling'?",
+        "answer": "https://youtu.be/1GB8KGAf2CY",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Posters and Demos>>Demos>>video"
+    },
+    {
+        "question": "Where can I find the paper for the poster titled 'Towards Executable Knowledge Graph Translation'?",
+        "answer": "https://drive.google.com/file/d/1k6rvxl2uLbxRrmC9rJr9jcf5xv-bExWT/view",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Posters and Demos>>Posters>>paper"
+    },
+    {
+        "question": "What is the URL of the video related to the poster titled 'New Ontology and Knowledge Graph for University Curriculum Recommendation'?",
+        "answer": "https://www.youtube.com/watch?v=85b9D20q-Jo",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Posters and Demos>>Posters>>video"
+    },
+    {
+        "question": "What is the title of Francesca Rossi's presentation?",
+        "answer": "AI Ethics in the Semantic Web",
+        "from": "ISWC2023>>ISWC2023>>Menu>>Program>>Keynote Speakers[1]>>title"
+    },
+    {
+        "question": "What are the keywords associated with the paper 'A Rule-Based Modal View of Causal Reasoning'?",
+        "answer": "Knowledge Representation and Reasoning -> KRR: Knowledge representation languages, Knowledge Representation and Reasoning -> KRR: Causality, Knowledge Representation and Reasoning -> KRR: Reasoning about knowledge and belief",
+        "from": "IJCAI2023>>program>>Main Track>>4313>>keywords"
+    }
+]

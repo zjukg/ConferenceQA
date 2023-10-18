@@ -148,5 +148,20 @@
         "question": "How many program committees are there in Industry Track?",
         "answer": "133",
         "from": "WWW2023/calls/Call For Industry Proposals/Program Committees"
+    },
+    {
+        "question": "What time is the Keynote by Michalis Vazirgiannis on Thursday May 4?",
+        "answer": "12:30pm",
+        "from": "WWW2023>>Program>>Live Stream of TheWebConf>>page>>schedule"
+    },
+    {
+        "question": "What is the topic of David Rand's Keynote?",
+        "answer": "The topic of David Rand's Keynote is 'Understanding and Reducing Online Misinformation'.",
+        "from": "WWW2023>>Program>>Keynotes>>1>>title"
+    },
+    {
+        "question": "When is the registration desk available on May 01?",
+        "answer": "7:30 AM – 5:00 PM",
+        "from": "WWW2023>>Program>>Detailed Program>>Mon May 01"
     }
 ]

@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is the purpose of the ICED2023 conference?",
+        "answer": "The annual IEEE International Conference on Data Engineering (ICDE) addresses research issues in designing, building, managing, and evaluating advanced data-intensive systems and applications. It is a leading forum for researchers, practitioners, developers, and users to explore cutting-edge ideas and to exchange techniques, tools, and experiences.",
+        "from": "ICED2023/General Info/Homepage"
+    },
+    {
+        "question": "What is the date of the ICED2023 conference?",
+        "answer": "The ACM Web Conference 2023 will be held from 4/3/2023 to 4/7/2023",
+        "from": "ICED2023/General Info/Important Dates"
+    },
+    {
+        "question": "What is the location of the ICED2023 conference?",
+        "answer": "The 39th IEEE International Conference on Data Engineering (ICDE 2023) took place in (the happiest place on earth) Anaheim, California, USA at the Marriott Anaheim",
+        "from": "ICED2023/General Info/Homepage"
+    },
+    {
+        "question": "Will there be any virtual components to the ICED2023 conference?",
+        "answer": "Yes, the conference will be held in a hybrid format, with both in-person and virtual components.",
+        "from": "ICED2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "What is the deadline for registration",
+        "answer": "2/24/2023, Early Bird registration deadline.",
+        "from": "ICED2023/Participate/Format and Registrations/Author fee and registrations"
+    },
+    {
+        "question": "What is the deadline for submission in research tracks?",
+        "answer": "The full paper submission deadline is April 25, 2022 (Monday), all deadlines are 11:59PM (Pacific Time).",
+        "from": "ICED2023/General Info/Important Dates"
+    },
+    {
+        "question": "What is the notification date in research track?",
+        "answer": "The notification date is June 25, 2022 (Saturday), all deadlines are 11:59PM (Pacific Time).",
+        "from": "ICED2023/General Info/Important Dates"
+    },
+    {
+        "question": "Will there be a closing ceremony or a special event at the end of the conference?",
+        "answer": "No, there will not be a closing ceremony at the end of the conference.",
+        "from": "ICED2023/Program/Program Overview"
+    },
+    {
+        "question": "Will there be a coffee break in Program?",
+        "answer": "Yes.",
+        "from": "ICED2023/Program/Program Overview"
+    },
+    {
+        "question": "Can the conference provide visa letter for attendees?",
+        "answer": "Yes, IEEE is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.",
+        "from": "ICED2023/Participate/Visa & Travel info"
+    },
+    {
+        "question": "What are the eligibilities for applying for student travel award",
+        "answer": "The applicant must be a full-time student (undergraduate or graduate) in a US-based institution. Applicants do not need to have an accepted paper to be eligible. However, students who are primary authors of an accepted paper in the main conference or the workshops are especially encouraged to apply.",
+        "from": "ICED2023/Participate/Student Travel Award"
+    },
+    {
+        "question": "When is the application deadline for the student travel grant?",
+        "answer": "To apply for a grant, the student must submit the below application form no later than February 1, 2023 February 15, 2023 (11:59 PM Pacific Time).",
+        "from": "ICED2023/Participate/Student Travel Award"
+    },
+    {
+        "question": "What is the amount of the student travel award?",
+        "answer": "The award value is 450 USD as a financial stipend to partially cover the expense of attending the conference in person. The amount could be adjusted based availability of funds. ",
+        "from": "ICED2023/Participate/Student Travel Award"
+    },
+    {
+        "question": "What is the address of the conference venue?",
+        "answer": "Anaheim Marriott, Address: 700 W Convention Way, Anaheim, CA 92802.",
+        "from": "ICED2023/Participate/Venue Information"
+    },
+    {
+        "question": "How much is a night's stay at the conference hotel",
+        "answer": "The hotel provides a limited number of rooms at a special discounted rate of 200 USD per night for single and double-room occupancy not including taxes and fees.",
+        "from": "ICED2023/Participate/Venue Information"
+    },
+    {
+        "question": "Where there free WiFi at the conference venue?",
+        "answer": "Yes.The event will provide free WiFi to attendees.",
+        "from": "ICED2023/Participate/Internet"
+    },
+    {
+        "question": "What is the time period of first round rebuttal in research track?",
+        "answer": "From  June 25 to July 25, 2022.",
+        "from": "ICED2023/Call for Contributions/Research Papers Track"
+    },
+    {
+        "question": "Who are the tutorial chairs?",
+        "answer": "The tutorial chairs are Laure Berti-Equille, Wook-Shin Han and Xi He.",
+        "from": "ICED2023/General Info/Organizing Committee/Tutorial Chairs"
+    },
+    {
+        "question": "Who are the workshop chairs?",
+        "answer": "The workshop chairs are Jayant Haritsa and Eugene Wu.",
+        "from": "ICED2023/General Info/Organizing Committee/Workshop Chairs"
+    },
+    {
+        "question": "Who are the Demo Chairs?",
+        "answer": "The Demo chairs are Yeye He, Holger Pirk and Yanyan Shen.",
+        "from": "ICED2023/About/Organizing Committee/Demo Chairs"
+    },
+    {
+        "question": "Who are the Volunteer Chair?",
+        "answer": "The Demo chairs is Amr Magdy.",
+        "from": "ICED2023/About/Organizing Committee/Volunteer Chair"
+    },
+    {
+        "question": "What is the main focus of the Industry Track?",
+        "answer": "The track will emphasize submissions that describe innovative industrial advancements in relevant areas including, but not limited to:Database and data management systems,Cloud systems,Data systems on new hardware,Scalable machine learning and data mining systems,Data quality and cleaning,Mobile data management,Stream data processing and IoT,Information retrieval,Knowledge discovery,Information integration,Information integrity",
+        "from": "ICED2023/Call for Contributions/Industry and Applications Track"
+    },
+    {
+        "question": "How will The ICDE 2023 handle submissions in Industry track?",
+        "answer": "Manuscripts must be prepared in accordance with the IEEE format(https://www.ieee.org/conferences_events/conferences/publishing/templates.html), and submitted to the Industry and Applications Track of the ICDE 2023 submission website.(https://cmt3.research.microsoft.com/ICDE2023)",
+        "from": "ICED2023/Call for Contributions/Industry and Applications Track"
+    },
+    {
+        "question": "Where will accepted papers in Industry track for The ICDE 2023 be published?",
+        "answer": "All accepted papers will appear in the proceedings. The best papers will be selected for extended versions to be published in the IEEE Transactions on Knowledge and Data Engineering.",
+        "from": "ICED2023/Call for Contributions/Industry and Applications Track"
+    },
+    {
+        "question": "What is the long paper length of Industry track?",
+        "answer": "12 pages + unlimited space for references.",
+        "from": "ICED2023/Call for Contributions/Industry and Applications Track"
+    },
+    {
+        "question": "What is the long paper length of Research Paper track?",
+        "answer": "Research papers must not exceed 12 pages for the main text plus up to 4 pages for the bibliography.",
+        "from": "ICED2023/Call for Contributions/Research Papers Track"
+    },
+    {
+        "question": "When was the deadline for Tutorials Proposal submission?",
+        "answer": "The deadline for Tutorials Proposal submission was November 28, 2022.",
+        "from": "ICED2023/Call for Contributions/Tutorial Proposals Track"
+    },
+    {
+        "question": "Which paper was awarded the Best Paper Award?",
+        "answer": "The Best Paper Award was awarded to 'Incremental Learning for Multi-Interest Sequential Recommendation'.",
+        "from": "ICED2023/Program/Awards"
+    },
+    {
+        "question": "When were the authors notified about Industry and Applications Track acceptance?",
+        "answer": "The authors were notified about their Industry and Applications Track acceptance on February 14, 2023.",
+        "from": "ICED2023/General Info/Important Dates"
+    },
+    {
+        "question": "When was the Workshop paper acceptance notification released?",
+        "answer": "The Workshop paper acceptance notification was released on October 1, 2022.",
+        "from": "ICED2023/General Info/Important Dates"
+    },
+    {
+        "question": "What is the URL of the DBML event scheduled on April 3, 2023, Monday at 08:30 - 10:00?",
+        "answer": "https://www.wis.ewi.tudelft.nl/dbml2023",
+        "from": "ICDE2023>>Menu>>Program>>Program Overview>>In-person Program>>April 3, 2023, Monday >>schedule>>08:30 - 10:00>>url"
+    },
+    {
+        "question": "Who should any comments, questions, suggestions, or complaints concerning diversity and inclusion be directed to at the ICDE2023 conference?",
+        "answer": "You should contact the ICDE Diversity and Inclusion Chair, Alexandra Meliou.",
+        "from": "ICDE2023>>Menu>>General info>>Diversity and Inclusion>>Diversity and Inclusion in Database Conference Venues"
+    }
+]

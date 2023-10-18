@@ -139,6 +139,16 @@
             "question": "How many program committees are there in the conference?" ,
             "answer": "65",
             "from": "ACL2023/Committees/COMMITTEES/Program Committee/Senior Area Chairs"
+        },
+        {
+            "question": "Why am I required to have a SOFTCONF profile in order to submit a paper to the conference?",
+            "answer": "SOFTCONF profiles are used to help identify conflicts, so every author (not just the submitting author) needs to have a SOFTCONF profile.",
+            "from": "ACL2023>>FAQ>>Frequently Asked Questions"
+        },
+        {
+            "question": "What is the schedule for the conference and the workshops at the ACL 2023?",
+            "answer": "The conference is scheduled from July 10-12, 2023, and the workshops are scheduled from July 13-14, 2023.",
+            "from": "ACL2023>>Home>>Conference Schedule>>1"
         }
     ]
 }

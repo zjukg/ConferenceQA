@@ -1,124 +1,137 @@
-{
-    "QAs": [
-        {
-            "question": "Who are the workshop chairs?",
-            "answer": "Po-Ling Loh,Virginia Smith and Cheng Soon Ong",
-            "from": "ICML2023/Calls/Call For Workshops/Submission format/ICML 2023 Workshop Chairs"
-        },
-        {
-            "question": "What are the sessions of ICML 2023 meeting?",
-            "answer": "Expo,Virtual Pass,Tutorials,Conference Sessions and Workshops",
-            "from": "ICM2023/Dates/ICML 2023 Meeting Dates"
-        },
-        {
-            "question": "What are the topics of interest for ICML 2023?",
-            "answer": "General Machine Learning,Deep Learning,Learning Theory,Optimization,Probabilistic Inference,Trustworthy Machine Learning and Applications",
-            "from": "ICML2023/Calls/Call For Papers"
-        },
-        {
-            "question": "Are there any hotel recommendations for attendees of the ICML2023 conference?",
-            "answer": "ICML has contracted guest rooms at discounted pricing. Reserve your accommodations early for the best chance of getting your first choice. We urge you to please make your reservations at only one of the sanctioned ICML Hotels and through the links above as they contribute to keeping our costs down and protect ICML to meet the projections we commit to. If ICML does not achieve a minimum number of overnight accommodations, the price of services will increase all costs for future programs.",
-            "from": "ICML2023/Attend/Hotels"
-        },
-        {
-            "question": "What do I need to pay attention to when I register for the ICML2023 conference?",
-            "answer": "Update your profile and optionally choose your pronouns and dietary restrictions. If you have multiple pronouns, use \"Specify your own\" to list them all.Password must be at least 9 characters.Email yourself a receipt in section 3.Virtual Pass includes virtual-only access to the live stream of the entire conference (tutorials, main conference, workshops) and the ability to interact using Rocket Chat. All physical registrations include Virtual Pass.Registration for any component tutorials, main conference or workshop includes access to the affinity events.If you are open to being recruited by a sponsor, see section 6.Student ID required to get student discount. See more.Agree to the code of conduct, and privacy policy.Visa information is available here.For accessibility support, please contact us.Masks are not required at this time. We will follow Government guidelines. Face shields will be available for poster presenters.Registration Cancellation Policy.Registrations are not Transferable.",
-            "from": "ICML2023/Attend/Register"
-        },
-        {
-            "question": "Is the submission of research paper double-blind?",
-            "answer": "Yes,All submissions must be anonymized and may not contain any information with the intention or consequence of violating the double-blind reviewing policy, including (but not limited to) citing previous works of the authors or sharing links in a way that can infer any author’s identity or institution, actions that reveal the identities of the authors to potential reviewers.Authors are allowed to post versions of their work on preprint servers such as arXiv. They are also allowed to give talks to restricted audiences on the work(s) submitted to ICML during the review. If you have posted or plan to post a non-anonymized version of your paper online before the ICML decisions are made, the submitted version must not refer to the non-anonymized version.ICML strongly discourages advertising the preprint on social media or in the press while under submission to ICML. Under no circumstances should your work be explicitly identified as ICML submission at any time during the review period, i.e., from the time you submit the paper to the communication of the accept/reject decisions.",
-            "from": "ICML2023/Calls/Call For Papers/Policies"
-        },
-        {
-            "question": "Do reviewers use Large Language Models for ICML 2023 Reviewing?",
-            "answer": "Yes,It is acceptable to use large language models to copy edit or modify the language in a potential review, but the reviewer is ultimately responsible for their review submitted, its content, and its correctness.",
-            "from": "ICML2023/Resources/Reviewer Tutorial"
-        },
-        {
-            "question": "Does ICML2023 offer baggage check service?",
-            "answer": "Yes,ICML 2023 is providing complimentary baggage check service for conference attendees.Baggage check will be located in the room 303B on the 3rd floor of the Hawaii Convention Center. ICML or its staff are not liable for lost, stolen, or damaged baggage or the contents wherein. You must provide ID and luggage ticket at pick-up. We suggest you take a photo of your luggage and ticket in case your ticket is lost.",
-            "from": "ICML2023/Attend/Baggage Check"
-        },
-        {
-            "question": "How much do you charge for parking at ICML2023",
-            "answer": "The current self-parking rate at the HCC is 15.00, per vehicle payable at exit.Guests are more than welcomed to enter and exit the parking lot throughout the day.The applicable parking fee of 15.00 will apply to each occurrence of the vehicle exiting the parking garage.The HCC does allow a 30-minute parking “grace period or complimentary period” to the first 30-minutes of entering its parking structure and exiting – no fee or charge.Parking after the first 30-minutes will incur the vehicle exiting fee of 15.00.",
-            "from": "ICML2023/Attend/Parking/Cost"
-        },
-        {
-            "question": "How can I reset my account password",
-            "answer": "To reset or your password, please enter the email address you use to login to https://ICML.cc. If you have multiple ICML accounts, and you are not sure which of your email addresses is your active ICML.cc login, enter them all, one per line (max of 5) and we will send a password reset email to the active one. We cannot recover a password; we can only reset one.If you need help, please visit our Contact page.(url):https://icml.cc/Help/Contact",
-            "from": "ICML2023/Help/Reset Password"
-        },
-        {
-            "question": "How to become an ICML2023 exhibitor?",
-            "answer": "To become an Exhibitor at ICML 2023, please review and complete each section below.1. Review exhibitor level.2. Complete “Your Information” in portal.3. Add available times for the onboarding meeting.4. “Send Invoice” from portal.5. Upload signed contract in portal or send via email.6. Send Payment. Due by June 23, 2023.7. Upload your proof of insurance (COI), or purchase it from RainProtection.8. Assign Exhibitor and Full Access Badges in portal",
-            "from": "ICM2023/Exhibitor/Info/Exhibitor - Sponsor Portal"
-        },
-        {
-            "question": "How much money should be donated by diamond and platinum level exhibitors?",
-            "answer": "$100,000 USD and $80,000 USD",
-            "from": "ICML2023/Exhibitor Info/Exhibitor Levels"
-        },
-        {
-            "question": "Where will icml2024 and icml2025 be held?",
-            "answer": "Vienna, Austria and Vancouver, BC, Canada",
-            "from": "ICML2023/Future Meetings"
-        },
-        {
-            "question": "When will the Workshop application be available?",
-            "answer": "From Feb 01 '23 05:00 PM UTC to Feb 16 '23 (Anywhere on Earth)",
-            "from": "ICM2023/Dates/ICML 2023 Meeting DatesDates by Category/Workshops"
-        },
-        {
-            "question": "What should I pay attention to when upload posters?",
-            "answer": "Please upload your poster and thumbnail on this page so it will be avaiable to attendees who visit the website.Also upload a thumbnail of the most visually appealing figure in your paper.If you don't see your papers listed, check the wiki.If you expected to see paper(s) listed here, read about what can cause this issue on our wiki page.",
-            "from": "ICM2023/Calls/Call For Papers/Author Instructions/Posters/Poster Upload"
-        },
-        {
-            "question": "What are the titles of the keynotes in this conference?",
-            "answer": "Andrew Ng (Landing AI),Mihaela van der Schaar (University of Cambridge) - Data quality and Isabelle Guyon (Google Brain) - Data creation",
-            "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshops/workshops/events"
-        },
-        {
-            "question": "What is the goal of workshop in ICML2023?",
-            "answer": "The goal of the workshops is to provide an informal forum for researchers to discuss emerging research questions and challenges. Workshops will last for one day, with morning and afternoon sessions and free time between the sessions for individual exchange. To encourage workshop variety, all workshops will be one-day workshops.The workshops can be on any subject relevant to a significant fraction of the ICML community. Schedules may encourage lively debates, and topics should lean more towards exploring new ideas, open problems, and interdisciplinary areas compared to the main conference. Workshops should encourage contributed content and reserve a significant portion of time for open/panel discussions and posters. A diverse group of speakers is more likely to bring diverse and surprising viewpoints on a topic. As a result, we encourage workshop organizers to be cognizant of designing panels and speaker lists that are inclusive.",
-            "from": "ICML2023/Calls/Call For WorkshopsWorkshops"
-        },
-        {
-            "question": "Who are the program chairs?",
-            "answer": "Barbara Engelhardt,Emma Brunskill and Kyunghyun Cho",
-            "from": "ICML2023/Organization/Organizing Committee/Program Chairs"
-        },
-        {
-            "question": "Who are the publications chairs?",
-            "answer": "Jonathan Scarlett and Sivan Sabato",
-            "from": "ICML2023/Organization/Organizing Committee/Program Chairs"
-        },
-        {
-            "question": "Which exhibitors are platinum level?",
-            "answer": "Microsoft,Jane Street,Apple,DeShaw&Co,Colossal-AI and Google DeepMind",
-            "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
-        },
-        {
-            "question": "How can I cancel part of my registration?",
-            "answer": "Click My Stuff\" in the navigation bar on the left.Under Registration history click the current year.Click 2. Register and unselect the parts of your registration you want to cancel,Click the blue Payment button and follow the prompts.If you are before the Cancellation Deadline, you will get a refund issued to your credit card. The refund can take 10 business days to post to your account. If you are after the Cancellation Deadline, you cannot get a refund.",
-            "from": "ICML2023/Year(2023)/Registration/Pricing/Registration Cancelation Policycancel instructions"
-        },
-        {
-            "question": "Which exhibitors are Book Publisher level?",
-            "answer": "Intelligent Computing,Imperial College London,translated and COCALC",
-            "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
-        },
-        {
-            "question": "Which exhibitors are diamond level?",
-            "answer": "CITADEL Securities and Google Research",
-            "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
-        },
-        {
-            "question": "What time does the exhibition hall open?",
-            "answer": "Sun, July 23 2:00pm-6:00pm,Mon, July 24 10:00am-8:00pm *40th Anniversary Reception 6:15 PM,Tue, July 25 10:00am-6:00pm and Wed, July 26 10:00am-6:00pm",
-            "from": "ICML2023/Exhibitor Info/Venue Information/Setup,Exhibit Hours and Teardown/Exhibit Hall Hours"
-        }
-    ]
-}
+[
+    {
+        "question": "Who are the workshop chairs?",
+        "answer": "Po-Ling Loh,Virginia Smith and Cheng Soon Ong",
+        "from": "ICML2023/Calls/Call For Workshops/Submission format/ICML 2023 Workshop Chairs"
+    },
+    {
+        "question": "What are the sessions of ICML 2023 meeting?",
+        "answer": "Expo,Virtual Pass,Tutorials,Conference Sessions and Workshops",
+        "from": "ICM2023/Dates/ICML 2023 Meeting Dates"
+    },
+    {
+        "question": "What are the topics of interest for ICML 2023?",
+        "answer": "General Machine Learning,Deep Learning,Learning Theory,Optimization,Probabilistic Inference,Trustworthy Machine Learning and Applications",
+        "from": "ICML2023/Calls/Call For Papers"
+    },
+    {
+        "question": "Are there any hotel recommendations for attendees of the ICML2023 conference?",
+        "answer": "ICML has contracted guest rooms at discounted pricing. Reserve your accommodations early for the best chance of getting your first choice. We urge you to please make your reservations at only one of the sanctioned ICML Hotels and through the links above as they contribute to keeping our costs down and protect ICML to meet the projections we commit to. If ICML does not achieve a minimum number of overnight accommodations, the price of services will increase all costs for future programs.",
+        "from": "ICML2023/Attend/Hotels"
+    },
+    {
+        "question": "What do I need to pay attention to when I register for the ICML2023 conference?",
+        "answer": "Update your profile and optionally choose your pronouns and dietary restrictions. If you have multiple pronouns, use \"Specify your own\" to list them all.Password must be at least 9 characters.Email yourself a receipt in section 3.Virtual Pass includes virtual-only access to the live stream of the entire conference (tutorials, main conference, workshops) and the ability to interact using Rocket Chat. All physical registrations include Virtual Pass.Registration for any component tutorials, main conference or workshop includes access to the affinity events.If you are open to being recruited by a sponsor, see section 6.Student ID required to get student discount. See more.Agree to the code of conduct, and privacy policy.Visa information is available here.For accessibility support, please contact us.Masks are not required at this time. We will follow Government guidelines. Face shields will be available for poster presenters.Registration Cancellation Policy.Registrations are not Transferable.",
+        "from": "ICML2023/Attend/Register"
+    },
+    {
+        "question": "Is the submission of research paper double-blind?",
+        "answer": "Yes,All submissions must be anonymized and may not contain any information with the intention or consequence of violating the double-blind reviewing policy, including (but not limited to) citing previous works of the authors or sharing links in a way that can infer any author’s identity or institution, actions that reveal the identities of the authors to potential reviewers.Authors are allowed to post versions of their work on preprint servers such as arXiv. They are also allowed to give talks to restricted audiences on the work(s) submitted to ICML during the review. If you have posted or plan to post a non-anonymized version of your paper online before the ICML decisions are made, the submitted version must not refer to the non-anonymized version.ICML strongly discourages advertising the preprint on social media or in the press while under submission to ICML. Under no circumstances should your work be explicitly identified as ICML submission at any time during the review period, i.e., from the time you submit the paper to the communication of the accept/reject decisions.",
+        "from": "ICML2023/Calls/Call For Papers/Policies"
+    },
+    {
+        "question": "Do reviewers use Large Language Models for ICML 2023 Reviewing?",
+        "answer": "Yes,It is acceptable to use large language models to copy edit or modify the language in a potential review, but the reviewer is ultimately responsible for their review submitted, its content, and its correctness.",
+        "from": "ICML2023/Resources/Reviewer Tutorial"
+    },
+    {
+        "question": "Does ICML2023 offer baggage check service?",
+        "answer": "Yes,ICML 2023 is providing complimentary baggage check service for conference attendees.Baggage check will be located in the room 303B on the 3rd floor of the Hawaii Convention Center. ICML or its staff are not liable for lost, stolen, or damaged baggage or the contents wherein. You must provide ID and luggage ticket at pick-up. We suggest you take a photo of your luggage and ticket in case your ticket is lost.",
+        "from": "ICML2023/Attend/Baggage Check"
+    },
+    {
+        "question": "How much do you charge for parking at ICML2023",
+        "answer": "The current self-parking rate at the HCC is 15.00, per vehicle payable at exit.Guests are more than welcomed to enter and exit the parking lot throughout the day.The applicable parking fee of 15.00 will apply to each occurrence of the vehicle exiting the parking garage.The HCC does allow a 30-minute parking “grace period or complimentary period” to the first 30-minutes of entering its parking structure and exiting – no fee or charge.Parking after the first 30-minutes will incur the vehicle exiting fee of 15.00.",
+        "from": "ICML2023/Attend/Parking/Cost"
+    },
+    {
+        "question": "How can I reset my account password",
+        "answer": "To reset or your password, please enter the email address you use to login to https://ICML.cc. If you have multiple ICML accounts, and you are not sure which of your email addresses is your active ICML.cc login, enter them all, one per line (max of 5) and we will send a password reset email to the active one. We cannot recover a password; we can only reset one.If you need help, please visit our Contact page.(url):https://icml.cc/Help/Contact",
+        "from": "ICML2023/Help/Reset Password"
+    },
+    {
+        "question": "How to become an ICML2023 exhibitor?",
+        "answer": "To become an Exhibitor at ICML 2023, please review and complete each section below.1. Review exhibitor level.2. Complete “Your Information” in portal.3. Add available times for the onboarding meeting.4. “Send Invoice” from portal.5. Upload signed contract in portal or send via email.6. Send Payment. Due by June 23, 2023.7. Upload your proof of insurance (COI), or purchase it from RainProtection.8. Assign Exhibitor and Full Access Badges in portal",
+        "from": "ICM2023/Exhibitor/Info/Exhibitor - Sponsor Portal"
+    },
+    {
+        "question": "How much money should be donated by diamond and platinum level exhibitors?",
+        "answer": "$100,000 USD and $80,000 USD",
+        "from": "ICML2023/Exhibitor Info/Exhibitor Levels"
+    },
+    {
+        "question": "Where will icml2024 and icml2025 be held?",
+        "answer": "Vienna, Austria and Vancouver, BC, Canada",
+        "from": "ICML2023/Future Meetings"
+    },
+    {
+        "question": "When will the Workshop application be available?",
+        "answer": "From Feb 01 '23 05:00 PM UTC to Feb 16 '23 (Anywhere on Earth)",
+        "from": "ICM2023/Dates/ICML 2023 Meeting DatesDates by Category/Workshops"
+    },
+    {
+        "question": "What should I pay attention to when upload posters?",
+        "answer": "Please upload your poster and thumbnail on this page so it will be avaiable to attendees who visit the website.Also upload a thumbnail of the most visually appealing figure in your paper.If you don't see your papers listed, check the wiki.If you expected to see paper(s) listed here, read about what can cause this issue on our wiki page.",
+        "from": "ICM2023/Calls/Call For Papers/Author Instructions/Posters/Poster Upload"
+    },
+    {
+        "question": "What are the titles of the keynotes in this conference?",
+        "answer": "Andrew Ng (Landing AI),Mihaela van der Schaar (University of Cambridge) - Data quality and Isabelle Guyon (Google Brain) - Data creation",
+        "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshops/workshops/events"
+    },
+    {
+        "question": "What is the goal of workshop in ICML2023?",
+        "answer": "The goal of the workshops is to provide an informal forum for researchers to discuss emerging research questions and challenges. Workshops will last for one day, with morning and afternoon sessions and free time between the sessions for individual exchange. To encourage workshop variety, all workshops will be one-day workshops.The workshops can be on any subject relevant to a significant fraction of the ICML community. Schedules may encourage lively debates, and topics should lean more towards exploring new ideas, open problems, and interdisciplinary areas compared to the main conference. Workshops should encourage contributed content and reserve a significant portion of time for open/panel discussions and posters. A diverse group of speakers is more likely to bring diverse and surprising viewpoints on a topic. As a result, we encourage workshop organizers to be cognizant of designing panels and speaker lists that are inclusive.",
+        "from": "ICML2023/Calls/Call For WorkshopsWorkshops"
+    },
+    {
+        "question": "Who are the program chairs?",
+        "answer": "Barbara Engelhardt,Emma Brunskill and Kyunghyun Cho",
+        "from": "ICML2023/Organization/Organizing Committee/Program Chairs"
+    },
+    {
+        "question": "Who are the publications chairs?",
+        "answer": "Jonathan Scarlett and Sivan Sabato",
+        "from": "ICML2023/Organization/Organizing Committee/Program Chairs"
+    },
+    {
+        "question": "Which exhibitors are platinum level?",
+        "answer": "Microsoft,Jane Street,Apple,DeShaw&Co,Colossal-AI and Google DeepMind",
+        "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
+    },
+    {
+        "question": "How can I cancel part of my registration?",
+        "answer": "Click My Stuff\" in the navigation bar on the left.Under Registration history click the current year.Click 2. Register and unselect the parts of your registration you want to cancel,Click the blue Payment button and follow the prompts.If you are before the Cancellation Deadline, you will get a refund issued to your credit card. The refund can take 10 business days to post to your account. If you are after the Cancellation Deadline, you cannot get a refund.",
+        "from": "ICML2023/Year(2023)/Registration/Pricing/Registration Cancelation Policycancel instructions"
+    },
+    {
+        "question": "Which exhibitors are Book Publisher level?",
+        "answer": "Intelligent Computing,Imperial College London,translated and COCALC",
+        "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
+    },
+    {
+        "question": "Which exhibitors are diamond level?",
+        "answer": "CITADEL Securities and Google Research",
+        "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors"
+    },
+    {
+        "question": "What time does the exhibition hall open?",
+        "answer": "Sun, July 23 2:00pm-6:00pm,Mon, July 24 10:00am-8:00pm *40th Anniversary Reception 6:15 PM,Tue, July 25 10:00am-6:00pm and Wed, July 26 10:00am-6:00pm",
+        "from": "ICML2023/Exhibitor Info/Venue Information/Setup,Exhibit Hours and Teardown/Exhibit Hall Hours"
+    },
+    {
+        "question": "Where can I submit my paper for the ICML2023 conference?",
+        "answer": "https://openreview.net/group?id=ICML.cc/2023/Conference",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "In what format should the tutorial proposals be submitted?",
+        "answer": "The proposals should be submitted in a PDF format of approximately 5 pages excluding references.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>introduction"
+    },
+    {
+        "question": "Does the ICML conference have initiatives to include individuals with disabilities? Can you provide the URL?",
+        "answer": "Yes, the ICML conference collaborates with the group {Dis}Ability in AI. The URL is https://elesa.github.io/ability_in_AI/.",
+        "from": "ICML2023>>Diversity & Inclusion>>{Dis}Ability in AI(url)"
+    }
+]

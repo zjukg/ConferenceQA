@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Is there any Program Committee Member affiliated with The Garvan Institute of Medical Research, Australia?",
+        "answer": "Yes, Tudor Groza.",
+        "from": "ISWC2023>>Menu>>Organization>>Resource Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Name a person from the Program Committee Members who is affiliated with Google, USA?",
+        "answer": "Xuezhi Wang",
+        "from": "ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who among the Program Committee Members is affiliated with the Australian National University, Australia?",
+        "answer": "Sergio J. Rodríguez",
+        "from": "ISWC2023>>Menu>>Organization>>In-Use Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Is the information about the time zone for the conference provided? If yes, which time zone is being referred to?",
+        "answer": "Yes, the time zone referenced is the 'Central European Summer Time' or 'CEST'.",
+        "from": "ISWC2023>>Menu>>Program>>Conference>>Final ISWC 2022 Program>>CEST"
+    },
+    {
+        "question": "Who is a Program Committee member from Amazon?",
+        "answer": "Omar Alonso",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is representing eBay in the Program Committee?",
+        "answer": "Aleksandr Matiushkin and Zhejun Shen",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the representative from Spotify in the Program Committee?",
+        "answer": "Enrico Palumbo",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who is the representative from University of California, Santa Barbara in the Program Committee?",
+        "answer": "Ling Cai",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who represents Knowledge Graph Conference in the Program Committee?",
+        "answer": "Francois Scharffe",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "Who represents Information Sciences Institute in the Program Committee?",
+        "answer": "Basel Shbita",
+        "from": "ISWC2023>>Menu>>Organization>>Industry Track PC>>Program Committee Members"
+    },
+    {
+        "question": "What is the difference in price for early registration between students and regular participants for the full conference?",
+        "answer": "The difference in price is $50 USD.",
+        "from": "ISWC2023>>Menu>>Attending>>Registration>>Registration Rates>>Early Registration>>Full Conference"
+    },
+    {
+        "question": "Does Aidan Hogan have a homepage and if yes, what is it?",
+        "answer": "Yes, http://aidanhogan.com/",
+        "from": "ISWC2023>>Menu>>Organization>>Organization Community>>Research Track Chairs>>Home page"
+    },
+    {
+        "question": "Is there any committee member from Vienna University of Economy and Business (WU), AT?",
+        "answer": "Yes, Jürgen Umbrich is from Vienna University of Economy and Business (WU), AT",
+        "from": "ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Is there a member from Samsung Research, US?",
+        "answer": "Yes, Kalpa Gunaratna is from Samsung Research, US",
+        "from": "ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Are there any committee members from the Vrije Universiteit Amsterdam, NL?",
+        "answer": "Yes, Stefan Schlobach and Victor de Boer are from Vrije Universiteit Amsterdam, NL",
+        "from": "ISWC2023>>Menu>>Organization>>Doctoral Consortium PC>>Program Committee Members"
+    },
+    {
+        "question": "Why was Markus Krötzsch's presentation titled 'Data, Ontologies, Rules, and the Return of the Blank Node'?",
+        "answer": "The presentation was titled so because it explains how the unification of data and ontology may present an opportunity to the Semantic Web, and discusses how recent results in rule-based reasoning may provide a basis for overcoming related challenges.",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers[0]>>abstract"
+    },
+    {
+        "question": "What does Francesca Rossi's research interest in Ai span across?",
+        "answer": "Francesca Rossi's research interest span various areas of AI, from constraints to preferences, from graphical models to social choice, to neuro-symbolic AI.",
+        "from": "ISWC2023>>Menu>>Program>>Keynote Speakers[1]>>speaker>>introduction"
+    },
+    {
+        "question": "Can a Silver level sponsor's presentation be displayed before each keynote session?",
+        "answer": "No",
+        "from": "ISWC2023>>Menu>>Sponsorships>>Sponsorship Packages"
+    }
+]

@@ -40,11 +40,6 @@
         "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/Introduce"
     },
     {
-        "question": "Tell me more about the history of the World Wide Web.",
-        "answer": "The World Wide Web was first conceived in 1989 by Tim Berners-Lee at CERN in Geneva, Switzerland. The first conference of the series, WWW1, was held at CERN in 1994 and organized by Robert Cailliau. The International World Wide Web Conferences Committee (IW3C2) was founded by Joseph Hardin and Robert Cailliau later in 1994 and has been responsible for the conference series ever since. Except for 1994 and 1995 when two conferences were held each year, WWW became an annual event held in late April or early May. The location of the conference rotates among America, Europe, and Asia.",
-        "from": "WWW2023/About/The Web Conference"
-    },
-    {
         "question": "Is the submission of research paper double blind?",
         "answer": "Yes, the submission of research papers for the WWW2023 conference is double-blind. The submitted document should omit any author names, affiliations, or other identifying information. This may include, but is not restricted to acknowledgements, self-citations, references to prior work by the author(s), and so on.",
         "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/AuthorIdentityResearchFundingTransparency/ReviewProcess"
@@ -113,5 +108,40 @@
         "question": "What are the important dates for April 2023",
         "answer": "On April 12, 2023, the tutorial online materials are due. Subsequently, the standard registration deadline is set for April 29, 2023. And the conference is set to start on April 30, 2023.",
         "from": "WWW2023/Important Dates"
+    },
+    {
+        "question": "Who are the track chairs for the 'Economics, Monetization, and Online Markets Track' at the WWW2023 conference?",
+        "answer": "The track chairs are Moshe Babaioff from Microsoft Research, Stefano Leonardi from Sapienza University of Rome, and Azaraksh Malekian from the University of Toronto.",
+        "from": "WWW2023>>calls>>Research Tracks>>CFP: Economics, Monetization, and Online Markets Track>>Track chairs"
+    },
+    {
+        "question": "What are the topics that will be covered in the Security, Privacy & Trust Track at WWW2023?",
+        "answer": "The topics that will be covered include, among others, applications of cryptography, end-point security, forensics, privacy and privacy-enhancing technologies, data transparency and provenance, and ethical issues.",
+        "from": "WWW2023>>calls>>Research Tracks>>CFP Security, Privacy & Trust Track>>Topics"
+    },
+    {
+        "question": "What details should be included in the 'Tutorial proposals' for the WWW2023 conference?",
+        "answer": "Tutorial proposals for the WWW2023 conference should include details such as General information, Abstract, Topic and relevance, Style and Duration, Audience, Previous editions, Tutorial material, Equipment, Video teaser, and Organization details.",
+        "from": "WWW2023>>calls>>Call For Tutorials Proposals>>Tutorial proposals should be structured as follows"
+    },
+    {
+        "question": "What is the event program for Sunday April 30 at the WWW2023 conference?",
+        "answer": "The events are Workshops, Tutorials, W4A, WebSci, Provenance Week, Entrepreneur Day, Keynote: Bob Metcalfe, Knowledge Graph Day",
+        "from": "WWW2023>>Program>>Program Overview>>Sunday April 30"
+    },
+    {
+        "question": "Are there any papers presented by Ioannis Caragiannis in the Research Track: Economics, Monetization, and Online Markets?",
+        "answer": "Yes, the paper is 'Impartial Selection with Prior Information'",
+        "from": "WWW2023>>Program>>Accepted Papers>>Research Tracks>>Economics, Monetization, and Online Markets"
+    },
+    {
+        "question": "What is the affiliation of the author Alexander Brinkmann who presented a poster at WWW2023?",
+        "answer": "Alexander Brinkmann is affiliated with University of Mannheim.",
+        "from": "WWW2023>>Program>>Accepted Posters & Demos"
+    },
+    {
+        "question": "What is the website link for the tutorial 'Never-Ending Learning, Lifelong Learning and Continual Learning in the Era of Large Pre-Trained Language Models'?",
+        "answer": "The website link for the tutorial 'Never-Ending Learning, Lifelong Learning and Continual Learning in the Era of Large Pre-Trained Language Models' is 'https://drive.google.com/file/d/1X_iBuDGFA3P9ue5FO2P9YW_b5WcdL6uH/view'.",
+        "from": "WWW2023>>Program>>Accepted Tutorials>>Never-Ending Learning, Lifelong Learning and Continual Learning in the Era of Large Pre-Trained Language Models"
     }
 ]

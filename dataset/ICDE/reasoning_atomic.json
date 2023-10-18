@@ -1,0 +1,82 @@
+[
+    {
+        "question": "How frequently is the ICDE2023 conference held?",
+        "answer": "ICDE2023 is a yearly international academic conference.",
+        "from": "ICDE2023/General Info/Homepage"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "Yes, you can. The conference will be held in a hybrid format, with both in-person and virtual participation options.",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Is there any page limit of the manuscript?",
+        "answer": "Research papers must not exceed 12 pages for the main text plus up to 4 pages for the bibliography. No appendix is allowed. ",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "How can I contact the conference organizers if I have further questions or concerns?",
+        "answer": "There is no contact information on the website.",
+        "from": "ICDE2023/General Info/Organizing Committee"
+    },
+    {
+        "question": "Is there any post-conference access to keynotes or talks",
+        "answer": "Yes",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Will there be live-streamed sessions for those who can't attend in person?",
+        "answer": "Yes",
+        "from": "ICDE2023/Participate/Format and Registration"
+    },
+    {
+        "question": "Will a student travel grant application be accepted if it is submitted late?",
+        "answer": "No, the student must submit the below application form no later than February 15, 2023 (11:59 PM Pacific Time).",
+        "from": "ICDE2023/Participate/Student Travel Awards"
+    },
+    {
+        "question": "Will the meeting be held in the first half of 2023?",
+        "answer": "Yes, the meeting will be held between April 3rd and April 7th, 2023.",
+        "from": "ICDE2023/General Info/Important Dates"
+    },
+    {
+        "question": "Are there any keynotes talks related to graph neural networks?",
+        "answer": "No",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Are there any keynotes talks related to database systems?",
+        "answer": "Yes, the keynote talk 'What Makes Database Systems Fast? An Ablation Study' is related to database systems.",
+        "from": "ICDE2023/Program/Keynotes"
+    },
+    {
+        "question": "Will the meeting venue provide free WiFi for participants?",
+        "answer": "Yes, the meeting venue will provide free WiFi for participants.",
+        "from": "ICDE2023/Participate/Internet"
+    },
+    {
+        "question": "Do I need to pay if I need to park at the conference hotel?",
+        "answer": "Yes, you need to pay if you need to park at the conference hotel.",
+        "from": "ICDE2023/Participate/Venue Information"
+    },
+    {
+        "question": "Do researchers need to submit an abstract first when submitting a manuscript to research track?",
+        "answer": "No.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Are there any topics related to data mining in the research track?",
+        "answer": "Yes.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Are there any topics related to 'AI for science' in the research track?",
+        "answer": "No.",
+        "from": "ICDE2023/Call for Contributions/Research Paper Track"
+    },
+    {
+        "question": "Can I submit a demonstration video as a supplementary material when submitting a manuscript to the demonstration track?",
+        "answer": "Yes.",
+        "from": "ICDE2023/Call for Contributions/Demonstration Track"
+    }
+]

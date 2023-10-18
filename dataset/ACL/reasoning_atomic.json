@@ -59,6 +59,21 @@
             "question": "What is the deadline for abstract submission?",
             "answer": "The Call for Papers was posted on 2022-10-07.",
             "from": "ACL2023/Home/News"
+        },
+        {
+            "question": "What kind of proposals are invited for the tutorials at the EACL 2023, ACL 2023, and EMNLP 2023 conferences?",
+            "answer": "Proposals are invited for two types of tutorials: Cutting-edge and Introductory. Cutting-edge tutorials cover advances in newly emerging areas not previously covered in any ACL/EMNLP/EACL/NAACL-HLT/AACL/COLING related tutorial while Introductory tutorials provide introductions to related fields that are potentially relevant for the computational linguistics community.",
+            "from": "ACL2023>>Calls>>Call for Proposals>>Tutorials>>introduction"
+        },
+        {
+            "question": "What are some of Geoffrey Hinton's professional recognitions?",
+            "answer": "He is a fellow of the UK Royal Society, a foreign member of the US National Academy of Engineering, the US National Academy of Sciences, and the American Academy of Arts and Sciences among others. His awards include the David E. Rumelhart prize, the IJCAI award for research excellence, the Killam prize for Engineering, the Royal Society Royal Medal, the NSERC Herzberg Gold Medal, and the Turing Award among others.",
+            "from": "ACL2023>>Program>>EVENTS>>Keynotes>>content>>speakers"
+        },
+        {
+            "question": "Can a student submit a paper to SRW without participating in the pre-submission mentorship program?",
+            "answer": "Yes, a student can submit a paper at the SRW submission deadline even if they did not participate in the pre-submission mentoring.",
+            "from": "ACL2023>>Calls>>CALL FOR PAPERS>>Student Research Workshop>>content>>Pre-Submission Mentorship Program>>content"
         }
     ]
 }

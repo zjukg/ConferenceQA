@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What is the standard time used for the conference program?",
+        "answer": "China Standard Time",
+        "from": "Menu>>Program>>Conference>>Final ISWC 2022 Program>>CST"
+    },
+    {
+        "question": "What timezone is the conference scheduled in?",
+        "answer": "Eastern Daylight Time",
+        "from": "Menu>>Program>>Conference>>Final ISWC 2022 Program>>EDT"
+    },
+    {
+        "question": "Who are the chairs of the Industry Track PC?",
+        "answer": "Anna Lisa Gentile from IBM Research and Petar Ristoski from eBay",
+        "from": "Menu>>Organization>>Industry Track PC>>Chairs"
+    },
+    {
+        "question": "What is the link for the Time Zone Converter for the conference?",
+        "answer": "https://www.worldtimebuddy.com/?pl=1&lid=5,12,1808926&h=5&hf=1",
+        "from": "Menu>>Program>>Conference>>Final ISWC 2022 Program>>Time Zone Converter"
+    },
+    {
+        "question": "What is the source for full conference proceedings for this event?",
+        "answer": "Full conference proceedings from Springer are https://link.springer.com/book/10.1007/978-3-031-19433-7.",
+        "from": "Menu>>Program>>Proceedings"
+    },
+    {
+        "question": "What is the full name of ISWC2022?",
+        "answer": "The 21st International Semantic Web Conference",
+        "from": "Menu>>Home>>full name"
+    },
+    {
+        "question": "Where will the ISWC2022 conference take place physically?",
+        "answer": "Hangzhou, China",
+        "from": "Menu>>Home>>location"
+    },
+    {
+        "question": "What are the dates for the ISWC2022 conference?",
+        "answer": "virtual, 23-27 October 2022",
+        "from": "Menu>>Home>>date"
+    },
+    {
+        "question": "What is the brief description of the ISWC2022 conference?",
+        "answer": "ISWC2022 is the premier international forum for the Semantic Web and Knowledge Graph Community. ISWC2022 will bring together researchers, practitioners and industry specialists to discuss, advance, and shape the future of semantic technologies. Every year ISWC offers five exciting and fruitful days that you definitely don't want to miss! Looking forward to your participation in the ISWC2022 Conference!",
+        "from": "Menu>>Home>>description"
+    },
+    {
+        "question": "Where can I find information regarding the code of conduct for the ACL conference?",
+        "answer": "http://swsa.semanticweb.org/content/code-conduct-iswc",
+        "from": "Menu>>Code of Conduct>>source"
+    },
+    {
+        "question": "Who are the chairs for the In-Use Track PC organization?",
+        "answer": "Hideaki Takeda and João Paulo A. Almeida",
+        "from": "Menu>>Organization>>In-Use Track PC>>Chairs"
+    },
+    {
+        "question": "Who should I contact if I don't receive an email after registering for the conference?",
+        "answer": "You should contact Mingyang Chen at mingyangchen@zju.edu.cn.",
+        "from": "Menu>>Joining Remotely>>contact information"
+    },
+    {
+        "question": "What is the price for attending regular workshops and tutorials during a late registration?",
+        "answer": "$100 USD",
+        "from": "Menu>>Attending>>Registration>>Registration Rates>>Late Registration>>Workshops&Tutorials"
+    },
+    {
+        "question": "At what time (CEST) will the Keynote by Catia Pesquita at the conference begin?",
+        "answer": "10:05",
+        "from": "Menu>>Program>>Doctoral Consortium>>table>>1>>time>>CEST"
+    },
+    {
+        "question": "Who will be giving the SPECIAL INVITED TALK at the conference?",
+        "answer": "Lucie-Aimée Kaffee",
+        "from": "Menu>>Program>>Doctoral Consortium>>table>>5>>agenda item"
+    },
+    {
+        "question": "Who is the General Chair for this conference?",
+        "answer": "Claudia d'Amato",
+        "from": "Menu>>Organization>>Organization Community>>General Chair"
+    },
+    {
+        "question": "What is the affiliation of the General Chair?",
+        "answer": "Department of Computer Science, University of Bari, IT",
+        "from": "Menu>>Organization>>Organization Community>>General Chair>>affiliation"
+    },
+    {
+        "question": "Who is responsible for Proceedings & Metadata?",
+        "answer": "Pierre Monnin",
+        "from": "Menu>>Organization>>Organization Community>>Proceedings & Metadata"
+    },
+    {
+        "question": "Who is the Local Organizing Chair for this conference?",
+        "answer": "Huajun Chen",
+        "from": "Menu>>Organization>>Organization Community>>Local Organizing Chair"
+    },
+    {
+        "question": "Who are the organizers of the 'Workshop on Deep Learning for Knowledge Graphs (DL4KG)'?",
+        "answer": "The 'Workshop on Deep Learning for Knowledge Graphs (DL4KG)' is organized by Mehwish Alam, Davide Buscaldi, Michael Cochez, Francesco Osborne, Diego Reforgiato Recupero, and Harald Sack.",
+        "from": "Menu>>Program>>Workshops>>Workshop on Deep Learning for Knowledge Graphs (DL4KG)>>organizer"
+    },
+    {
+        "question": "Who are the organizers of 'The 13th Workshop on Ontology Design and Patterns (WOP)'?",
+        "answer": "The '13th Workshop on Ontology Design and Patterns (WOP)' is organized by Vojtěch Svátek, Valentina Anita Carriero, María Poveda-Villalón, Christian Kindermann, and Lu Zhou.",
+        "from": "Menu>>Program>>Workshops>>The 13th Workshop on Ontology Design and Pattterns (WOP)>>organizer"
+    },
+    {
+        "question": "Who are the chairs of the Poster & Demo Track PC?",
+        "answer": "Anastasia Dimou and Armin Haller",
+        "from": "Menu>>Organization>>Poster & Demo Track PC>>Chairs"
+    },
+    {
+        "question": "What is Anastasia Dimou's affiliation?",
+        "answer": "Department of Computer Science, Katholieke Universiteit Leuven",
+        "from": "Menu>>Organization>>Poster & Demo Track PC>>Chairs>[{'names': 'Anastasia Dimou'}]"
+    },
+    {
+        "question": "When is the due date for posters & demos submissions?",
+        "answer": "13 July 2022",
+        "from": "Menu>>Calls>>Call For Posters and Demos>>Important Dates"
+    },
+    {
+        "question": "What is the aim of the ISWC 2022 Posters and Demos Track?",
+        "answer": "The ISWC 2022 Posters and Demos Track aims at offering an opportunity to present late-breaking research results, on-going research or resource projects, and speculative or innovative work in progress.",
+        "from": "Menu>>Calls>>Call For Posters and Demos>>description"
+    },
+    {
+        "question": "Who are the keynote speakers for the conference?",
+        "answer": "Markus Krötzsch, Francesca Rossi and Ilaria Capua",
+        "from": "Menu>>Program>>Keynote Speakers>>speaker>>name"
+    },
+    {
+        "question": "What is the abstract of Ilaria Capua's presentation 'Circular Health'?",
+        "answer": "Pandemics are unique and transformational events as they shake lives by exposing the vulnerability of Homo sapiens to previously unknown pathogens, which become widespread as most human beings on the planet will become infected. But Covid-19 has done much more than this. It has exposed us to another type of vulnerability – the vulnerability of the systems we operate in. It has also opened our eyes to the harsh reality that we live in a closed system, in which we are entirely interconnected and interdependent with other creatures on planet earth.",
+        "from": "Menu>>Program>>Keynote Speakers[2]>>abstract"
+    },
+    {
+        "question": "Where can I find the proceedings for Posters and Demos?",
+        "answer": "http://ceur-ws.org/Vol-3254",
+        "from": "Menu>>Program>>Posters and Demos>>Posters and Demos Proceedings"
+    },
+    {
+        "question": "Who are the Platinum Plus Sponsors of the conference?",
+        "answer": "IBM Research and Videolectures",
+        "from": "Menu>>Sponsorships>>Spnsors>>Platinum Plus Sponsors"
+    },
+    {
+        "question": "What benefits does a Silver level sponsor get at the conference?",
+        "answer": "Job posting for your company on conference website, Logo displayed prominently on conference website, Logo displayed between talks, Two free registrations (one remote registration, and one on-site registration that can be converted to remote upon request), Promotional material at conference venue, if the conference goes hybrid",
+        "from": "Menu>>Sponsorships>>Sponsorship Packages"
+    },
+    {
+        "question": "Who sponsors the Doctoral Consortium?",
+        "answer": "Journal of Web Engineering",
+        "from": "Menu>>Sponsorships>>Spnsors>>Doctoral Consortium Sponsor"
+    },
+    {
+        "question": "Who are the Gold sponsors of the conference?",
+        "answer": "Metaphacts, Oracle",
+        "from": "Menu>>Sponsorships>>Spnsors>>Gold Sponsors"
+    },
+    {
+        "question": "Where should I submit my abstract for the In-Use track?",
+        "answer": "All papers and abstracts have to be submitted electronically via EasyChair.",
+        "from": "Menu>>Calls>>Call For In-Use Track Papers>>Submission Details"
+    }
+]

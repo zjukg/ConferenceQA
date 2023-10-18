@@ -1,75 +1,92 @@
-{
-    "QAs": [
-        {
-            "question": "Do I need to submit code with paper?",
-            "answer": "No,Authors are encouraged to submit code to foster reproducibility.",
-            "from": "ICML2023/Calls/Call For Papers/.Author Instructions/Submissions/instructions"
-        },
-        {
-            "question": "Can I attend the conference remotely?",
-            "answer": "Yes",
-            "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshopsworkshops"
-
-        },
-        {
-            "question": "Is there any page limit of the manuscript?",
-            "answer": "Yes.Submitted papers are composed of a main body, which can be up to eight pages long, followed by unlimited pages for references and an appendix, all in a single file. Note that upon the acceptance of the paper, ICML will publish the submission as a whole: That is, the camera ready version will include the appendices (and references). For details concerning the format of the papers, please see the LaTeX style files, an example paper, and the Call For Papers. There is no support for any software other than LaTeX. All submissions must be via OpenReview, anonymized, and must closely follow the formatting guidelines in the templates; otherwise, they will automatically be rejected. In particular, any submission whose main body goes over the 8 page limit will be automatically rejected.",
-            "from": "ICML2023/Calls/Call For Papers/Author InstructionsSubmissions"
-        },
-        {
-            "question": "How can I contact the Tutorial Chairs if I submit tutorial proposals?",
-            "answer": "You can contact the Tutorial Chairs at tutorial@icml.cc",
-            "from": "ICML2023/Calls/Call For Tutorials"
-        },
-        {
-            "question": "Does the submission only need to be accessible to experts?",
-            "answer": "No,Authors are kindly asked to make their submissions as accessible as possible for everyone including people with disabilities and sensory or neurological differences.",
-            "from": "ICML2023/Calls/Call For Papers/Policies/notices"
-        },
-        {
-            "question": "Is the number of reviewers for every article fixed?",
-            "answer": "No",
-            "from": "ICML2023/Calls/Call For Papers/Author Instructions/Miscellaneous information related to the author feedback and reviews/introductions"
-        },
-        {
-            "question": "Are accepted papers at the conference contributed by the sponsor?",
-            "answer": "No,they are contributed by exhibitors",
-            "from": "ICML2023/Year(2023)/Exhibitors/introduction"
-        },
-        {
-            "question": "Was ICML conference first held in 1983?",
-            "answer": "Yes",
-            "from": "ICML2023/Year (2023)/Exhibitors.introduction"
-        },
-        {
-            "question": "Is Apple one of the exhibitors at this conference?",
-            "answer": "Yes",
-            "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors/Platinum"
-        },
-        {
-            "question": "Are only academic researchers at ICML conference?",
-            "answer": "No",
-            "from": "ICML2023/Help/About ICML"
-        },
-        {
-            "question": "Can I be reached by the username of the conference account?",
-            "answer": "Yes,because the username is email address",
-            "from": "ICML2023/Help/Create an Account"
-        },
-        {
-            "question": "Which journal(s) are eligible?",
-            "answer": "only JMLR",
-            "from": "ICML2023/Journal to ConferenceTrack/Eligibility"
-        },
-        {
-            "question": "Can the article include disability issues?",
-            "answer": "Yes",
-            "from": "ICML2023/Calls/Call For Papers/Accessiblity Instructions/Papers/Inclusive Language/Use inclusive and respectful language throughout your paper"
-        },
-        {
-            "question": "Does ICML2023 provide free travel for workshop speakers?",
-            "answer": "No",
-            "from": "ICML2023/Calls/Call For Workshops/Submission format/matter need attention"
-        }
-    ]
-}
+[
+    {
+        "question": "Do I need to submit code with paper?",
+        "answer": "No,Authors are encouraged to submit code to foster reproducibility.",
+        "from": "ICML2023/Calls/Call For Papers/.Author Instructions/Submissions/instructions"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "Yes",
+        "from": "ICML2023/Calls/Call For Workshops/2023 accepted workshopsworkshops"
+    },
+    {
+        "question": "Is there any page limit of the manuscript?",
+        "answer": "Yes.Submitted papers are composed of a main body, which can be up to eight pages long, followed by unlimited pages for references and an appendix, all in a single file. Note that upon the acceptance of the paper, ICML will publish the submission as a whole: That is, the camera ready version will include the appendices (and references). For details concerning the format of the papers, please see the LaTeX style files, an example paper, and the Call For Papers. There is no support for any software other than LaTeX. All submissions must be via OpenReview, anonymized, and must closely follow the formatting guidelines in the templates; otherwise, they will automatically be rejected. In particular, any submission whose main body goes over the 8 page limit will be automatically rejected.",
+        "from": "ICML2023/Calls/Call For Papers/Author InstructionsSubmissions"
+    },
+    {
+        "question": "How can I contact the Tutorial Chairs if I submit tutorial proposals?",
+        "answer": "You can contact the Tutorial Chairs at tutorial@icml.cc",
+        "from": "ICML2023/Calls/Call For Tutorials"
+    },
+    {
+        "question": "Does the submission only need to be accessible to experts?",
+        "answer": "No,Authors are kindly asked to make their submissions as accessible as possible for everyone including people with disabilities and sensory or neurological differences.",
+        "from": "ICML2023/Calls/Call For Papers/Policies/notices"
+    },
+    {
+        "question": "Is the number of reviewers for every article fixed?",
+        "answer": "No",
+        "from": "ICML2023/Calls/Call For Papers/Author Instructions/Miscellaneous information related to the author feedback and reviews/introductions"
+    },
+    {
+        "question": "Are accepted papers at the conference contributed by the sponsor?",
+        "answer": "No,they are contributed by exhibitors",
+        "from": "ICML2023/Year(2023)/Exhibitors/introduction"
+    },
+    {
+        "question": "Was ICML conference first held in 1983?",
+        "answer": "Yes",
+        "from": "ICML2023/Year (2023)/Exhibitors.introduction"
+    },
+    {
+        "question": "Is Apple one of the exhibitors at this conference?",
+        "answer": "Yes",
+        "from": "ICML2023/Year(2023)/Exhibitors/2023 Exhibitors/Platinum"
+    },
+    {
+        "question": "Are only academic researchers at ICML conference?",
+        "answer": "No",
+        "from": "ICML2023/Help/About ICML"
+    },
+    {
+        "question": "Can I be reached by the username of the conference account?",
+        "answer": "Yes,because the username is email address",
+        "from": "ICML2023/Help/Create an Account"
+    },
+    {
+        "question": "Which journal(s) are eligible?",
+        "answer": "only JMLR",
+        "from": "ICML2023/Journal to ConferenceTrack/Eligibility"
+    },
+    {
+        "question": "Can the article include disability issues?",
+        "answer": "Yes",
+        "from": "ICML2023/Calls/Call For Papers/Accessiblity Instructions/Papers/Inclusive Language/Use inclusive and respectful language throughout your paper"
+    },
+    {
+        "question": "Does ICML2023 provide free travel for workshop speakers?",
+        "answer": "No",
+        "from": "ICML2023/Calls/Call For Workshops/Submission format/matter need attention"
+    },
+    {
+        "question": "Is there an online submission process for the ICML2023 conference?",
+        "answer": "Yes, the abstracts and papers can be submitted online through OpenReview.",
+        "from": "ICML2023>>Calls>>Call For Papers>>Abstracts and papers can be submitted through OpenReview"
+    },
+    {
+        "question": "When does early pricing end for ICML2023?",
+        "answer": "June 17, 2023, 2:59 p.m. pacific time",
+        "from": "ICML2023>>Year(2023)>>Registration>>Pricing>>Visa information for physical or hybrid conferences "
+    },
+    {
+        "question": "Is there an opportunity for some tutorial presenters to have their travel and conference costs reimbursed?",
+        "answer": "Yes, ICML may be able to partially reimburse travel, lodging, and conference costs for tutorial presenters who would otherwise not be able to attend the conference.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    },
+    {
+        "question": "Should the tutorial cover only the presenters own results and tools?",
+        "answer": "No, it's encouraged for the presenters to demonstrate coverage and representativeness of the chosen research area, and not to focus solely on their own results or tools.",
+        "from": "ICML2023>>Calls>>Call For Tutorials>>Tutorial proposals should answer the following questions"
+    }
+]
