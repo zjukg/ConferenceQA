@@ -89,6 +89,7 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 <p align="center">
     <a href="https://github.com/zjukg/ConferenceQA/tree/main"> <img src="figures/method.png"/></a>
 <p>
+
 ## 使用方法
 
 ### 安装依赖
