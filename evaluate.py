@@ -2,7 +2,6 @@ import tqdm
 import logging
 import pytrec_eval
 from typing import Dict, List, Tuple
-from custom_metric import mrr, recall_cap, hole, top_k_accuracy
 from utils.api_request_parallel_processor import run
 import string
 import collections
