@@ -4,7 +4,9 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 
 ## 数据集的收集方法
 
-![](figures/data_construction.png)
+<p align="center">
+    <a href="https://github.com/zjukg/ConferenceQA/tree/main"> <img src="figures/data_construction.png"/></a>
+<p>
 
 ### 构建半结构化数据
 为了构建ConferenceQA数据集，我们采取了手动和自动化的方法，将官方学术会议网站上的数据转换为半结构化的JSON格式。每个页面的标题作为JSON数据中的键或值的一部分，形成一种树状结构，以反映页面间的嵌套和并行关系。对于页面上的非结构化内容，如纯文本和小标题，我们将小标题作为路径提取，并将对应的内容作为值；同时为了增加粒度多样性，我们还对纯文本进行了更细致的分割。会议中结构化内容，如表格信息，我们通过网络爬虫获取并转换为对应页面路径下的半结构化数据。这样，我们最终得到了7个以半结构化JSON形式组织的会议数据集，它们可以作为准确可靠的知识库使用。
@@ -64,11 +66,11 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
                     "affiliation": "LIX, Ecole Polytechnique"
                 }
             ],
-          ...
-        }
-      ...
-    }
-  ...
+          "..."
+        },
+      "..."
+    },
+  "..."
 }
 ```
 
@@ -83,8 +85,10 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 ## 结构感知方法
 
 我们设计了一种融合结构信息和语言信息的方法，以更好地处理学术会议问答任务。主要方法是利用gpt生成文本描述，并针对生成的文本描述进行不同的组合设计，下面是这个方法的示例图，具体方法和实验结果可阅读我们的[论文](https://arxiv.org/abs/2310.13028)：
-![](figures/method.png)
 
+<p align="center">
+    <a href="https://github.com/zjukg/ConferenceQA/tree/main"> <img src="figures/method.png"/></a>
+<p>
 ## 使用方法
 
 ### 安装依赖
