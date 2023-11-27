@@ -1,3 +1,6 @@
+<p align="center">
+    <b> English | <a href="https://github.com/zjukg/ConferenceQA/blob/main/README.zh-CN.md">中文</a> </b>
+</p>
 # ConferenceQA
 
 ConferenceQA is a dataset created for the academic conference question-answering task, containing information from 7 different conferences organized in a semi-structured JSON format. Each conference comes with nearly 100 manually annotated question-answer pairs, categorized into four types based on the nature of the answers. The aim of this dataset is to enhance the capability of large language models in processing queries related to academic conferences, particularly in terms of knowledge accuracy, enabling researchers and developers to better study and develop in this area. For more details, please refer to our paper: [Reliable Academic Conference Question Answering: A Study Based on Large Language Model](https://arxiv.org/abs/2310.13028).

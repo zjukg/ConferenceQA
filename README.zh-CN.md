@@ -1,3 +1,6 @@
+<p align="center">
+    <b>中文 | <a href="https://github.com/zjukg/ConferenceQA/blob/main/README.md">English</a></b>
+</p>
 # ConferenceQA
 
 ConferenceQA是一个为学术会议问答任务而构建的数据集，它包含了7个不同会议信息并以半结构化的JSON格式组织，每个会议配有近100个人工注释的问答对，每个问答对根据回答的类型分成了四类。此数据集的目的是为了增强大型语言模型处理学术会议相关查询的能力，尤其是在知识准确性方面，以便研究人员和开发者更好地在这个方向上进行研究。具体可阅读我们的论文[Reliable Academic Conference Question Answering: A Study Based on Large Language Model](https://arxiv.org/abs/2310.13028)。
