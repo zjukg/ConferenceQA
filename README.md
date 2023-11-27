@@ -1,36 +1,36 @@
 # ConferenceQA
 
-ConferenceQA是一个为学术会议问答任务而构建的数据集，它包含了7个不同会议信息并以半结构化的JSON格式组织，每个会议配有近100个人工注释的问答对，每个问答对根据回答的类型分成了四类。此数据集的目的是为了增强大型语言模型处理学术会议相关查询的能力，尤其是在知识准确性方面，以便研究人员和开发者更好地在这个方向上进行研究。具体可阅读我们的论文[Reliable Academic Conference Question Answering: A Study Based on Large Language Model](https://arxiv.org/abs/2310.13028)。
+ConferenceQA is a dataset created for the academic conference question-answering task, containing information from 7 different conferences organized in a semi-structured JSON format. Each conference comes with nearly 100 manually annotated question-answer pairs, categorized into four types based on the nature of the answers. The aim of this dataset is to enhance the capability of large language models in processing queries related to academic conferences, particularly in terms of knowledge accuracy, enabling researchers and developers to better study and develop in this area. For more details, please refer to our paper: [Reliable Academic Conference Question Answering: A Study Based on Large Language Model](https://arxiv.org/abs/2310.13028).
 
-## 数据集的收集方法
+## Data Collection Method
 
 <p align="center">
     <a href="https://github.com/zjukg/ConferenceQA/tree/main"> <img src="figures/data_construction.png"/></a>
 <p>
 
-### 构建半结构化数据
-为了构建ConferenceQA数据集，我们采取了手动和自动化的方法，将官方学术会议网站上的数据转换为半结构化的JSON格式。每个页面的标题作为JSON数据中的键或值的一部分，形成一种树状结构，以反映页面间的嵌套和并行关系。对于页面上的非结构化内容，如纯文本和小标题，我们将小标题作为路径提取，并将对应的内容作为值；同时为了增加粒度多样性，我们还对纯文本进行了更细致的分割。会议中结构化内容，如表格信息，我们通过网络爬虫获取并转换为对应页面路径下的半结构化数据。这样，我们最终得到了7个以半结构化JSON形式组织的会议数据集，它们可以作为准确可靠的知识库使用。
+### Building Semi-Structured Data
 
-### 构建问答对
-在创建ConferenceQA数据集的问答对时，我们结合了人工和自动化的方法，以确保每个问题都能反映人们在现实场景中可能提出的疑问。我们首先利用ChatGPT生成20个虚构研究人员的人物画像，包括年龄、研究方向、职位、历史发表论文和会议参与经验等细节。然后，使用prompt让ChatGPT代入每个角色并就每个会议提出五个不同粒度的问题，覆盖不同背景的角色对会议的兴趣或不确定性。最后，通过手动审核过滤重复或过于复杂的问题，并添加更具广泛性和多样性的问题。接着，我们根据半结构化的JSON数据手动标注答案，并为问答对中的每个答案注明来源，即答案在学术会议JSON数据中的位置，以确保数据集的可靠性。
+To construct the ConferenceQA dataset, we employed both manual and automated methods to convert data from official academic conference websites into a semi-structured JSON format. Each page title was used as part of a key or value in the JSON data, forming a tree-like structure to reflect the nesting and parallel relationships between pages. For unstructured content on the pages, such as plain text and subtitles, we extracted subtitles as paths and stored corresponding contents as values. To increase granularity diversity, we also finely segmented the plain text. Structured content like tables was obtained through web scraping and converted into semi-structured data under respective page paths. As a result, we obtained 7 conference datasets in semi-structured JSON format, serving as reliable knowledge bases.
 
-### 问答对分类
-为了评估模型回答不同难度问题的能力，我们设计了一个分类方案来区分问答对。这个分类主要基于两个方面：生成答案的过程以及生成正确答案所涉及的条目数量。
+### Building Question-Answer Pairs
 
-第一个维度是"extraction"或"reasoning"，它考虑生成答案的过程。
-- extraction：答案可以直接从数据集中提取，即答案是数据集中的文本片段；
-- reasoning：模型需要先进行推理然后生成答案，即相应答案不是数据集中的文本。
+In creating question-answer pairs for the ConferenceQA dataset, we combined manual and automated methods to ensure each question reflects realistic inquiries people might have. First, we used ChatGPT to generate personas for 20 fictitious researchers, detailing their age, research fields, positions, publication history, and conference participation experience. Then, ChatGPT was prompted to ask five different granularity questions per conference for each persona, covering the varied interests or uncertainties of characters from different backgrounds. After manually filtering out repetitive or overly complex questions, we added more generalized and diverse questions. Subsequently, we manually annotated answers based on the semi-structured JSON data, specifying the source of each answer in the dataset, i.e., its location in the academic conference JSON data, to ensure the dataset's reliability.
 
-第二个维度是"atomic"或"complex"，主要考虑生成正确答案所涉及的条目数量。
-- atomic：答案的生成仅需要来自单个条目的信息；
-- complex： 答案的生成需要多个条目的信息
+### Categorizing Question-Answer Pairs
 
-以上两个维度结合形成从简单到困难的四个类别：extraction atomic、extraction complex、reasoning atomic、reasoning complex。这一分类用于测试模型在不同复杂度和推理要求下的问答能力。
+To assess the model's ability to answer questions of varying difficulty, we designed a categorization scheme based on two aspects: the process of generating the answer and the number of entries involved in generating the correct answer.
 
-## 数据内容
+The first dimension is *extraction* or *reasoning*, considering the process of generating an answer.
+- *extraction*: The answer can be directly extracted from the dataset, i.e., the answer is a text fragment from the dataset.
+- *reasoning*: The model needs to reason first and then generate an answer, i.e., the corresponding answer is not a text from the dataset.
 
-下面是WWW2023的json数据的部分内容：
+The second dimension is *atomic* or *complex*, mainly considering the number of entries involved in generating the correct answer.
+- *atomic*: Generating the answer only requires information from a single entry.
+- *complex*: Generating the answer requires information from multiple entries.
+These two dimensions combine to form four categories from simple to difficult: *extraction atomic*, *extraction complex*, *reasoning atomic*, *reasoning complex*. This classification is used to test the model's question-answering ability under different complexities and reasoning requirements.
 
+## Data Content
+Here is a part of the JSON data for WWW2023:
 ```json
 {
     "WWW2023": {
@@ -74,7 +74,7 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 }
 ```
 
-下面是其对应的一个QA pair，以及答案在json中的路径：
+Here is a corresponding QA pair and the path of the answer in the JSON:
 ```json
 {
     "question": "What is the date of the WWW2023 conference?", 
@@ -82,36 +82,35 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
     "from": "WWW2023/Home/date"
 },
 ```
-## 结构感知方法
 
-我们设计了一种融合结构信息和语言信息的方法，以更好地处理学术会议问答任务。主要方法是利用gpt生成文本描述，并针对生成的文本描述进行不同的组合设计，下面是这个方法的示例图，具体方法和实验结果可阅读我们的[论文](https://arxiv.org/abs/2310.13028)：
+## Structure-Aware Method
+
+We designed a method that integrates structural and linguistic information to better handle the academic conference question-answering task. The primary approach is to generate text descriptions using GPT and design different combinations for the generated text descriptions. Below is an illustrative diagram of this method, and for more details on the method and experimental results, please refer to our [paper](https://arxiv.org/abs/2310.13028):
 
 <p align="center">
     <a href="https://github.com/zjukg/ConferenceQA/tree/main"> <img src="figures/method.png"/></a>
-<p>
+<p> 
 
-## 使用方法
+## Usage
+### Installing Dependencies
+To install the dependencies for the project, follow these steps:
 
-### 安装依赖
-
-要安装项目的依赖，你需要使用以下步骤：
-
-1. **下载项目代码：** 打开终端并导航到你想要保存项目的目录。然后使用Git克隆项目的仓库。
+1. **Download the Project Code:** Open a terminal and navigate to the directory where you want to save the project. Then use Git to clone the repository of the project.
 
     ```bash
     git clone https://github.com/zjukg/ConferenceQA.git
     ```
 
-2. **安装依赖：** 进入项目目录并使用pip安装requirements.txt文件中列出的依赖项。
+2. **Install Dependencies:** Enter the project directory and use pip to install the dependencies listed in the requirements.txt file.
 
     ```bash
     cd your_repository
     pip install -r requirements.txt
     ```
 
-### 修改openai api key 
+### Modify OpenAI API Key 
 
-进入utils/gpt.py文件中，在下面这个函数下面对应位置填上两个api key
+Go to the gpt.py file in the utils directory, and fill in the two API keys in the corresponding positions under this function:
 ```python
 def get_api_key(idx: int = 0):
     if idx == 0:
@@ -122,8 +121,7 @@ def get_api_key(idx: int = 0):
         pass
 ```
 
-
-## 文件结构
+## File Structure
 
 ```
 ConferenceQA/
@@ -158,14 +156,15 @@ ConferenceQA/
 └── requirements.txt                          # 项目依赖文件
 ```
 
-## 联系方式
-如果有问题，请通过以下方式联系项目维护者：
+## Contact Information
 
-邮箱: huangzww@zju.edu.cn
+If you have any questions, please contact the project maintainers through the following method:
 
-## 论文引用
+Email: huangzww@zju.edu.cn
 
-我们欢迎其他研究者引用我们的论文，并请在引用时包含完整的引用信息：
+## Paper Citation
+
+We welcome other researchers to cite our paper, and please include the complete citation information when referencing:
 ```bibtex
 @article{huang2023reliable,
   title={Reliable Academic Conference Question Answering: A Study Based on Large Language Model},
@@ -173,3 +172,4 @@ ConferenceQA/
   journal={arXiv preprint arXiv:2310.13028},
   year={2023}
 }
+
