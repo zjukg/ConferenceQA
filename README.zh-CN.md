@@ -165,7 +165,7 @@ ConferenceQA/
 如果有问题，请通过以下方式联系项目维护者：
 
 邮箱: huangzww@zju.edu.cn
-
+<!--
 ## 论文引用
 
 我们欢迎其他研究者引用我们的论文，并请在引用时包含完整的引用信息：
@@ -176,3 +176,4 @@ ConferenceQA/
   journal={arXiv preprint arXiv:2310.13028},
   year={2023}
 }
+-->
