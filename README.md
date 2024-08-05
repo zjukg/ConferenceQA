@@ -164,7 +164,7 @@ ConferenceQA/
 If you have any questions, please contact the project maintainers through the following method:
 
 Email: huangzww@zju.edu.cn
-
+<!--
 ## Paper Citation
 
 We welcome other researchers to cite our paper, and please include the complete citation information when referencing:
@@ -175,4 +175,5 @@ We welcome other researchers to cite our paper, and please include the complete 
   journal={arXiv preprint arXiv:2310.13028},
   year={2023}
 }
+-->
 
